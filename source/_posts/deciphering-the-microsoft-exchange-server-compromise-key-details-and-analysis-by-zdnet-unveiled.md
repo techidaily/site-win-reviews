@@ -1,7 +1,7 @@
 ---
 title: "Deciphering the Microsoft Exchange Server Compromise: Key Details and Analysis by ZDNet Unveiled"
-date: 2024-09-19 23:53:49
-updated: 2024-09-20 11:18:59
+date: 2024-09-20T16:10:26.154Z
+updated: 2024-09-23T16:40:28.871Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -121,6 +142,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
@@ -159,11 +187,33 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-basics-of-dynamic-media-artistry/"><u>[New] 2024 Approved The Basics of Dynamic Media Artistry</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-lava-blaze-2-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Lava Blaze 2 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/m4a-m4b/"><u>移動維予 M4A 到 M4B 自由下載 - 無間隙 影片格式轉換</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/aac-and-aiff-web/"><u>AAC & AIFF 쉘을 바꾸기 - 오픈소스 Web 도구</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-oneplus-ace-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/conversion-gratuite-de-videos-3gp-a-ligne-haute-definition-avec-movavi/"><u>Conversion Gratuite De Vidéos 3GP À Ligne Haute Définition Avec Movavi</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/digital-sound-transformer-seamlessly-change-your-audio-tracks-into-mp3wma-and-others/"><u>Digital Sound Transformer - Seamlessly Change Your Audio Tracks Into MP3/WMA & Others</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/explore-the-full-spectrum-of-movavis-multimedia-tools-for-ultimate-creativity/"><u>Explore the Full Spectrum of Movavi's Multimedia Tools for Ultimate Creativity</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-world-of-computers-with-tom-a-comprehensive-guide-on-tech-hardware/"><u>Exploring the World of Computers with Tom - A Comprehensive Guide on Tech Hardware</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/fast-und-effiziente-konvertierung-von-mkv-zu-hevch265-gunstig-and-hochauflosend/"><u>Fast Und Effiziente Konvertierung Von MKV Zu HEVC/H.265 - Günstig & Hochauflösend!</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/free-online-converter-change-mp4-files-to-wav-format-with-movavi/"><u>Free Online Converter: Change MP4 Files to WAV Format with Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/getting-the-newest-software-updates-for-your-canon-mg3600/"><u>Getting the Newest Software Updates for Your Canon MG3600</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/gratuito-conversor-online-de-imagens-em-formato-mpeg-e-3g2-pelo-movavi/"><u>Gratuito Conversor Online De Imagens Em Formato MPEG E 3G2 Pelo Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-spark-20c-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Spark 20C to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/in-depth-guide-to-diagnose-and-repair-driver-power-errors-on-windows-computers/"><u>In-Depth Guide to Diagnose and Repair Driver Power Errors on Windows Computers</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/1726224186579-movmp4-movavi/"><u>MOVファイルをMP4に自由に変換できるオンラインサービス: Movavi</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/refusjonsrefleks-grundleggende-tiltak-som-skal-legges-i-veien-ut/"><u>Refusjonsrefleks - Grundleggende Tiltak Som Skal Legges I Veien Ut</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-art-of-directly-posting-tiktok-videos-on-facebook/"><u>The Art of Directly Posting TikTok Videos on Facebook</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-powerpoints-voice-command-capabilities-step-by-step/"><u>Unveiling PowerPoint's Voice Command Capabilities Step by Step</u></a></li>
+</ul></div>
+

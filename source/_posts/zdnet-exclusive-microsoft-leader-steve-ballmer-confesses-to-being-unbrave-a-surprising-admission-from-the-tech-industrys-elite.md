@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: Microsoft Leader Steve Ballmer Confesses to Being Unbrave – A Surprising Admission From the Tech Industry's Elite"
-date: 2024-09-17 19:49:40
-updated: 2024-09-20 12:46:15
+date: 2024-09-20T16:46:05.687Z
+updated: 2024-09-23T16:26:34.522Z
 tags:
   - microsoft
 categories:
@@ -105,11 +105,39 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/mart-money-making-on-youtube-shorts-for-2024/"><u>[New] Smart Money-Making on Youtube Shorts for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-learn-basic-video-editing-on-vimeo-at-no-cost/"><u>[Updated] Learn Basic Video Editing on Vimeo at No Cost</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/conversion-gratuite-de-videos-3gp-a-ligne-haute-definition-avec-movavi/"><u>Conversion Gratuite De Vidéos 3GP À Ligne Haute Définition Avec Movavi</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/digital-sound-transformer-seamlessly-change-your-audio-tracks-into-mp3wma-and-others/"><u>Digital Sound Transformer - Seamlessly Change Your Audio Tracks Into MP3/WMA & Others</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/explore-the-full-spectrum-of-movavis-multimedia-tools-for-ultimate-creativity/"><u>Explore the Full Spectrum of Movavi's Multimedia Tools for Ultimate Creativity</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/free-online-converter-change-mp4-files-to-wav-format-with-movavi/"><u>Free Online Converter: Change MP4 Files to WAV Format with Movavi</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-nubia-red-magic-9-proplus-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Nubia Red Magic 9 Pro+</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-tecno-spark-20-pro-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Tecno Spark 20 Pro Phone?</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/refusjonsrefleks-grundleggende-tiltak-som-skal-legges-i-veien-ut/"><u>Refusjonsrefleks - Grundleggende Tiltak Som Skal Legges I Veien Ut</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722958591101-seamlessly-update-graphics-with-free-intel-82v-82579-driver-software-download-today/"><u>Seamlessly Update Graphics with Free Intel 82^V 82579 Driver Software – Download Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-steps-for-lenovos-stuck-fn-key-fast-and-simple-fixes/"><u>Solution Steps for Lenovo's Stuck FN Key - Fast and Simple Fixes!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-ultimate-trick-to-share-igtv-in-stories-for-2024/"><u>The Ultimate Trick to Share IGTV in Stories for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

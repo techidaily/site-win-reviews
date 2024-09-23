@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis of the Keychron Q5 Mechanical Keyboard: Balancing Advanced Features with Cost - Insights From ZDNet"
-date: 2024-09-18 20:17:46
-updated: 2024-09-20 10:41:31
+date: 2024-09-17T16:16:15.700Z
+updated: 2024-09-23T16:43:27.691Z
 tags:
   - office-furniture
 categories:
@@ -60,11 +60,25 @@ The keyboard has several layers, including the bottom aluminum case, silicone ga
 
 The keys are set at a 5.3-degree angle, and the bottom case is not adjustable. I use a [Keychron wooden palm rest](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWalnut-Keychron-Bluetooth-Mechanical-Keyboard%2Fdp%2FB07Y84SP8G%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C17ca5000-3920-46d3-a543-7da2bfe350bc%7Cdtp&dtb=1) since the keyboard is quite tall at the front, 30.9 mm with keycaps installed. The back height is 42.8 mm with the keycaps. The keyboard is 390.5 mm in length and 145 mm in width.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Keyboard software
 
 The model I tested includes the knob, and by default, the knob works to control volume with a press-in of the knob toggling mute on and off. You can reprogram the knob to perform other actions, such as zoom in and out, adjust the screen brightness, and more. In addition to downloading and installing the free VIA software, you also need to download the appropriate keymap JSON file from the Keychron website. Once this is set up, then you can set the macro for the knob in addition to mapping other keys as you desire.
 
 Four layers of key settings are provided with layers 0/1 assigned to MacOS and layers 2/3 assigned to Windows. You can customize shortcuts, backlight effects, and a lot more with the software, so spend some time setting the keyboard up, so it works best for your needs.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Switch options
 
@@ -82,11 +96,25 @@ The retail package includes the keyboard, keycap puller, switch puller, screwdri
 
 [Keychron Q5 Keyboard $205 at Keychron](https://www.keychron.com/products/keychron-q5-qmk-custom-mechanical-keyboard?variant=40010452271193)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Daily usage experiences and conclusion
 
 The Keychron Q5 keyboard is available in a barebones model for $175 up to a fully assembled model with a knob for $205\. ISO models are available too, with three color and three switch options to choose from.
 
 Keychron also has a new double gasket design in the Q5 that adds gaskets and silicone pads to reduce the sound resonance between the metals and reduce other sounds while supporting the overall typing sound. It's tough to find anything wrong with the keyboard, and spending $200 for a high-quality keyboard that helps you enter text quickly and efficiently is worth it to me.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Alternatives to consider
 
@@ -119,11 +147,28 @@ The Keychron Q5 keyboard is a near-perfect keyboard for many people, but if you 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-stock-strategies-unveiled-essential-youtube-video-resources/"><u>[New] 2024 Approved Stock Strategies Unveiled Essential YouTube Video Resources</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-a-brief-guide-to-kickstarting-conversations-on-instagram-for-2024/"><u>[Updated] A Brief Guide to Kickstarting Conversations on Instagram for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-essential-guide-to-preserving-screen-chats/"><u>[Updated] Essential Guide to Preserving Screen Chats</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-powerdirector-app-2024-in-depth-review-and-step-by-step-guide/"><u>[Updated] PowerDirector App 2024 In-Depth Review & Step-by-Step Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-ultimate-guide-to-maximum-fitness-mac-recordings-for-snapchat/"><u>[Updated] Ultimate Guide to Maximum Fitness Mac Recordings for Snapchat</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/bekijk-ons-beste-oplossingen-voor-windows-movie-maker-ontdek-movavi-video-editor/"><u>Bekijk Ons Beste Oplossingen Voor Windows Movie Maker: Ontdek Movavi Video Editor</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/conversion-voc-avi-sin-costos-guia-expertos-para-usar-movavi-en-linea/"><u>Conversión VOC-AVI Sin Costos: Guía Expertos Para Usar Movavi en Línea</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-espnpluss-features-how-the-online-sports-streaming-services-function/"><u>Exploring ESPN+'s Features: How the Online Sports Streaming Services Function</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/transformacion-libre-de-mp4-a-mov-online-por-movavi-guia-paso-a-paso/"><u>Transformación Libre De MP4 a MOV Online Por Movavi: Guía Paso a Paso</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/trasforma-i-tuoi-file-m4b-direttamente-in-formato-wma-gratuitamente-con-convertimp3/"><u>Trasforma I Tuoi File M4B Direttamente in Formato WMA Gratuitamente Con ConvertiMp3</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-operating-software-via-network-drivers/"><u>Upgrade Operating Software via Network Drivers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/wintry-wonderland-olympic-moments-from-beijing-2022/"><u>Wintry Wonderland Olympic Moments From Beijing 2022</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726027251381-youtube/"><u>YouTube動画のオフライン鑑賞手順：パソコン向けガイド</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/asf-mp4-movavi/"><u>무세애비 가격에 ASF를 MP4로 바꾸기 - Movavi의 안내서</u></a></li>
+</ul></div>
+
