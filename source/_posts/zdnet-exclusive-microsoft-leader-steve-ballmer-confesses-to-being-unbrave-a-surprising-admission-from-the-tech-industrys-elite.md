@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: Microsoft Leader Steve Ballmer Confesses to Being Unbrave – A Surprising Admission From the Tech Industry's Elite"
-date: 2024-09-20T16:46:05.687Z
-updated: 2024-09-23T16:26:34.522Z
+date: 2024-09-21T18:27:03.407Z
+updated: 2024-09-28T05:07:02.255Z
 tags:
   - microsoft
 categories:
@@ -112,18 +112,31 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-social-image-hoarders-manual-a-guide-to-downloading-and-keeping-gif-images/"><u>[Updated] In 2024, The Social Image Hoarder's Manual A Guide to Downloading and Keeping GIF Images</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/te-your-online-presence-choosing-the-right-webcam/"><u>Elevate Your Online Presence Choosing the Right Webcam</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-enhance-boot-performance-for-your-windows-11-computer/"><u>How to Enhance Boot Performance for Your Windows 11 Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-apple-iphone-14-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 14 Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transformative-strategies-for-podcast-rankings-and-visibility/"><u>In 2024, Transformative Strategies for Podcast Rankings and Visibility</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/is-integrating-android-with-windows-11-a-smart-move-find-out-why-and-how-insights-from-zdnet/"><u>Is Integrating Android with Windows 11 a Smart Move? Find Out Why and How! - Insights From ZDNet</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/latest-updates-to-windows-11-introduce-streamlined-file-sharing-with-android-and-accelerated-voice-dictation-capabilities-zdnet/"><u>Latest Updates to Windows 11 Introduce Streamlined File Sharing with Android and Accelerated Voice Dictation Capabilities | ZDNET</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oneplus-ace-2-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your OnePlus Ace 2 Device</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/microsoft-addresses-concerns-amidst-ongoing-debate-over-its-disruptive-recall-functionality-persistent-privacy-issues/"><u>Microsoft Addresses Concerns Amidst Ongoing Debate Over Its Disruptive Recall Functionality - Persistent Privacy Issues</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/microsoft-silently-ends-hopes-for-windows-10-lifeline-no-more-support-planned-tech-news-by-zdnet/"><u>Microsoft Silently Ends Hopes for Windows 10 Lifeline; No More Support Planned | Tech News by ZDNet</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/must-have-vs-must-avoid-selecting-the-top-12-persistent-windows-programs-and-excluding-erryday-with-tips-by-zdnet/"><u>Must-Have Vs. Must-Avoid: Selecting the Top 12 Persistent Windows Programs & Excluding Erryday, with Tips by ZDNet.</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/securing-your-shared-windows-pc-with-robust-password-policies-techadvisor/"><u>Securing Your Shared Windows PC with Robust Password Policies | TechAdvisor</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/simplify-your-cross-platform-experience-microsoft-enhances-file-transfer-between-pc-and-phone-digital-trends/"><u>Simplify Your Cross-Platform Experience: Microsoft Enhances File Transfer Between PC and Phone | Digital Trends</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/speed-up-app-closure-on-windows-11-with-this-secret-configuration-trick-spotted-by-tech-experts-at-zdnet/"><u>Speed Up App Closure on Windows 11 with This Secret Configuration Trick - Spotted by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-motivational-lens-capturing-stirring-scenes-on-ig-for-2024/"><u>The Motivational Lens Capturing Stirring Scenes on IG for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/vlc-guide-mastering-the-art-of-screen-recording-tips-and-tricks/"><u>VLC Guide: Mastering the Art of Screen Recording - Tips & Tricks</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

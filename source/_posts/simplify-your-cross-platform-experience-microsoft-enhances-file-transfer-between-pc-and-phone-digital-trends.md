@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Cross-Platform Experience: Microsoft Enhances File Transfer Between PC and Phone | Digital Trends"
-date: 2024-09-19T16:28:43.955Z
-updated: 2024-09-23T16:15:57.645Z
+date: 2024-09-26T22:12:29.222Z
+updated: 2024-09-28T04:03:08.895Z
 tags:
   - windows
 categories:
@@ -34,10 +34,10 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Create a new folder
@@ -45,6 +45,19 @@ Screenshot by Lance Whitney/ZDNET
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -67,13 +80,6 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
@@ -91,18 +97,18 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -111,10 +117,10 @@ To change the icon from the generic folder image, right-click on it and select P
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
@@ -154,5 +160,24 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-legitimate-strategies-to-amass-over-a-million-youtube-views/"><u>[New] Legitimate Strategies to Amass Over a Million YouTube Views</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/railblazer-in-photo-music-fusion-crafting-for-2024/"><u>[New] Trailblazer in Photo-Music Fusion Crafting for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-future-of-photography-at-your-fingertips-with-samsung/"><u>[Updated] 2024 Approved The Future of Photography at Your Fingertips with Samsung</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-free-video-conferencing-software-showcase-best-10-picks-for-commercial-use-and-learning-environments/"><u>[Updated] Free Video Conferencing Software Showcase Best 10 Picks for Commercial Use & Learning Environments</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-creating-compelling-visual-collections-from-single-images/"><u>[Updated] In 2024, Creating Compelling Visual Collections From Single Images</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-mastering-movie-aesthetics-through-color-grading-and-luts-for-2024/"><u>[Updated] Mastering Movie Aesthetics Through Color Grading and Luts for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-obs-studio-troubleshooting-app-crashes-on-windows-10-and-11/"><u>Fixing Obs Studio: Troubleshooting App Crashes on Windows 10 & 11</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/join-mirillis-lucrative-affiliate-network-boost-your-income-with-top-tier-products-and-services/"><u>Join Mirillis' Lucrative Affiliate Network: Boost Your Income with Top-Tier Products and Services!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/leading-11-ios-and-android-tools-for-professional-sound-engineering/"><u>Leading 11 iOS and Android Tools for Professional Sound Engineering</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/mastering-the-archive-how-to-save-and-transform-wayback-machine-videos-as-mp4-mov-avi-files/"><u>Mastering the Archive: How to Save and Transform Wayback Machine Videos as MP4, MOV, AVI Files</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/mp4-video-downloads-from-artistworks-save-your-favorite-lessons/"><u>MP4 Video Downloads From ArtistWorks - Save Your Favorite Lessons</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/simplify-video-consolidation-use-f4cross-to-unite-diverse-files-mp4-avi-wmv-flv-mov-into-one-file/"><u>Simplify Video Consolidation: Use F4Cross to Unite Diverse Files (MP4, AVI, WMV, FLV, MOV) Into One File</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/steps-to-convert-your-fpm-drawing-tutorials-into-popular-video-formats/"><u>Steps to Convert Your FPM Drawing Tutorials Into Popular Video Formats</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/transfer-learning-materials-from-artistworks-as-high-quality-mp4-files/"><u>Transfer Learning Materials From ArtistWorks as High-Quality MP4 Files</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-realme-narzo-n53-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Realme Narzo N53 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/ultimate-guide-mastering-screen-capture-in-windows-with-ease/"><u>Ultimate Guide: Mastering Screen Capture in Windows with Ease</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/xtube-content-saver-effortless-downloading-and-conversion-to-popular-file-types-mp4-avi-wmv-mov/"><u>XTube Content Saver: Effortless Downloading & Conversion to Popular File Types (MP4, AVI, WMV, MOV)</u></a></li>
+</ul></div>
 
