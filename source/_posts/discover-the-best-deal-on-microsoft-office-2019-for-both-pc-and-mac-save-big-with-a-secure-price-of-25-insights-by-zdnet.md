@@ -1,7 +1,7 @@
 ---
 title: "Discover the Best Deal on Microsoft Office 2019 for Both PC and Mac: Save Big with a Secure Price of $25 | Insights by ZDNET"
-date: 2024-09-24T19:46:42.539Z
-updated: 2024-09-27T17:28:26.732Z
+date: 2024-10-01T03:43:50.126Z
+updated: 2024-10-02T17:20:00.855Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +97,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -137,16 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -158,6 +151,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,22 +202,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-free-money-tips-for-reddit-novices-13-best-ways-for-2024/"><u>[New] Free Money Tips for Reddit Novices (13 Best Ways!) For 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-wired-versus-broadcasted-analyzing-wirecast-and-obs/"><u>[Updated] 2024 Approved Wired versus Broadcasted Analyzing Wirecast and OBS</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/crafting-memorable-brand-centric-flipbooks-using-flipbuilder-a-step-by-step-guide/"><u>Crafting Memorable Brand-Centric FlipBooks Using FlipBuilder – A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/discover-frame-styles-for-your-custom-inserts-flipbuildercom/"><u>Discover Frame Styles for Your Custom Inserts - FlipBuilder.com</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/effortless-navigation-switch-pages-in-understanding-with-flipbuilder/"><u>Effortless Navigation - Switch Pages in Understanding with FlipBuilder</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/exploring-book-creation-what-types-of-books-can-you-produce-using-the-flipoffice-software/"><u>Exploring Book Creation: What Types of Books Can You Produce Using the FlipOffice Software?</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/exploring-the-variety-of-delivery-styles-how-many-format-options-are-available-at-flipbuildercom/"><u>Exploring the Variety of Delivery Styles: How Many Format Options Are Available at FlipBuilder.com?</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/exporting-your-flipbuilder-theme-a-step-by-step-guide/"><u>Exporting Your FlipBuilder Theme: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/how-to-embed-mp3-audio-files-in-your-epub-or-interactive-pdfs-using-flipbuilder/"><u>How to Embed MP3 Audio Files in Your ePub or Interactive PDFs Using FlipBuilder</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/identifying-flip-builders-version-seal-on-post-purchase-output-publications/"><u>Identifying Flip Builder's Version Seal on Post-Purchase Output Publications</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-crafting-social-stardom-30-ingenious-tiktok-nicknames-to-consider/"><u>In 2024, Crafting Social Stardom 30 Ingenious TikTok Nicknames to Consider</u></a></li>
-<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Vivo Y27 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/laptoppc-editors-steer-clear-of-inshot/"><u>Laptop/PC Editors Steer Clear of Inshot</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-multifunctional-desktop-tools-a-guide-to-efficient-media-file-management/"><u>Mastering the Art of Multifunctional Desktop Tools: A Guide to Efficient Media File Management</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/upload-wisdom-tiktok-video-rights-and-compliance-guide/"><u>Upload Wisdom TikTok Video Rights & Compliance Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/window-brightness-prodigies-a-list-of-premier-tools-for-multiscreeners/"><u>Window Brightness Prodigies: A List of Premier Tools for Multiscreeners</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-expert-review-top-5-webcams-for-ultimate-visual-and-auditory-experience/"><u>[Updated] Expert Review Top 5 Webcams for Ultimate Visual & Auditory Experience</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-harmonious-hits-the-timeless-and-inescapable-tiktok-soundtracks-folk-pop-collaboration/"><u>[Updated] Harmonious Hits The Timeless and Inescapable TikTok Soundtracks (Folk-Pop Collaboration)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/conexants-high-definition-audio-driver-for-windows-11-success/"><u>Conexant's High Definition Audio Driver for Windows 11 Success</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-15-pro-max-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone 15 Pro Max Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhanced-data-protection-with-stellar-file-destructor-best-practices-for-windows-users/"><u>Enhanced Data Protection with Stellar File Destructor - Best Practices for Windows Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-smooth-performance-with-updated-targus-displays-compatible-with-win10-win8-and-win7/"><u>Ensure Smooth Performance with Updated Targus Displays - Compatible with Win10, Win8 & Win7</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y36-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/microsoft-silently-ends-hopes-for-windows-10-lifeline-no-more-support-planned-tech-news-by-zdnet/"><u>Microsoft Silently Ends Hopes for Windows 10 Lifeline; No More Support Planned | Tech News by ZDNet</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/must-have-vs-must-avoid-selecting-the-top-12-persistent-windows-programs-and-excluding-erryday-with-tips-by-zdnet/"><u>Must-Have Vs. Must-Avoid: Selecting the Top 12 Persistent Windows Programs & Excluding Erryday, with Tips by ZDNet.</u></a></li>
+<li><a href="https://fox-access.techidaily.com/premium-live-video-conferencing-systems-for-2024/"><u>Premium Live Video Conferencing Systems for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/revolutionize-your-network-with-netgears-ax8-mesh-extender-an-insightful-performance-breakdown/"><u>Revolutionize Your Network with Netgear's AX8 Mesh Extender - An Insightful Performance Breakdown</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/securing-your-shared-windows-pc-with-robust-password-policies-techadvisor/"><u>Securing Your Shared Windows PC with Robust Password Policies | TechAdvisor</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/simplify-your-cross-platform-experience-microsoft-enhances-file-transfer-between-pc-and-phone-digital-trends/"><u>Simplify Your Cross-Platform Experience: Microsoft Enhances File Transfer Between PC and Phone | Digital Trends</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/speed-up-app-closure-on-windows-11-with-this-secret-configuration-trick-spotted-by-tech-experts-at-zdnet/"><u>Speed Up App Closure on Windows 11 with This Secret Configuration Trick - Spotted by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/the-end-is-nigh-for-microsofts-paint-3d-program-understanding-the-consequences-for-current-enthusiasts-zdnet-analysis/"><u>The End Is Nigh for Microsoft's Paint 3D Program: Understanding the Consequences for Current Enthusiasts | ZDNet Analysis</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/transition-seamlessly-installing-linux-mint-instead-of-windows-on-your-desktop/"><u>Transition Seamlessly: Installing Linux Mint Instead of Windows on Your Desktop</u></a></li>
 </ul></div>
 

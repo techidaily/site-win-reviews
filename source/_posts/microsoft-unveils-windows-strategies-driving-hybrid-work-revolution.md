@@ -1,7 +1,7 @@
 ---
 title: Microsoft Unveils Windows Strategies Driving Hybrid Work Revolution
-date: 2024-09-20T17:45:46.373Z
-updated: 2024-09-27T21:20:00.042Z
+date: 2024-09-28T00:13:03.271Z
+updated: 2024-10-03T07:35:15.581Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +137,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -145,13 +152,6 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,18 +196,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-the-best-child-safe-cameras-for-first-time-vloggers-and-puddles-for-2024/"><u>[New] The Best Child-Safe Cameras For First-Time Vloggers & Puddles for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-scaling-up-your-social-media-presence-with-effective-strategies/"><u>[Updated] 2024 Approved Scaling Up Your Social Media Presence with Effective Strategies</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-quickprint-the-easy-guide-to-win-screen-snaps/"><u>[Updated] QuickPrint The Easy Guide to Win Screen Snaps</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-personalize-your-youtube-watch-experience-with-alerts-and-notes/"><u>2024 Approved Personalize Your Youtube Watch Experience with Alerts & Notes</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/choosing-the-ideal-task-management-tool-microsoft-to-do-vs-google-tasks-a-detailed-comparison/"><u>Choosing the Ideal Task Management Tool: Microsoft To Do Vs. Google Tasks - A Detailed Comparison</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/effortless-integration-of-wmv-files-with-final-cut-pro-expert-tips-and-tricks/"><u>Effortless Integration of WMV Files with Final Cut Pro - Expert Tips & Tricks</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/expert-verdict-on-the-most-durable-windows-tablets-with-built-in-stylus-zdnets-top-picks/"><u>Expert Verdict on the Most Durable Windows Tablets with Built-In Stylus - ZDNet's Top Picks!</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/microsoft-demonstrates-windows-role-in-shaping-hybrid-working-futures-zdnet/"><u>Microsoft Demonstrates Windows' Role in Shaping Hybrid Working Futures - ZDNet</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-spooler-service-activated-windows-7/"><u>Print Spooler Service Activated, Windows 7</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-on-linking-three-screens-to-one-laptopdesktop/"><u>Step-by-Step Tutorial on Linking Three Screens to One Laptop/Desktop</u></a></li>
-<li><a href="https://techtrends.techidaily.com/uncover-new-brain-teasing-challenges-for-iphoneipad-reminiscent-of-classics-like-the-room-myst/"><u>Uncover New Brain-Teasing Challenges for iPhone/iPad Reminiscent of Classics Like The Room, Myst</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/unlock-the-power-of-speech-recognition-navigating-voice-command-features-in-windows-11-insights-from-zdnet/"><u>Unlock the Power of Speech Recognition: Navigating Voice Command Features in Windows 11 - Insights From ZDNET</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-5-ways-to-record-streaming-audio-online-for-2024/"><u>[New] 5 Ways to Record Streaming Audio Online for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-clearshot-suite-high-quality-windows/"><u>[New] In 2024, ClearShot Suite - High-Quality Windows</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-step-by-step-guide-to-mastering-quantum-hdr-for-2024/"><u>[New] Step by Step Guide to Mastering Quantum HDR for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/complete-instructions-downloading-and-implementing-the-newest-soundmax-drivers-in-windows-environments/"><u>Complete Instructions: Downloading & Implementing the Newest SoundMAX Drivers in Windows Environments</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/explore-the-full-spectrum-of-movavis-multimedia-tools-for-ultimate-creativity/"><u>Explore the Full Spectrum of Movavi's Multimedia Tools for Ultimate Creativity</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/free-online-converter-change-mp4-files-to-wav-format-with-movavi/"><u>Free Online Converter: Change MP4 Files to WAV Format with Movavi</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/gratuito-conversor-online-de-imagens-em-formato-mpeg-e-3g2-pelo-movavi/"><u>Gratuito Conversor Online De Imagens Em Formato MPEG E 3G2 Pelo Movavi</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/guide-ultime-pour-le-telechargement-et-lutilisation-de-capcut-pour-les-utilisateurs-de-pc-sous-windows/"><u>Guide Ultime Pour Le Téléchargement Et L'utilisation De CapCut Pour Les Utilisateurs De PC Sous Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/movavi-vob/"><u>Movaviで簡単！ VOB転送を無料で行うオンラインツール</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/1726224186579-movmp4-movavi/"><u>MOVファイルをMP4に自由に変換できるオンラインサービス: Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/real-time-xbox-live-servers-are-they-operational-now/"><u>Real-Time Xbox Live Servers: Are They Operational Now?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-art-of-timestamped-media-on-the-gotube-platform-for-2024/"><u>The Art of Timestamped Media on the GoTube Platform for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/tips-to-prevent-frame-loss-during-real-time-broadcasts-with-obs-for-2024/"><u>Tips to Prevent Frame Loss During Real-Time Broadcasts with OBS for 2024</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/mkvaviwma-movavi/"><u>フリーウェブMKV/AVI動画WMAファイル変換ツール - Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Affordable Productivity Boost: Microsoft Office 2019 License Available for Windows & Mac, Only $25 Now – ZDNet Exclusive"
-date: 2024-09-26T21:08:09.377Z
-updated: 2024-09-27T23:06:39.859Z
+date: 2024-09-27T07:11:11.077Z
+updated: 2024-10-03T08:11:25.979Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -137,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,6 +141,13 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -196,21 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-accelerated-aesthetics-rapid-revamping-of-images-on-windows-photo-editor/"><u>[New] 2024 Approved Accelerated Aesthetics Rapid Revamping of Images on Windows Photo Editor</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-art-of-background-blur-in-modern-photography/"><u>[New] In 2024, The Art of Background Blur in Modern Photography</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-v30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/adding-audio-enhancements-to-your-ebook-with-flipbuilder-a-comprehensive-guide/"><u>Adding Audio Enhancements to Your eBook with FlipBuilder - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/adding-youtube-content-to-flipbook-projects-made-simple-with-flipbuilder-tutorial/"><u>Adding YouTube Content to FlipBook Projects Made Simple With FlipBuilder Tutorial</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/begin-with-an-overview-tailor-first-page-display-options-using-flipbuildercom-tools/"><u>Begin with an Overview: Tailor First-Page Display Options Using FlipBuilder.com Tools</u></a></li>
-<li><a href="https://win-blog.techidaily.com/cyberpunk-2077-issue-resolved-game-now-ready-to-play/"><u>Cyberpunk 2077 Issue Resolved: Game Now Ready To Play</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/desbloquea-tus-fotos-con-facilidad-instalacion-y-configuracion-de-movavi-photoeditor-pro-en-windows-steps-by-step/"><u>Desbloquea Tus Fotos Con Facilidad: Instalación Y Configuración De Movavi PhotoEditor Pro en Windows Steps by Step</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-infinix-zero-30-5g-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Infinix Zero 30 5G.</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-easy-effective-and-accurate-method-to-download-fb-gifs-anywhere/"><u>In 2024, Easy, Effective and Accurate Method to Download FB GIFs Anywhere</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-social-sync-how-to-add-friends-on-discord/"><u>In 2024, Social Sync How to Add Friends on Discord</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/movavinin-hd-video-cevrilmede-mp3-donusturucusu-video-mp3-donustirecek-konverteri/"><u>Movavi'nin HD Video Çevrilmede MP3 Dönüştürücüsü | Video-MP3 Dönüştirecek Konverteri</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/priprava-movavi-na-nahravani-interniho-zvuku-na-macu-otazky-a-odpovedi-8-uskalistu-radovanych/"><u>Příprava Movavi Na Nahrávání Interního Zvuku Na Macu: Otázky a Odpovědi, 8 Úskališťů Radovaných</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-cast-unable-to-locate-device-issue-in-windows-11-quick-fixes-and-explanations/"><u>Solving the 'Cast Unable to Locate Device' Issue in Windows 11 - Quick Fixes and Explanations</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/transferer-video-de-fichier-avi-au-format-mp4-sans-cout-service-facile-a-utiliser-de-movavi/"><u>Transférer Vidéo De Fichier AVI Au Format MP4 Sans Coût - Service Facile À Utiliser De Movavi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-attracting-eyes-with-these-6-video-genres/"><u>[New] Attracting Eyes with These 6 Video Genres</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-gonetflixgo-master-screenrecording-on-mac-with-ease-and-excellence/"><u>[New] In 2024, GoNetflixGo Master ScreenRecording on Mac, With Ease & Excellence</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-channel-flair-free-download-templates-for-2024/"><u>[Updated] Channel Flair Free Download Templates for 2024</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/combat-times-toll-on-your-old-computer-uncover-free-fixes-and-enhancements-for-enduring-windows-asterity-insights-by-zdnet/"><u>Combat Time's Toll on Your Old Computer: Uncover Free Fixes and Enhancements for Enduring Windows Asterity | Insights by ZDNET</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/exploring-why-windows-11-needs-tpm-chips-a-detailed-guide-from-zdnets-perspective/"><u>Exploring Why Windows 11 Needs TPM Chips: A Detailed Guide From ZDNet's Perspective</u></a></li>
+<li><a href="https://games-able.techidaily.com/find-your-perfect-setup-elite-gaming-chairs-reviewed-by-tech-experts-at-zdnet/"><u>Find Your Perfect Setup: Elite Gaming Chairs Reviewed by Tech Experts at ZDNET</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/how-to-find-out-your-video-card-type-and-ensure-optimal-driver-performance-with-ease/"><u>How to Find Out Your Video Card Type & Ensure Optimal Driver Performance with Ease!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-itel-a05s-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Itel A05s</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/introducing-the-new-era-of-learning-with-windows-11-se-how-top-pc-brands-are-revolutionizing-education-as-covered-by-zdnet/"><u>Introducing the New Era of Learning with Windows 11 SE: How Top PC Brands Are Revolutionizing Education, as Covered by ZDNET</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/is-integrating-android-with-windows-11-a-smart-move-find-out-why-and-how-insights-from-zdnet/"><u>Is Integrating Android with Windows 11 a Smart Move? Find Out Why and How! - Insights From ZDNet</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/latest-updates-to-windows-11-introduce-streamlined-file-sharing-with-android-and-accelerated-voice-dictation-capabilities-zdnet/"><u>Latest Updates to Windows 11 Introduce Streamlined File Sharing with Android and Accelerated Voice Dictation Capabilities | ZDNET</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/microsoft-addresses-concerns-amidst-ongoing-debate-over-its-disruptive-recall-functionality-persistent-privacy-issues/"><u>Microsoft Addresses Concerns Amidst Ongoing Debate Over Its Disruptive Recall Functionality - Persistent Privacy Issues</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/step-by-step-guide-to-setting-up-and-controlling-microsoft-accounts-for-household-use-zdnet/"><u>Step-by-Step Guide to Setting Up & Controlling Microsoft Accounts for Household Use - ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-top-free-4k-movies-player-picks-for-your-pc-with-windows-11-or-macos-system/"><u>The Top Free 4K Movies Player Picks for Your PC with Windows 11 or MacOS System</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-ultimate-guide-mastering-snapchats-call-and-chat-features/"><u>The Ultimate Guide Mastering Snapchat's Call & Chat Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-missing-piece-in-the-2020-samsung-galaxy-tab-a-in-depth-review-and-insights/"><u>Unveiling the Missing Piece in the 2020 Samsung Galaxy Tab A: In-Depth Review and Insights</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/virtual-vision-creation-shaping-a-humorous-self-portrait-for-2024/"><u>Virtual Vision Creation Shaping a Humorous Self-Portrait for 2024</u></a></li>
 </ul></div>
 

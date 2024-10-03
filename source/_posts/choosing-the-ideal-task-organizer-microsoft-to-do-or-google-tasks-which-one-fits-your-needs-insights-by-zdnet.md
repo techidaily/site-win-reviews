@@ -1,7 +1,7 @@
 ---
 title: "Choosing the Ideal Task Organizer: Microsoft To Do or Google Tasks – Which One Fits Your Needs? | Insights by ZDNet"
-date: 2024-09-25T00:09:25.410Z
-updated: 2024-09-28T06:47:49.906Z
+date: 2024-09-27T08:11:04.801Z
+updated: 2024-10-03T07:26:39.879Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,13 +136,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,22 +196,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-social-media-blend-easy-twitch-to-facebook-integration/"><u>[New] In 2024, Social Media Blend Easy Twitch to Facebook Integration</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-what-lies-beneath-instagram-story-perceptions-for-2024/"><u>[New] What Lies Beneath Instagram Story Perceptions for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-virtual-frontiers-the-most-wanted-vr-devices-for-2024/"><u>[Updated] Virtual Frontiers The Most Wanted VR Devices for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-professional-tips-sharpen-and-brighten-your-iphones-hdri-in-adobe-premiere-pro/"><u>2024 Approved [Professional Tips] Sharpen and Brighten Your iPhone's HDRI in Adobe Premiere Pro</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-13-pro-max-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 13 Pro Max Without iTunes</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/voc-mp3-movavi/"><u>網路直接免費 VOC 到 MP3 轉錄 - 利用 Movavi 音樂傳輸工具</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/1726227080306-mjpeg-movavi/"><u>線上無限MJPEG類型解碼器 - 利用 Movavi</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/aperfeicoando-imagens-com-filtros-fotograficos-e-tecnicas-de-correcao/"><u>Aperfeiçoando Imagens Com Filtros Fotográficos E Técnicas De Correção</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/convert-mp4-to-flv-online-free-fast-conversion-by-movavi/"><u>Convert MP4 to FLV Online Free - Fast Conversion by Movavi</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-x9a-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor X9a Safely | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/power-meets-style-delving-into-the-durable-battery-features-of-motorolas-newest-offering-the-moto-g-power/"><u>Power Meets Style: Delving Into the Durable Battery Features of Motorola's Newest Offering, The Moto G Power</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/the-end-is-nigh-for-microsofts-paint-3d-program-understanding-the-consequences-for-current-enthusiasts-zdnet-analysis/"><u>The End Is Nigh for Microsoft's Paint 3D Program: Understanding the Consequences for Current Enthusiasts | ZDNet Analysis</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/transition-seamlessly-installing-linux-mint-instead-of-windows-on-your-desktop/"><u>Transition Seamlessly: Installing Linux Mint Instead of Windows on Your Desktop</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Realme GT 5 (240W) | Dr.fone</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/unlock-full-potential-of-your-chromebook-with-windows-app-compatibility-via-recent-collaboration-says-zdnet/"><u>Unlock Full Potential of Your Chromebook with Windows App Compatibility via Recent Collaboration, Says ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlocking-permanent-fixes-for-continuous-load-screens-on-skyrim-gameplay/"><u>Unlocking Permanent Fixes for Continuous Load Screens on Skyrim Gameplay</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/why-upgrading-to-free-antivirus-solutions-is-the-future-insights-from-zdnet/"><u>Why Upgrading to Free Antivirus Solutions Is the Future: Insights From ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-full-picture-a-review-of-dji-inspire-2/"><u>[New] Full Picture A Review of DJI Inspire 2</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-instagram-tips-sharing-your-podcast-content/"><u>[New] Instagram Tips Sharing Your Podcast Content</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-navigating-screen-recording-on-your-hp-laptop-effortlessly/"><u>2024 Approved Navigating Screen Recording on Your HP Laptop Effortlessly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/davinci-resolve-wont-start-heres-how-you-can-get-it-running-smoothly-on-a-windows-machine/"><u>DaVinci Resolve Won't Start? Here's How You Can Get It Running Smoothly on a Windows Machine</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/download-mybluprint-videos-directly-from-official-site/"><u>Download MyBluprint Videos Directly From Official Site</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/download-your-favorite-italian-media-from-raitv-effortlessly-with-our-exclusive-downloader-tool/"><u>Download Your Favorite Italian Media From rai.tv Effortlessly with Our Exclusive Downloader Tool</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/explore-superior-mac-video-extraction-tools-find-your-perfect-match-beyond-the-original-youvideo-app/"><u>Explore Superior Mac Video Extraction Tools: Find Your Perfect Match Beyond the Original YouVideo App</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/how-to-save-vidme-content-as-mp4-or-avi-files-on-pc-and-mac/"><u>How to Save VidMe Content as MP4 or AVI Files on PC and Mac</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/quick-and-secure-methods-for-downloading-video-clips-from-pornhdcom/"><u>Quick & Secure Methods for Downloading Video Clips From PornHD.com</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/simple-steps-to-get-your-intel-wireless-ac-7260-driver-quick-download/"><u>Simple Steps to Get Your Intel Wireless-AC 7260 Driver - Quick Download!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-complete-guide-to-correcting-the-unspecified-error-0x80004005-in-exchange-mail-systems/"><u>The Complete Guide to Correcting the Unspecified Error (0X8^_^0004005) in Exchange Mail Systems</u></a></li>
 </ul></div>
 

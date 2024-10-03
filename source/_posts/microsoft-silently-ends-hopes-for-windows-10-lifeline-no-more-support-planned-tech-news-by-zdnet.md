@@ -1,7 +1,7 @@
 ---
 title: Microsoft Silently Ends Hopes for Windows 10 Lifeline; No More Support Planned | Tech News by ZDNet
-date: 2024-09-20T19:09:57.718Z
-updated: 2024-09-28T02:03:17.680Z
+date: 2024-09-25T17:38:00.155Z
+updated: 2024-10-02T19:33:43.754Z
 tags:
   - windows
 categories:
@@ -27,31 +27,24 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -61,6 +54,13 @@ Right-click on the new folder and rename it to the following string:
 When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Launch the icon
 
@@ -75,16 +75,10 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
@@ -117,10 +111,10 @@ To change the icon from the generic folder image, right-click on it and select P
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
@@ -162,17 +156,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-electorate-engagement-empowerment-best-gaming-selections/"><u>[New] 2024 Approved Electorate Engagement Empowerment Best Gaming Selections</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/bypassing-youtube-restrictions-secure-your-downloads-using-a-vpn-or-proxy/"><u>Bypassing YouTube Restrictions: Secure Your Downloads Using a VPN or Proxy</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/convert-and-save-your-favorite-tlc-tv-episodes-as-mp4movavi-on-macos-or-windows-systems/"><u>Convert and Save Your Favorite TLC TV Episodes as MP4/MOV/AVI on macOS or Windows Systems</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/converting-youtube-videos-into-quicktime-format-movmp4-a-step-by-step-guide/"><u>Converting YouTube Videos Into QuickTime Format (MOV/MP4): A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/download-and-convert-your-favorite-masterclass-lessons-into-various-audiovideo-file-types/"><u>Download and Convert Your Favorite MasterClass Lessons Into Various Audio/Video File Types</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/download-award-winning-abc7-news-footage-as-video-files-mp4wmvavi/"><u>Download Award-Winning ABC7 News Footage as Video Files (MP4/WMV/AVI)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/efficiently-share-several-pictures-at-once-on-your-facebook-page/"><u>Efficiently Share Several Pictures at Once on Your Facebook Page</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-grayscale-to-glamour-professional-color-adjustment/"><u>From Grayscale to Glamour Professional Color Adjustment</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/high-fidelity-mp4-streamer-to-facebook/"><u>High-Fidelity MP4 Streamer to Facebook</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-cutting-edge-leading-10-4k-dslr-shoulder-rigs/"><u>In 2024, Cutting Edge Leading 10 4K DSLR Shoulder Rigs</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-elevate-your-animation-game-top-software-for-beginners-intermediates-and-experts/"><u>New In 2024, Elevate Your Animation Game Top Software for Beginners, Intermediates, and Experts</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-sculpting-an-impactful-tiktok-conclusion/"><u>[Updated] 2024 Approved Sculpting an Impactful TikTok Conclusion</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-moments-10-essential-ig-tools-everyone-needs/"><u>[Updated] Mastering Moments 10 Essential IG Tools Everyone Needs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breaking-boundaries-top-6-artists-leading-nft-frontier/"><u>2024 Approved Breaking Boundaries Top 6 Artists Leading NFT Frontier</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/easy-methods-for-data-restoration-on-external-drives/"><u>Easy Methods for Data Restoration on External Drives</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/easy-steps-to-transform-your-video-files-from-wmv-to-flv-format/"><u>Easy Steps to Transform Your Video Files From WMV to FLV Format</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/easy-tutorial-on-recovering-voice-recordings-from-your-ios-device/"><u>Easy Tutorial on Recovering Voice Recordings From Your iOS Device</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/effortlessly-transform-your-vob-files-into-high-quality-mov-videos/"><u>Effortlessly Transform Your VOB Files Into High-Quality MOV Videos</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/enhanced-handbrake-replacement-superior-stability-and-diverse-output-formats-with-audio-support/"><u>Enhanced Handbrake Replacement: Superior Stability & Diverse Output Formats with Audio Support</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-vivo-t2x-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Vivo T2x 5G Through Google Earth?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-full-guide-to-enhancing-photos-with-facetune-app/"><u>In 2024, Full Guide to Enhancing Photos with Facetune App</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/optimal-techniques-for-capturing-high-quality-voip-conversations/"><u>Optimal Techniques for Capturing High-Quality VoIP Conversations</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/step-by-step-guide-capturing-your-epic-fortnite-battles-across-desktop-and-mobile/"><u>Step-by-Step Guide: Capturing Your Epic Fortnite Battles Across Desktop & Mobile</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/step-by-step-guide-merging-multiple-photos-into-a-single-pdf-file/"><u>Step-by-Step Guide: Merging Multiple Photos Into a Single PDF File</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-race-for-excellence-comparing-gemini-and-chatgpt/"><u>The Race for Excellence: Comparing Gemini and ChatGPT</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-tricks-for-elevating-frame-rates-and-curtailing-stutters-in-the-ascent-game/"><u>The Ultimate Tricks for Elevating Frame Rates & Curtailing Stutters in The Ascent Game</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-pick-ultimate-instagram-compatible-video-converter-effortlessly-transform-videos-forfrom-the-platform/"><u>Top Pick: Ultimate Instagram-Compatible Video Converter - Effortlessly Transform Videos For/From the Platform</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/transforming-white-backdrops-into-transparency-a-modern-how-to/"><u>Transforming White Backdrops Into Transparency: A Modern How-To</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-full-potential-of-your-iphones-image-collection-8-must-know-adjustments/"><u>Unlock the Full Potential of Your iPhone's Image Collection: 8 Must-Know Adjustments</u></a></li>
 </ul></div>
 

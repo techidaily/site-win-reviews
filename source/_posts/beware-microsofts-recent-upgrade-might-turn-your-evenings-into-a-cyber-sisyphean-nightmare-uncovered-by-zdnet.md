@@ -1,7 +1,7 @@
 ---
 title: "Beware: Microsoft's Recent Upgrade Might Turn Your Evenings Into a Cyber-Sisyphean Nightmare – Uncovered by ZDNet"
-date: 2024-09-25T23:30:08.401Z
-updated: 2024-09-27T19:55:27.988Z
+date: 2024-09-30T03:52:17.307Z
+updated: 2024-10-02T22:25:26.261Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,6 +95,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,16 +136,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -141,22 +154,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,21 +208,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-gain-money-on-youtube-understanding-required-number-of-views/"><u>[New] 2024 Approved Gain Money on YouTube Understanding Required Number of Views</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-epicurean-escapades-crafting-kitchen-films-for-2024/"><u>[New] Epicurean Escapades Crafting Kitchen Films for 2024</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/1-step-by-step-guide-converting-howstuffworks-show-videos-into-popular-formats-like-mp4-avi-and-mov/"><u>1. Step-by-Step Guide: Converting HowStuffWorks Show Videos Into Popular Formats Like MP4, AVI, and MOV</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/adaptive-training-sessions-using-chatgpt-the-future-of-personal-fitness-programs/"><u>Adaptive Training Sessions Using ChatGPT: The Future of Personal Fitness Programs</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/best-non-gaming-video-capture-and-screen-save-software/"><u>Best Non-Gaming Video Capture and Screen Save Software</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/best-way-to-save-and-download-content-from-youku-top-video-retrieval-apps/"><u>Best Way to Save and Download Content From Youku: Top Video Retrieval Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-ms-store-downloads-techniques-and-tips/"><u>Boosting MS Store Downloads: Techniques and Tips</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/bypassing-youtube-restrictions-secure-your-downloads-using-a-vpn-or-proxy/"><u>Bypassing YouTube Restrictions: Secure Your Downloads Using a VPN or Proxy</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/convert-and-save-your-favorite-tlc-tv-episodes-as-mp4movavi-on-macos-or-windows-systems/"><u>Convert and Save Your Favorite TLC TV Episodes as MP4/MOV/AVI on macOS or Windows Systems</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/converting-youtube-videos-into-quicktime-format-movmp4-a-step-by-step-guide/"><u>Converting YouTube Videos Into QuickTime Format (MOV/MP4): A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/download-and-convert-your-favorite-masterclass-lessons-into-various-audiovideo-file-types/"><u>Download and Convert Your Favorite MasterClass Lessons Into Various Audio/Video File Types</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-red-magic-9-proplus-phone-without-password-by-drfone-android/"><u>How To Unlock Nubia Red Magic 9 Pro+ Phone Without Password?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-ubuntu-exceeds-windows-11-performance-on-acer-predator-triton-300-se-the-ultimate-showdown/"><u>How Ubuntu Exceeds Windows 11 Performance on Acer Predator Triton 300 SE: The Ultimate Showdown</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-mastering-instagram-promotions-five-key-strategies-for-influencers/"><u>In 2024, Mastering Instagram Promotions Five Key Strategies for Influencers</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-infinix-hot-30i-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Infinix Hot 30i Phones</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/step-by-step-tutorial-for-transforming-iptv-playlists-to-various-sound-codes-mp3-wav-and-more/"><u>Step-by-Step Tutorial for Transforming IPTV Playlists to Various Sound Codes: MP3, WAV & More</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-transform-your-vision-youtubes-innovative-green-screen-solutions/"><u>[New] Transform Your Vision – YouTube's Innovative Green Screen Solutions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-from-forgotten-frames-to-captivating-clip-sequences-for-2024/"><u>[Updated] From Forgotten Frames to Captivating Clip Sequences for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-audio-softening-techniques-for-the-proficient-user-on-lumafusion-for-2024/"><u>Advanced Audio Softening Techniques for the Proficient User on Lumafusion for 2024</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/convert-videos-on-mac-at-no-cost-top-free-mac-video-conversion-tools/"><u>Convert Videos on Mac at No Cost: Top Free Mac Video Conversion Tools</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/easy-guide-to-live-streaming-your-gaming-sessions-in-omlets-arcade/"><u>Easy Guide to Live-Streaming Your Gaming Sessions in Omlet's Arcade</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/easy-methods-for-data-restoration-on-external-drives/"><u>Easy Methods for Data Restoration on External Drives</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/easy-tutorial-on-recovering-voice-recordings-from-your-ios-device/"><u>Easy Tutorial on Recovering Voice Recordings From Your iOS Device</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/effortlessly-transform-your-vob-files-into-high-quality-mov-videos/"><u>Effortlessly Transform Your VOB Files Into High-Quality MOV Videos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-do-i-sim-unlock-my-apple-iphone-15-plus-by-drfone-ios/"><u>How Do I SIM Unlock My Apple iPhone 15 Plus?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-rising-star-how-jake-paul-conquered-youtube/"><u>In 2024, Rising Star How Jake Paul Conquered YouTube</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-honor-magic5-ultimate-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Honor Magic5 Ultimate to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/optimal-techniques-for-capturing-high-quality-voip-conversations/"><u>Optimal Techniques for Capturing High-Quality VoIP Conversations</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/principles-of-crafting-alluring-video-scripts-for-2024/"><u>Principles of Crafting Alluring Video Scripts for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ct-your-data-while-converting-youtube-videos-to-mp3-tracks/"><u>Protect Your Data While Converting YouTube Videos to MP3 Tracks</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-easy-dell-latitude-e6420-driver-installation/"><u>Quick and Easy Dell Latitude E6420 Driver Installation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-driver-download-and-setup-for-hp-envy-laptop-series-model-5660-unveiled/"><u>Seamless Driver Download & Setup for HP Envy Laptop Series: Model 5660 Unveiled</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/step-by-step-guide-capturing-your-epic-fortnite-battles-across-desktop-and-mobile/"><u>Step-by-Step Guide: Capturing Your Epic Fortnite Battles Across Desktop & Mobile</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/step-by-step-guide-connecting-your-android-device-to-a-samsung-smart-tv/"><u>Step-by-Step Guide: Connecting Your Android Device to a Samsung Smart TV</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/step-by-step-guide-merging-multiple-photos-into-a-single-pdf-file/"><u>Step-by-Step Guide: Merging Multiple Photos Into a Single PDF File</u></a></li>
 </ul></div>
 

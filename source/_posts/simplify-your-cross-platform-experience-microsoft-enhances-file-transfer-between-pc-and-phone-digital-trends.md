@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Cross-Platform Experience: Microsoft Enhances File Transfer Between PC and Phone | Digital Trends"
-date: 2024-09-26T22:12:29.222Z
-updated: 2024-09-28T04:03:08.895Z
+date: 2024-09-29T11:11:46.411Z
+updated: 2024-10-02T17:43:10.185Z
 tags:
   - windows
 categories:
@@ -34,10 +34,10 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Create a new folder
@@ -45,19 +45,6 @@ Screenshot by Lance Whitney/ZDNET
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -79,6 +66,13 @@ Screenshot by Lance Whitney/ZDNET
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
 
@@ -104,10 +98,10 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Change the icon
@@ -117,10 +111,10 @@ To change the icon from the generic folder image, right-click on it and select P
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
@@ -162,22 +156,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-legitimate-strategies-to-amass-over-a-million-youtube-views/"><u>[New] Legitimate Strategies to Amass Over a Million YouTube Views</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/railblazer-in-photo-music-fusion-crafting-for-2024/"><u>[New] Trailblazer in Photo-Music Fusion Crafting for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-future-of-photography-at-your-fingertips-with-samsung/"><u>[Updated] 2024 Approved The Future of Photography at Your Fingertips with Samsung</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-free-video-conferencing-software-showcase-best-10-picks-for-commercial-use-and-learning-environments/"><u>[Updated] Free Video Conferencing Software Showcase Best 10 Picks for Commercial Use & Learning Environments</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-creating-compelling-visual-collections-from-single-images/"><u>[Updated] In 2024, Creating Compelling Visual Collections From Single Images</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-mastering-movie-aesthetics-through-color-grading-and-luts-for-2024/"><u>[Updated] Mastering Movie Aesthetics Through Color Grading and Luts for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-obs-studio-troubleshooting-app-crashes-on-windows-10-and-11/"><u>Fixing Obs Studio: Troubleshooting App Crashes on Windows 10 & 11</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/join-mirillis-lucrative-affiliate-network-boost-your-income-with-top-tier-products-and-services/"><u>Join Mirillis' Lucrative Affiliate Network: Boost Your Income with Top-Tier Products and Services!</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/leading-11-ios-and-android-tools-for-professional-sound-engineering/"><u>Leading 11 iOS and Android Tools for Professional Sound Engineering</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/mastering-the-archive-how-to-save-and-transform-wayback-machine-videos-as-mp4-mov-avi-files/"><u>Mastering the Archive: How to Save and Transform Wayback Machine Videos as MP4, MOV, AVI Files</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/mp4-video-downloads-from-artistworks-save-your-favorite-lessons/"><u>MP4 Video Downloads From ArtistWorks - Save Your Favorite Lessons</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/simplify-video-consolidation-use-f4cross-to-unite-diverse-files-mp4-avi-wmv-flv-mov-into-one-file/"><u>Simplify Video Consolidation: Use F4Cross to Unite Diverse Files (MP4, AVI, WMV, FLV, MOV) Into One File</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/steps-to-convert-your-fpm-drawing-tutorials-into-popular-video-formats/"><u>Steps to Convert Your FPM Drawing Tutorials Into Popular Video Formats</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/transfer-learning-materials-from-artistworks-as-high-quality-mp4-files/"><u>Transfer Learning Materials From ArtistWorks as High-Quality MP4 Files</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-realme-narzo-n53-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Realme Narzo N53 IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/ultimate-guide-mastering-screen-capture-in-windows-with-ease/"><u>Ultimate Guide: Mastering Screen Capture in Windows with Ease</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/xtube-content-saver-effortless-downloading-and-conversion-to-popular-file-types-mp4-avi-wmv-mov/"><u>XTube Content Saver: Effortless Downloading & Conversion to Popular File Types (MP4, AVI, WMV, MOV)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-beyond-tubes-the-ultimate-video-share-sites-for-2024/"><u>[New] Beyond Tubes The Ultimate Video Share Sites for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-creating-the-perfect-biz-account-a-compreehsive-instagram-tutorial/"><u>[New] Creating the Perfect Biz Account A Compreehsive Instagram Tutorial</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-from-zero-to-hero-mastering-memes-in-kinemaster-for-2024/"><u>[New] From Zero to Hero Mastering Memes in KineMaster for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-ultimate-guide-to-advanced-techniques-in-youtube-video-editing/"><u>[New] In 2024, The Ultimate Guide to Advanced Techniques in YouTube Video Editing</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-unlock-your-music-best-free-on-web-tiktok-to-mp3-convertors-for-2024/"><u>[New] Unlock Your Music Best Free, On-Web TikTok to MP3 Convertors for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-advanced-image-quality-hero5-black-vs-sjcam-sj7/"><u>2024 Approved Advanced Image Quality Hero5 Black Vs SJCAM SJ7</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-how-to-edit-podcasts-in-garageband/"><u>2024 Approved How To Edit Podcasts in GarageBand</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-resolving-cs2-computer-crashes-ultimate-guide-for-players-in-202/"><u>Expert Tips for Resolving CS2 Computer Crashes: Ultimate Guide for Players in 202...</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/explore-the-full-spectrum-of-movavis-multimedia-tools-for-ultimate-creativity/"><u>Explore the Full Spectrum of Movavi's Multimedia Tools for Ultimate Creativity</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/free-online-converter-change-mp4-files-to-wav-format-with-movavi/"><u>Free Online Converter: Change MP4 Files to WAV Format with Movavi</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/gratuito-conversor-online-de-imagens-em-formato-mpeg-e-3g2-pelo-movavi/"><u>Gratuito Conversor Online De Imagens Em Formato MPEG E 3G2 Pelo Movavi</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/guide-ultime-pour-le-telechargement-et-lutilisation-de-capcut-pour-les-utilisateurs-de-pc-sous-windows/"><u>Guide Ultime Pour Le Téléchargement Et L'utilisation De CapCut Pour Les Utilisateurs De PC Sous Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-motorola-moto-g-stylus-5g-2023-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Motorola Moto G Stylus 5G (2023)?</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/mka-mkv-converter-vrije-online-tool-voor-formatconversie-movavi/"><u>MKA-MKV Converter: Vrije Online Tool Voor Formatconversie - Movavi</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/movavi-vob/"><u>Movaviで簡単！ VOB転送を無料で行うオンラインツール</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/1726224186579-movmp4-movavi/"><u>MOVファイルをMP4に自由に変換できるオンラインサービス: Movavi</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/transformez-gratuitement-un-fichier-aac-en-mp3-en-ligne-movavi/"><u>Transformez Gratuitement Un Fichier AAC en MP3 en Ligne - Movavi</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/mkvaviwma-movavi/"><u>フリーウェブMKV/AVI動画WMAファイル変換ツール - Movavi</u></a></li>
+<li><a href="https://media-tips.techidaily.com/dvd-top5/"><u>ブルーレイディスクをDVDに変換する簡単ガイド: Top5選ばれたコピーソフトをご紹介します</u></a></li>
 </ul></div>
 
