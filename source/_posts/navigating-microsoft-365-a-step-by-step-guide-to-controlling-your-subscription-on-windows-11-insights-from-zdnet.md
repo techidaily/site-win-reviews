@@ -1,7 +1,7 @@
 ---
 title: "Navigating Microsoft 365: A Step-by-Step Guide to Controlling Your Subscription on Windows 11 - Insights From ZDNet"
-date: 2024-10-01T00:53:32.100Z
-updated: 2024-10-03T04:06:17.405Z
+date: 2024-10-07T16:30:16.148Z
+updated: 2024-10-08T17:42:53.329Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -84,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -123,10 +130,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,22 +149,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +202,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-hdrs-edge-pushing-video-production-to-new-heights/"><u>[New] HDR's Edge Pushing Video Production to New Heights</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-boomerang-edge-captivating-your-instagram-audience-for-2024/"><u>[Updated] The Boomerang Edge Captivating Your Instagram Audience for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-first-steps-for-joining-online-video-chats-google-meet/"><u>2024 Approved First Steps for Joining Online Video Chats (Google Meet)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfecting-the-art-of-erasing-stickers-in-social-media-clips/"><u>2024 Approved Perfecting the Art of Erasing Stickers in Social Media Clips</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-poco-m6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/affordable-microsoft-office-2019-bundle-deal-windows-and-mac-installation-at-only-25-how-to-by-gadgetgenius/"><u>Affordable Microsoft Office 2019 Bundle Deal - Windows & Mac Installation at Only $25 | How-To by GadgetGenius</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/affordable-productivity-boost-microsoft-office-2019-license-available-for-windows-and-mac-only-25-now-zdnet-exclusive/"><u>Affordable Productivity Boost: Microsoft Office 2019 License Available for Windows & Mac, Only $25 Now – ZDNet Exclusive</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/comparing-leading-ai-conversationalists-chatgpt-microsofts-copilot-and-gemini/"><u>Comparing Leading AI Conversationalists: ChatGPT, Microsoft's Copilot, and Gemini</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/discover-the-best-deal-on-microsoft-office-2019-for-both-pc-and-mac-save-big-with-a-secure-price-of-25-insights-by-zdnet/"><u>Discover the Best Deal on Microsoft Office 2019 for Both PC and Mac: Save Big with a Secure Price of $25 | Insights by ZDNET</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/excel-drop-down-menu-creation-a-fast-and-simple-guide-from-zdnet/"><u>Excel Drop-Down Menu Creation: A Fast & Simple Guide From ZDNet</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-x100-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo X100 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/onedrive-introduces-offline-functionality-for-seamless-file-editing-in-isolated-locations-digital-innovation-today/"><u>OneDrive Introduces Offline Functionality for Seamless File Editing in Isolated Locations | Digital Innovation Today</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/purchase-discounted-microsoft-project-and-visio-professional-licenses-at-just-20-on-zdnet/"><u>Purchase Discounted Microsoft Project & Visio Professional Licenses at Just $20 on ZDNet!</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/forming-your-youtube-profile-descriptions-for-2024/"><u>Transforming Your YouTube Profile Descriptions for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/twitter-memes-downloaded-easily-for-windows-users/"><u>Twitter Memes Downloaded Easily for Windows Users</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/zdnet-exclusive-microsoft-leader-steve-ballmer-confesses-to-being-unbrave-a-surprising-admission-from-the-tech-industrys-elite/"><u>ZDNet Exclusive: Microsoft Leader Steve Ballmer Confesses to Being Unbrave – A Surprising Admission From the Tech Industry's Elite</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-best-green-screen-recorders-how-to-use-them/"><u>[New] 2024 Approved Best Green Screen Recorders How to Use Them?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-mystique-of-a-blue-icon-on-facebook-decoding-its-purpose-and-meaning/"><u>[New] 2024 Approved The Mystique of a Blue Icon on Facebook Decoding Its Purpose and Meaning</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premium-drones-best-deals-today/"><u>[Updated] Premium Drones, Best Deals Today</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/1-movaiff-movavi/"><u>1. 網路自由下 MOV到AIFF格式的移動過渡 - 使用Movavi轉換器</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/aiffflac-movavi/"><u>免費AIFF到FLAC上線轉換器 - 利用Movavi自助改編音效</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/movavi-dpxgif/"><u>使用Movavi DPX自動為GIF格式化 - 無限制免費線上轉換器</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/conversor-de-mpg-para-formato-wav-online-gratuito-movavi/"><u>Conversor De MPG Para Formato WAV Online Gratuito - Movavi</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/decouvrez-les-meilleures-applications-musiques-gratuites-pour-debutants-top-10-rapports/"><u>Découvrez Les Meilleures Applications Musiques Gratuites Pour Débutants : Top 10 Rapports</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-techniques-to-address-iphone-remote-application-errors/"><u>Effective Techniques to Address iPhone Remote Application Errors</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-iphone-13-mini-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From iPhone 13 mini in the Best Ways</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-overcoming-unrecoverable-error-in-directx/"><u>Troubleshooting Guide: Overcoming 'Unrecoverable Error' In DirectX</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/tutorial-facile-transformer-un-fichier-flv-en-format-mpeg-gratuite-online-avec-convertit-videos/"><u>Tutorial Facile: Transformer Un Fichier FLV en Format MPEG Gratuite Online Avec Convertit-Vidéos</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/avi-webm-movavi/"><u>오피니 AVI 파일을 WEBM로 구속없이 바꾸기 - MOVAVI</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Microsoft Demonstrates Windows' Role in Shaping Hybrid Working Futures - ZDNet
-date: 2024-10-01T22:11:52.802Z
-updated: 2024-10-02T23:22:51.498Z
+date: 2024-10-07T16:20:26.831Z
+updated: 2024-10-08T16:00:48.785Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +102,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,29 +142,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +208,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-explore-top-5-apps-combining-photography-and-soundscape/"><u>[New] In 2024, Explore Top 5 Apps Combining Photography & Soundscape</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/affordable-ai-tools-in-action-how-singapores-smes-benefit-from-subsidized-microsoft-copilot-services/"><u>Affordable AI Tools in Action: How Singapore's SMEs Benefit From Subsidized Microsoft Copilot Services</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-vivo-y02t-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo Y02T Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/beware-microsofts-recent-upgrade-might-turn-your-evenings-into-a-cyber-sisyphean-nightmare-uncovered-by-zdnet/"><u>Beware: Microsoft's Recent Upgrade Might Turn Your Evenings Into a Cyber-Sisyphean Nightmare – Uncovered by ZDNet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/bring-out-canons-best-enjoy-10-free-luts-and-beyond-selection/"><u>Bring Out Canon's Best Enjoy 10 Free LUTs and Beyond Selection</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-termination-error-a-guide-for-windows-users/"><u>Bypassing Termination Error: A Guide for Windows Users</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/choosing-the-ideal-task-organizer-microsoft-to-do-or-google-tasks-which-one-fits-your-needs-insights-by-zdnet/"><u>Choosing the Ideal Task Organizer: Microsoft To Do or Google Tasks – Which One Fits Your Needs? | Insights by ZDNet</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-nokia-130-music-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Nokia 130 Music</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/deciphering-the-microsoft-exchange-server-compromise-key-details-and-analysis-by-zdnet-unveiled/"><u>Deciphering the Microsoft Exchange Server Compromise: Key Details and Analysis by ZDNet Unveiled</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/expert-verdict-on-the-most-durable-windows-tablets-with-built-in-stylus-zdnets-top-picks/"><u>Expert Verdict on the Most Durable Windows Tablets with Built-In Stylus - ZDNet's Top Picks!</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/explore-the-latest-microsoft-release-free-mobile-apps-for-designer-your-go-to-ai-photo-creator-on-smartphones-zdnet-news/"><u>Explore the Latest Microsoft Release: Free Mobile Apps for Designer, Your Go-To AI Photo Creator on Smartphones | ZDNET News</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-when-you-cant-connect-to-your-steam-community/"><u>Fixing the Issue: When You Can't Connect to Your Steam Community</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-samsung-galaxy-xcover-7-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Samsung Galaxy XCover 7 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-realme-narzo-n55-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Realme Narzo N55 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-edit-large-videos-in-no-time-a-step-by-step-guide-for-mac-users/"><u>New 2024 Approved Edit Large Videos in No Time A Step-by-Step Guide for Mac Users</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/revive-your-aging-pc-with-these-5-cost-free-tricks-for-windows-11-users-insights-from-zdnet/"><u>Revive Your Aging PC with These 5 Cost-Free Tricks for Windows 11 Users - Insights From ZDNet</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/the-downsides-of-debloating-your-pc-and-effective-alternatives-explained-by-tech-experts-at-zdnet/"><u>The Downsides of Debloating Your PC & Effective Alternatives Explained by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/unauthorized-activation-of-onedrive-sync-with-windows-11-revealed-what-you-need-to-know/"><u>Unauthorized Activation of OneDrive Sync with Windows 11 Revealed: What You Need to Know</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-immediate-harmony-views-on-xigua-video/"><u>2024 Approved Immediate Harmony Views on Xigua Video</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/voc-mp3-movavi/"><u>網路直接免費 VOC 到 MP3 轉錄 - 利用 Movavi 音樂傳輸工具</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/1726227080306-mjpeg-movavi/"><u>線上無限MJPEG類型解碼器 - 利用 Movavi</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/aperfeicoando-imagens-com-filtros-fotograficos-e-tecnicas-de-correcao/"><u>Aperfeiçoando Imagens Com Filtros Fotográficos E Técnicas De Correção</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/comprehensive-guide-to-optimizing-facetime-recording-quality-for-2024/"><u>Comprehensive Guide to Optimizing FaceTime Recording Quality for 2024</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/convert-mp4-to-flv-online-free-fast-conversion-by-movavi/"><u>Convert MP4 to FLV Online Free - Fast Conversion by Movavi</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevate-your-images-with-quantum-hdr-expertise/"><u>Elevate Your Images with Quantum HDR Expertise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-through-resolving-application-launch-halt-due-to-qt-deficiency/"><u>Guiding Through Resolving Application Launch Halt Due to Qt Deficiency</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-motorola-moto-g-stylus-5g-2023-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Motorola Moto G Stylus 5G (2023) Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/mastering-image-editing-adding-captions-and-annotations-with-ease/"><u>Mastering Image Editing: Adding Captions & Annotations with Ease</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/safe-and-no-cost-online-cinema-hubs-a-list-of-the-top-17-choices-for-movie-lovers/"><u>Safe & No-Cost Online Cinema Hubs: A List of the Top 17 Choices for Movie Lovers</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ultimate-solution-for-overcoming-internal-errors-in-video-planning-tools-on-windows-11/"><u>Ultimate Solution for Overcoming Internal Errors in Video Planning Tools on Windows 11</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/vervang-ape-met-mp3-vrije-en-kort-online-expertise-movavi/"><u>Vervang APE Met MP3 Vrije en Kort Online - Expertise Movavi</u></a></li>
 </ul></div>
 

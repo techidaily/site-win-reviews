@@ -1,7 +1,7 @@
 ---
 title: Microsoft Unveils Windows Strategies Driving Hybrid Work Revolution
-date: 2024-09-28T00:13:03.271Z
-updated: 2024-10-03T07:35:15.581Z
+date: 2024-10-06T17:37:31.275Z
+updated: 2024-10-08T17:53:12.426Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -137,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -149,9 +135,23 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,21 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-5-ways-to-record-streaming-audio-online-for-2024/"><u>[New] 5 Ways to Record Streaming Audio Online for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-clearshot-suite-high-quality-windows/"><u>[New] In 2024, ClearShot Suite - High-Quality Windows</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-step-by-step-guide-to-mastering-quantum-hdr-for-2024/"><u>[New] Step by Step Guide to Mastering Quantum HDR for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/complete-instructions-downloading-and-implementing-the-newest-soundmax-drivers-in-windows-environments/"><u>Complete Instructions: Downloading & Implementing the Newest SoundMAX Drivers in Windows Environments</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/explore-the-full-spectrum-of-movavis-multimedia-tools-for-ultimate-creativity/"><u>Explore the Full Spectrum of Movavi's Multimedia Tools for Ultimate Creativity</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/free-online-converter-change-mp4-files-to-wav-format-with-movavi/"><u>Free Online Converter: Change MP4 Files to WAV Format with Movavi</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/gratuito-conversor-online-de-imagens-em-formato-mpeg-e-3g2-pelo-movavi/"><u>Gratuito Conversor Online De Imagens Em Formato MPEG E 3G2 Pelo Movavi</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/guide-ultime-pour-le-telechargement-et-lutilisation-de-capcut-pour-les-utilisateurs-de-pc-sous-windows/"><u>Guide Ultime Pour Le Téléchargement Et L'utilisation De CapCut Pour Les Utilisateurs De PC Sous Windows</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/movavi-vob/"><u>Movaviで簡単！ VOB転送を無料で行うオンラインツール</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/1726224186579-movmp4-movavi/"><u>MOVファイルをMP4に自由に変換できるオンラインサービス: Movavi</u></a></li>
-<li><a href="https://win-answers.techidaily.com/real-time-xbox-live-servers-are-they-operational-now/"><u>Real-Time Xbox Live Servers: Are They Operational Now?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-art-of-timestamped-media-on-the-gotube-platform-for-2024/"><u>The Art of Timestamped Media on the GoTube Platform for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/tips-to-prevent-frame-loss-during-real-time-broadcasts-with-obs-for-2024/"><u>Tips to Prevent Frame Loss During Real-Time Broadcasts with OBS for 2024</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/mkvaviwma-movavi/"><u>フリーウェブMKV/AVI動画WMAファイル変換ツール - Movavi</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-stopcapture-screen-freeze-assist/"><u>[New] In 2024, StopCapture Screen Freeze Assist</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-reimagined-computing-with-windows-10s-upgrades-for-2024/"><u>[New] Reimagined Computing with Windows 10’S Upgrades for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-elevate-your-content-11-steps-to-amplify-fb-video-performance-for-2024/"><u>[Updated] Elevate Your Content 11 Steps to Amplify FB Video Performance for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-youtube-earnings-estimator-tools/"><u>2024 Approved YouTube Earnings Estimator Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dodging-fraudsters-a-guide-to-genuine-vs-bogus-bingcoin-offers/"><u>Dodging Fraudsters: A Guide to Genuine vs Bogus BingCoin Offers</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/easy-video-conversion-on-novamov-get-your-favorite-videos-as-mp4-avi-and-more/"><u>Easy Video Conversion on NovaMov: Get Your Favorite Videos as MP4, AVI and More!</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/einthusan-downloader-quick-and-easy-movie-and-music-video-grabs/"><u>Einthusan Downloader - Quick & Easy Movie and Music Video Grabs</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/extract-and-convert-tracks-from-22tracks-to-multiple-audio-types-wav-mp3-flac/"><u>Extract and Convert Tracks From 22Tracks to Multiple Audio Types (WAV, MP3, FLAC)</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/fakehub-video-extraction-tool-easily-save-and-convert-videos-to-popular-formats-like-mp4-mov-avi-using-fakehub-downloader/"><u>FAKEhub Video Extraction Tool - Easily Save and Convert Videos to Popular Formats Like MP4, MOV, AVI Using FAKEhub Downloader</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/free-spotify-offline-access-a-step-by-step-tutorial-for-non-premium-users/"><u>Free Spotify Offline Access – A Step-by-Step Tutorial for Non-Premium Users</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-lava-yuva-2-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Lava Yuva 2 Pro</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/single-page-layout-showcasing-your-flipping-book-entirely-at-once-with-flipbuilder/"><u>Single-Page Layout: Showcasing Your Flipping Book Entirely at Once with FlipBuilder</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ssential-manual-for-youtube-to-gif-conversion-online/"><u>The Essential Manual for YouTube-to-GIF Conversion Online</u></a></li>
 </ul></div>
 

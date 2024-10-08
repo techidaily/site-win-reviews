@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis of the Keychron Q5 Mechanical Keyboard: Balancing Advanced Features with Cost - Insights From ZDNet"
-date: 2024-09-28T22:42:50.822Z
-updated: 2024-10-03T04:36:34.235Z
+date: 2024-10-04T16:57:06.757Z
+updated: 2024-10-08T17:26:58.162Z
 tags:
   - office-furniture
 categories:
@@ -53,10 +53,16 @@ South-facing (towards the typist), RGB LED lights are provided on the keyboard. 
 **Also: [Keychron Q1 QMK custom mechanical keyboard review](https://www.zdnet.com/product/keychron-q1-qmk-custom-mechanical-keyboard/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** recommends
@@ -67,6 +73,13 @@ The keyboard has several layers, including the bottom aluminum case, silicone ga
 
 The keys are set at a 5.3-degree angle, and the bottom case is not adjustable. I use a [Keychron wooden palm rest](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWalnut-Keychron-Bluetooth-Mechanical-Keyboard%2Fdp%2FB07Y84SP8G%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C17ca5000-3920-46d3-a543-7da2bfe350bc%7Cdtp&dtb=1) since the keyboard is quite tall at the front, 30.9 mm with keycaps installed. The back height is 42.8 mm with the keycaps. The keyboard is 390.5 mm in length and 145 mm in width.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Keyboard software
 
 The model I tested includes the knob, and by default, the knob works to control volume with a press-in of the knob toggling mute on and off. You can reprogram the knob to perform other actions, such as zoom in and out, adjust the screen brightness, and more. In addition to downloading and installing the free VIA software, you also need to download the appropriate keymap JSON file from the Keychron website. Once this is set up, then you can set the macro for the knob in addition to mapping other keys as you desire.
@@ -74,10 +87,10 @@ The model I tested includes the knob, and by default, the knob works to control 
 Four layers of key settings are provided with layers 0/1 assigned to MacOS and layers 2/3 assigned to Windows. You can customize shortcuts, backlight effects, and a lot more with the software, so spend some time setting the keyboard up, so it works best for your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Switch options
@@ -96,13 +109,6 @@ The retail package includes the keyboard, keycap puller, switch puller, screwdri
 
 [Keychron Q5 Keyboard $205 at Keychron](https://www.keychron.com/products/keychron-q5-qmk-custom-mechanical-keyboard?variant=40010452271193)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Daily usage experiences and conclusion
 
 The Keychron Q5 keyboard is available in a barebones model for $175 up to a fully assembled model with a knob for $205\. ISO models are available too, with three color and three switch options to choose from.
@@ -110,10 +116,10 @@ The Keychron Q5 keyboard is available in a barebones model for $175 up to a full
 Keychron also has a new double gasket design in the Q5 that adds gaskets and silicone pads to reduce the sound resonance between the metals and reduce other sounds while supporting the overall typing sound. It's tough to find anything wrong with the keyboard, and spending $200 for a high-quality keyboard that helps you enter text quickly and efficiently is worth it to me.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Alternatives to consider
@@ -156,21 +162,18 @@ The Keychron Q5 keyboard is a near-perfect keyboard for many people, but if you 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-free-top-8-apps-to-get-likes-on-facebook-android-and-iphone/"><u>[New] 2024 Approved FREE Top 8 Apps to Get Likes on Facebook (Android and iPhone)</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-10-best-online-video-call-free-to-use/"><u>[Updated] 10 Best Online Video Call (Free to Use)</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-shines-mastering-the-art-of-content-highlights/"><u>[Updated] 2024 Approved Instagram Shines Mastering the Art of Content Highlights</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/convert-and-save-mulesoft-tutorials-as-mp4-or-avi-files-windows-and-macos-guide/"><u>Convert & Save MuleSoft Tutorials as MP4 or AVI Files: Windows & macOS Guide</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/convert-xminus-tutorials-into-high-quality-video-formats-like-mp4-and-mov-with-ease/"><u>Convert XMinus Tutorials Into High-Quality Video Formats Like MP4 & MOV with Ease</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/converting-teachable-session-recordings-into-various-video-codecs-mp4-mov-and-more/"><u>Converting Teachable Session Recordings Into Various Video Codecs: MP4, MOV & More</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/download-mybluprint-videos-directly-from-official-site/"><u>Download MyBluprint Videos Directly From Official Site</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/download-your-favorite-italian-media-from-raitv-effortlessly-with-our-exclusive-downloader-tool/"><u>Download Your Favorite Italian Media From rai.tv Effortlessly with Our Exclusive Downloader Tool</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/epigenetics-explores-how-environmental-factors-can-modify-gene-expression-and-influence-the-risk-of-heart-disease-without-changing-the-dna-sequence/"><u>Epigenetics Explores How Environmental Factors Can Modify Gene Expression and Influence the Risk of Heart Disease without Changing the DNA Sequence</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-tecno-pova-5-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-oneplus-ace-2-pro-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of OnePlus Ace 2 Pro Through Google Earth?</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-essential-guide-to-twitter-videos-and-aspect-ratios/"><u>In 2024, Essential Guide to Twitter Videos and Aspect Ratios</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/rise-to-stardom-on-instagram-adopting-tiktoks-winning-strategies-for-2024/"><u>Rise to Stardom on Instagram Adopting TikTok's Winning Strategies for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-infinix-smart-8-plus-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Infinix Smart 8 Plus ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/understanding-the-duration-of-flippdf-pros-activation-key-insights-and-details/"><u>Understanding the Duration of FlipPDF Pro's Activation Key: Insights and Details</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/unveiling-the-mystery-behind-empty-pages-in-flipbuilder-documents/"><u>Unveiling the Mystery Behind Empty Pages in FlipBuilder Documents</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-maximizing-reach-and-impact-on-facebook-using-wirecast-for-live-broadcasts-for-2024/"><u>[Updated] Maximizing Reach & Impact on Facebook - Using Wirecast for Live Broadcasts for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-free-artistic-software-on-mac/"><u>[Updated] The Ultimate Guide to Free Artistic Software on Mac</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-premium-hardware-hunt-cards-for-4k-editors/"><u>2024 Approved Premium Hardware Hunt Cards for 4K Editors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/building-trust-through-words-docu-script-insights/"><u>Building Trust Through Words Docu-Script Insights</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/exploring-why-windows-11-needs-tpm-chips-a-detailed-guide-from-zdnets-perspective/"><u>Exploring Why Windows 11 Needs TPM Chips: A Detailed Guide From ZDNet's Perspective</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/how-to-find-out-your-video-card-type-and-ensure-optimal-driver-performance-with-ease/"><u>How to Find Out Your Video Card Type & Ensure Optimal Driver Performance with Ease!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-honor-play-40c-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Honor Play 40C</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-apple-iphone-14-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On Apple iPhone 14</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-redmi-note-12-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Xiaomi Redmi Note 12 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/initial-steps-towards-perfect-transitional-sound-levels-for-2024/"><u>Initial Steps Towards Perfect Transitional Sound Levels for 2024</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/introducing-the-new-era-of-learning-with-windows-11-se-how-top-pc-brands-are-revolutionizing-education-as-covered-by-zdnet/"><u>Introducing the New Era of Learning with Windows 11 SE: How Top PC Brands Are Revolutionizing Education, as Covered by ZDNET</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/is-integrating-android-with-windows-11-a-smart-move-find-out-why-and-how-insights-from-zdnet/"><u>Is Integrating Android with Windows 11 a Smart Move? Find Out Why and How! - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-8-chrome-addons-with-smart-ai-integration-for-efficiency/"><u>Top 8 Chrome Addons with Smart AI Integration for Efficiency</u></a></li>
 </ul></div>
 

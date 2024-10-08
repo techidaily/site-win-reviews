@@ -1,7 +1,7 @@
 ---
 title: Affordable Microsoft Office 2019 Bundle Deal - Windows & Mac Installation at Only $25 | How-To by GadgetGenius
-date: 2024-10-02T06:02:56.025Z
-updated: 2024-10-03T03:53:03.617Z
+date: 2024-10-06T17:55:55.392Z
+updated: 2024-10-08T17:37:06.654Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +75,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +97,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,22 +135,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-efficiently-using-background-footage-in-projects/"><u>[New] Efficiently Using Background Footage in Projects</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-frame-by-frame-flair-edits-that-captivate-viewers/"><u>[New] Frame-by-Frame Flair Edits That Captivate Viewers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-video-to-audio-quickly-create-mp3-from-youtube-on-mac/"><u>[New] In 2024, From Video to Audio Quickly Create MP3 From YouTube on Mac</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-navigating-vimeos-subscription-options-for-content-creators-for-2024/"><u>[New] Navigating Vimeo’s Subscription Options for Content Creators for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-unveiling-effective-routes-to-share-srt-content-on-pinterest-and-reddit-for-2024/"><u>[New] Unveiling Effective Routes to Share SRT Content on Pinterest & Reddit for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-how-to-build-a-career-in-graphic-design/"><u>[Updated] How to Build A Career In Graphic Design</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-subtitle-conversion-at-your-fingertips-top-8-software-for-windowsmacos-srt-transition/"><u>2024 Approved Seamless Subtitle Conversion at Your Fingertips - Top 8 Software for Windows/MacOS SRT Transition</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/download-free-movies-from-youporn-save-in-high-quality-formats-like-mp4-avi-and-more/"><u>Download Free Movies From YouPorn: Save in High-Quality Formats Like MP4, AVI & More</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/download-soundcloud-apps-compatible-options-for-both-mac-and-windows-systems/"><u>Download SoundCloud Apps: Compatible Options for Both Mac & Windows Systems</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/download-star-wars-films-your-guide-to-obtaining-the-complete-saga-on-pc-or-mac/"><u>Download Star Wars Films: Your Guide to Obtaining the Complete Saga on PC or Mac</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/easy-video-conversion-on-novamov-get-your-favorite-videos-as-mp4-avi-and-more/"><u>Easy Video Conversion on NovaMov: Get Your Favorite Videos as MP4, AVI and More!</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/einthusan-downloader-quick-and-easy-movie-and-music-video-grabs/"><u>Einthusan Downloader - Quick & Easy Movie and Music Video Grabs</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/extract-and-convert-tracks-from-22tracks-to-multiple-audio-types-wav-mp3-flac/"><u>Extract and Convert Tracks From 22Tracks to Multiple Audio Types (WAV, MP3, FLAC)</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/fakehub-video-extraction-tool-easily-save-and-convert-videos-to-popular-formats-like-mp4-mov-avi-using-fakehub-downloader/"><u>FAKEhub Video Extraction Tool - Easily Save and Convert Videos to Popular Formats Like MP4, MOV, AVI Using FAKEhub Downloader</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/free-spotify-offline-access-a-step-by-step-tutorial-for-non-premium-users/"><u>Free Spotify Offline Access – A Step-by-Step Tutorial for Non-Premium Users</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/giggle-and-grab-how-to-save-the-best-laughs-from-funny-or-die-as-crystal-clear-mp4-videos/"><u>Giggle and Grab: How to Save the Best Laughs From Funny Or Die as Crystal Clear MP4 Videos</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-erase-iphone-se-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase iPhone SE Devices Entirely | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-8-by-name-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Apple iPhone 8 by Name | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/understanding-the-need-for-ip-change-expert-tips-on-timing-and-methods-with-zdnets-perspective/"><u>Understanding the Need for IP Change: Expert Tips on Timing & Methods with ZDNet's Perspective</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-maximizing-reach-sharing-igtv-to-fb-4-methods/"><u>[New] In 2024, Maximizing Reach Sharing IGTV to FB (4 Methods)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-securing-continuous-frame-playback-in-live-broadcasts/"><u>[New] In 2024, Securing Continuous Frame Playback in Live Broadcasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-methodology-for-video-filter-addition-on-tech-devices/"><u>[New] Step-by-Step Methodology for Video Filter Addition on Tech Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-innovative-ways-to-record-mobile-content-on-android/"><u>[Updated] 2024 Approved Innovative Ways to Record Mobile Content on Android</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-notorious-top-20-vlogging-ideas/"><u>2024 Approved From Novice to Notorious Top 20 Vlogging Ideas</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/best-free-webcam-background-replacers-top-7-picks/"><u>Best Free Webcam Background Replacers: Top 7 Picks</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-11-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By Apple iPhone 11 without the Previous Owner?</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/download-our-free-tool-for-instant-amr-to-mp3-conversion-save-time-upgrade-sound-quality/"><u>Download Our FREE Tool for Instant AMR to MP3 Conversion – Save Time, Upgrade Sound Quality!</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/easy-guide-to-live-streaming-your-gaming-sessions-in-omlets-arcade/"><u>Easy Guide to Live-Streaming Your Gaming Sessions in Omlet's Arcade</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/easy-steps-transforming-your-flv-videos-into-high-quality-wmv-format/"><u>Easy Steps: Transforming Your FLV Videos Into High-Quality WMV Format</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/effortless-methods-to-take-quicktime-screenshots-in-under-a-minute/"><u>Effortless Methods to Take QuickTime Screenshots in Under a Minute</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Infinix Hot 40? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-instantly-recover-lost-reddit-posts/"><u>In 2024, How to Instantly Recover Lost Reddit Posts</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-unintended-tiktok-reset-how-to-get-back-old-videos/"><u>In 2024, Unintended TikTok Reset – How to Get Back Old Videos?</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/step-by-step-guide-connecting-your-android-device-to-a-samsung-smart-tv/"><u>Step-by-Step Guide: Connecting Your Android Device to a Samsung Smart TV</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/step-by-step-guide-making-your-image-backgrounds-completely-invisible/"><u>Step-by-Step Guide: Making Your Image Backgrounds Completely Invisible</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/top-5-must-have-web-apps-for-effortless-online-image-editing/"><u>Top 5 Must-Have Web Apps for Effortless Online Image Editing</u></a></li>
 </ul></div>
 

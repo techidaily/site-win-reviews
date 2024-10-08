@@ -1,7 +1,7 @@
 ---
 title: Latest Updates to Windows 11 Introduce Streamlined File Sharing with Android and Accelerated Voice Dictation Capabilities | ZDNET
-date: 2024-09-27T00:13:31.984Z
-updated: 2024-10-02T16:55:43.826Z
+date: 2024-10-05T16:53:26.712Z
+updated: 2024-10-08T16:15:08.198Z
 tags:
   - windows
 categories:
@@ -33,18 +33,24 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -55,25 +61,11 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Search for a command
 
@@ -86,6 +78,13 @@ Screenshot by Lance Whitney/ZDNET
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -104,6 +103,13 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
@@ -111,10 +117,16 @@ To change the icon from the generic folder image, right-click on it and select P
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
@@ -156,22 +168,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-decoding-sonys-screenshot-system-an-in-depth-look-at-ps4-recording/"><u>[New] 2024 Approved Decoding Sony's Screenshot System An In-Depth Look at PS4 Recording</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-evasive-examiner-of-fb-narratives-for-2024/"><u>[New] Evasive Examiner of FB Narratives for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-gopro-evolution-a-step-by-step-comparison-tutorial/"><u>[New] Gopro Evolution A Step-by-Step Comparison Tutorial</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/guide-syncing-your-miracast-enabled-mi-mix-with-a-television-or-computer/"><u>Guide: Syncing Your Miracast-Enabled Mi Mix with a Television or Computer</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-high-resolution-blu-ray-delight-top-3d-player-selections/"><u>In 2024, High-Resolution Blu-Ray Delight Top 3D Player Selections</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movaviflv/"><u>Movaviで簡単に無料アニメムービーをFLVに変換する方法</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-constant-disruptions-solutions-for-beat-saber-crashes/"><u>Resolving Constant Disruptions - Solutions for Beat Saber Crashes</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/simplify-your-cross-platform-experience-microsoft-enhances-file-transfer-between-pc-and-phone-digital-trends/"><u>Simplify Your Cross-Platform Experience: Microsoft Enhances File Transfer Between PC and Phone | Digital Trends</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/speed-up-app-closure-on-windows-11-with-this-secret-configuration-trick-spotted-by-tech-experts-at-zdnet/"><u>Speed Up App Closure on Windows 11 with This Secret Configuration Trick - Spotted by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/sprinkle-some-glitter-on-your-photos-ios-and-androids-prime-10-apps/"><u>Sprinkle Some Glitter on Your Photos IOS & Android's Prime 10 Apps</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/step-by-step-guide-making-your-image-backgrounds-completely-invisible/"><u>Step-by-Step Guide: Making Your Image Backgrounds Completely Invisible</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/the-end-is-nigh-for-microsofts-paint-3d-program-understanding-the-consequences-for-current-enthusiasts-zdnet-analysis/"><u>The End Is Nigh for Microsoft's Paint 3D Program: Understanding the Consequences for Current Enthusiasts | ZDNet Analysis</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/transition-seamlessly-installing-linux-mint-instead-of-windows-on-your-desktop/"><u>Transition Seamlessly: Installing Linux Mint Instead of Windows on Your Desktop</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/unlock-full-potential-of-your-chromebook-with-windows-app-compatibility-via-recent-collaboration-says-zdnet/"><u>Unlock Full Potential of Your Chromebook with Windows App Compatibility via Recent Collaboration, Says ZDNet</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/why-upgrading-to-free-antivirus-solutions-is-the-future-insights-from-zdnet/"><u>Why Upgrading to Free Antivirus Solutions Is the Future: Insights From ZDNet</u></a></li>
-<li><a href="https://solve-help.techidaily.com/dvdx/"><u>プラチナ版DVDリッパーウィンX公式マニュアル:詳細な操作指示</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-bring-life-to-your-posts-animating-text-on-insta-stories/"><u>[New] Bring Life to Your Posts Animating Text on Insta Stories</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-essential-strategies-for-documenting-ps3-matches/"><u>[New] In 2024, Essential Strategies for Documenting PS3 Matches</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-stand-out-in-the-stream-top-name-generators-reviewed/"><u>[New] Stand Out in the Stream Top Name Generators Reviewed</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/1-step-by-step-guide-converting-howstuffworks-show-videos-into-popular-formats-like-mp4-avi-and-mov/"><u>1. Step-by-Step Guide: Converting HowStuffWorks Show Videos Into Popular Formats Like MP4, AVI, and MOV</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/best-way-to-save-and-download-content-from-youku-top-video-retrieval-apps/"><u>Best Way to Save and Download Content From Youku: Top Video Retrieval Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/faster-powerpoint-tips-for-quick-video-viewing-for-2024/"><u>Faster PowerPoint Tips for Quick Video Viewing for 2024</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/how-to-save-vidme-content-as-mp4-or-avi-files-on-pc-and-mac/"><u>How to Save VidMe Content as MP4 or AVI Files on PC and Mac</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-itel-p55t-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Itel P55T Through Google Earth?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-ios-and-android-downloading-and-personalizing-whatsapp-tones/"><u>In 2024, IOS & Android Downloading & Personalizing WhatsApp Tones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveil-the-quickest-ways-to-transform-your-game-characters-speech-in-pubg/"><u>In 2024, Unveil the Quickest Ways to Transform Your Game Characters' Speech in PUBG</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/quick-and-secure-methods-for-downloading-video-clips-from-pornhdcom/"><u>Quick & Secure Methods for Downloading Video Clips From PornHD.com</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/step-by-step-guide-converting-and-downloading-france-24-news-footage-in-various-formats-mp4-avi-mov/"><u>Step-by-Step Guide: Converting and Downloading France 24 News Footage in Various Formats (MP4, AVI, MOV)</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/step-by-step-tutorial-for-transforming-iptv-playlists-to-various-sound-codes-mp3-wav-and-more/"><u>Step-by-Step Tutorial for Transforming IPTV Playlists to Various Sound Codes: MP3, WAV & More</u></a></li>
 </ul></div>
 

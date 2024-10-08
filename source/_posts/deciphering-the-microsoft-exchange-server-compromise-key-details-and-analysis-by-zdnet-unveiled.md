@@ -1,7 +1,7 @@
 ---
 title: "Deciphering the Microsoft Exchange Server Compromise: Key Details and Analysis by ZDNet Unveiled"
-date: 2024-09-30T20:34:37.437Z
-updated: 2024-10-03T07:56:56.219Z
+date: 2024-10-07T16:23:48.150Z
+updated: 2024-10-08T16:59:48.988Z
 tags:
   - microsoft
 categories:
@@ -53,19 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -95,6 +82,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,10 +136,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -153,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,20 +202,15 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-strategies-for-building-a-hit-youtube-video-preview/"><u>[Updated] 2024 Approved Strategies for Building a Hit YouTube Video Preview</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-save-your-fb-pages-download-8-best-tools-online-and-free/"><u>[Updated] In 2024, Save Your FB Pages Download 8 Best Tools Online & Free</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-navigating-lut-use-in-professional-video-editing/"><u>2024 Approved Navigating LUT Use in Professional Video Editing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-guide-securely-integrating-tiktok-profile-links/"><u>2024 Approved Ultimate Guide Securely Integrating TikTok Profile Links</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/convert-mp4-to-flv-online-free-fast-conversion-by-movavi/"><u>Convert MP4 to FLV Online Free - Fast Conversion by Movavi</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/easy-step-by-step-strategies-for-crafting-amazing-time-lapse-footage-with-mobile-or-pc/"><u>Easy Step-by-Step Strategies for Crafting Amazing Time-Lapse Footage with Mobile or PC</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/easy-steps-to-transform-your-video-files-from-wmv-to-flv-format/"><u>Easy Steps to Transform Your Video Files From WMV to FLV Format</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/enhanced-handbrake-replacement-superior-stability-and-diverse-output-formats-with-audio-support/"><u>Enhanced Handbrake Replacement: Superior Stability & Diverse Output Formats with Audio Support</u></a></li>
-<li><a href="https://techtrends.techidaily.com/get-windows-media-player-free-for-your-new-windows-11-system-instant-installation-guide/"><u>Get Windows Media Player Free for Your New Windows 11 System - Instant Installation Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-easily-copy-and-paste-your-forex-and-gold-trades-from-mt5-to-mt4-by-mt4copier-guide/"><u>How To Easily Copy & Paste Your Forex and Gold Trades From MT5 to MT4</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/how-to-implement-free-automatic-closed-captioning-on-your-online-videos-easily/"><u>How to Implement Free Automatic Closed-Captioning on Your Online Videos Easily</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/mastering-image-editing-adding-captions-and-annotations-with-ease/"><u>Mastering Image Editing: Adding Captions & Annotations with Ease</u></a></li>
-<li><a href="https://techtrends.techidaily.com/opulent-innovations-meet-economy-pricing-the-best-value-gadgets/"><u>Opulent Innovations Meet Economy Pricing: The Best Value Gadgets</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/transforming-white-backdrops-into-transparency-a-modern-how-to/"><u>Transforming White Backdrops Into Transparency: A Modern How-To</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-todays-most-influential-social-networks-facebook-twitter-instagram-and-youtube/"><u>Understanding Today's Most Influential Social Networks: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/1-step-by-step-guide-converting-howstuffworks-show-videos-into-popular-formats-like-mp4-avi-and-mov/"><u>1. Step-by-Step Guide: Converting HowStuffWorks Show Videos Into Popular Formats Like MP4, AVI, and MOV</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/best-way-to-save-and-download-content-from-youku-top-video-retrieval-apps/"><u>Best Way to Save and Download Content From Youku: Top Video Retrieval Apps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cursory-fix-for-cursor-in-darkened-win11-screens/"><u>Cursory Fix for Cursor in Darkened Win11 Screens</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-next-step-boosting-user-engagement-with-new-panel-features/"><u>Facebook’s Next Step: Boosting User Engagement With New Panel Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/hp-and-airpod-enthusiasts-seamless-connection-techniques-revealed/"><u>HP and AirPod Enthusiasts: Seamless Connection Techniques Revealed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-psp-emulator-ios-top-5-picks/"><u>In 2024, PSP Emulator iOS Top 5 Picks</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-motorola-moto-g24-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Motorola Moto G24 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/by-step-approach-to-finding-youtube-collaborators/"><u>Step-by-Step Approach to Finding YouTube Collaborators</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/step-by-step-guide-converting-and-downloading-france-24-news-footage-in-various-formats-mp4-avi-mov/"><u>Step-by-Step Guide: Converting and Downloading France 24 News Footage in Various Formats (MP4, AVI, MOV)</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/step-by-step-tutorial-for-transforming-iptv-playlists-to-various-sound-codes-mp3-wav-and-more/"><u>Step-by-Step Tutorial for Transforming IPTV Playlists to Various Sound Codes: MP3, WAV & More</u></a></li>
 </ul></div>
 
