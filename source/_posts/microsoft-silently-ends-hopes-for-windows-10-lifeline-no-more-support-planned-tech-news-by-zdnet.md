@@ -1,7 +1,7 @@
 ---
 title: Microsoft Silently Ends Hopes for Windows 10 Lifeline; No More Support Planned | Tech News by ZDNet
-date: 2024-10-05T17:04:52.849Z
-updated: 2024-10-08T17:22:37.669Z
+date: 2024-10-09T17:36:36.990Z
+updated: 2024-10-14T16:40:51.502Z
 tags:
   - windows
 categories:
@@ -33,25 +33,11 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -62,18 +48,18 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Search for a command
 
@@ -86,6 +72,13 @@ Screenshot by Lance Whitney/ZDNET
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -104,6 +97,13 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
@@ -111,16 +111,10 @@ To change the icon from the generic folder image, right-click on it and select P
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
@@ -162,20 +156,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-unlocking-your-videos-top-7-rippers-explored/"><u>[New] 2024 Approved Unlocking Your Videos Top 7 Rippers Explored</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-skyrocketing-sales-with-high-roi-in-dynamic-fb-ad-creations/"><u>[New] In 2024, Skyrocketing Sales with High ROI in Dynamic FB Ad Creations</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-a-list-of-the-best-marriage-videos-celebrations-captured-online-8/"><u>[Updated] 2024 Approved A List of the Best Marriage Videos - Celebrations Captured Online (8)</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/download-award-winning-abc7-news-footage-as-video-files-mp4wmvavi/"><u>Download Award-Winning ABC7 News Footage as Video Files (MP4/WMV/AVI)</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/download-free-movies-from-youporn-save-in-high-quality-formats-like-mp4-avi-and-more/"><u>Download Free Movies From YouPorn: Save in High-Quality Formats Like MP4, AVI & More</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/download-soundcloud-apps-compatible-options-for-both-mac-and-windows-systems/"><u>Download SoundCloud Apps: Compatible Options for Both Mac & Windows Systems</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/download-star-wars-films-your-guide-to-obtaining-the-complete-saga-on-pc-or-mac/"><u>Download Star Wars Films: Your Guide to Obtaining the Complete Saga on PC or Mac</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/easy-video-conversion-on-novamov-get-your-favorite-videos-as-mp4-avi-and-more/"><u>Easy Video Conversion on NovaMov: Get Your Favorite Videos as MP4, AVI and More!</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/einthusan-downloader-quick-and-easy-movie-and-music-video-grabs/"><u>Einthusan Downloader - Quick & Easy Movie and Music Video Grabs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/explore-the-10-most-powerful-drawing-tools-on-chrome-os/"><u>Explore the 10 Most Powerful Drawing Tools on Chrome OS</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-xiaomi-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Xiaomi</u></a></li>
-<li><a href="https://review-topics.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-picks-the-best-uk-series-streaming-on-netflix-today/"><u>Top Picks: The Best UK Series Streaming on Netflix Today</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixing-persistent-stutters-in-overwatch-gameplay/"><u>Troubleshooting Guide: Fixing Persistent Stutters in Overwatch Gameplay</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-latency-a-comprehensive-tutorial-on-pinging-servers-online/"><u>Understanding Latency: A Comprehensive Tutorial on Pinging Servers Online</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-tips-for-adding-youtube-music-to-video/"><u>[New] Tips For Adding YouTube Music To Video</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-10-best-instagram-meme-accounts-to-make-you-laugh-with-tears-for-2024/"><u>[Updated] 10 Best Instagram Meme Accounts to Make You Laugh (with Tears) for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-clipcartoon-detailed-assessment-and-guide-2024/"><u>[Updated] ClipCartoon Detailed Assessment & Guide 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-tech-tutorial-record-on-hangouts/"><u>[Updated] Tech Tutorial Record on Hangouts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-optimal-capture-software-showdown-obs-studio-vs-fraps/"><u>2024 Approved Optimal Capture Software Showdown OBS Studio V/S Fraps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/avoid-disruptions-ensuring-presence-of-xinput13dll/"><u>Avoid Disruptions: Ensuring Presence of XINPUT1_3.dll</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nubia-red-magic-9-proplus-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Nubia Red Magic 9 Pro+ Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/infinite-skills-video-lessons-free-downloads-with-subtitles/"><u>Infinite Skills Video Lessons: Free Downloads with Subtitles</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/mastering-the-archive-how-to-save-and-transform-wayback-machine-videos-as-mp4-mov-avi-files/"><u>Mastering the Archive: How to Save and Transform Wayback Machine Videos as MP4, MOV, AVI Files</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/mp4-video-downloads-from-artistworks-save-your-favorite-lessons/"><u>MP4 Video Downloads From ArtistWorks - Save Your Favorite Lessons</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/simplify-video-consolidation-use-f4cross-to-unite-diverse-files-mp4-avi-wmv-flv-mov-into-one-file/"><u>Simplify Video Consolidation: Use F4Cross to Unite Diverse Files (MP4, AVI, WMV, FLV, MOV) Into One File</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/steps-to-convert-your-fpm-drawing-tutorials-into-popular-video-formats/"><u>Steps to Convert Your FPM Drawing Tutorials Into Popular Video Formats</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-samsung-galaxy-m54-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Samsung Galaxy M54 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-professional-color-grading-top-11/"><u>The Ultimate Guide to Professional Color Grading (Top 11)</u></a></li>
 </ul></div>
 

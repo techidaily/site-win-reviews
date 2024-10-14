@@ -1,7 +1,7 @@
 ---
 title: Can Microsoft's Latest Summit Stop a Repeat of the Global IT Catastrophe? Proven Strategies Discussed
-date: 2024-10-05T16:08:14.421Z
-updated: 2024-10-08T16:13:23.812Z
+date: 2024-10-08T17:06:40.370Z
+updated: 2024-10-14T16:48:49.225Z
 tags:
   - windows
 categories:
@@ -33,18 +33,18 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -62,10 +62,10 @@ Double-click the icon, and a window opens with all the available settings. The c
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Search for a command
@@ -81,10 +81,16 @@ When you see the setting or command you want, simply double-click it to launch i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
@@ -98,6 +104,13 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
@@ -109,13 +122,6 @@ Screenshot by Lance Whitney/ZDNET
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -156,22 +162,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-temporal-trials-inverting-and-rewinding-your-vids-on-iphone/"><u>[New] 2024 Approved Temporal Trials Inverting and Rewinding Your Vids on iPhone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-tips-for-integrating-supplemental-film-content/"><u>[New] 2024 Approved Tips for Integrating Supplemental Film Content</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-explore-the-best-facebook-lite-video-downloader-picks-of-2023-for-2024/"><u>[New] Explore the Best Facebook Lite Video Downloader Picks of 2023 for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-android-freedom-selecting-prime-video-editing-tools/"><u>[New] 2024 Approved Android Freedom Selecting Prime Video Editing Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-choosing-between-obs-and-streamlabs-for-broadcast-excellence-for-2024/"><u>[Updated] Choosing Between OBS and Streamlabs for Broadcast Excellence for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-guardianship-against-oculus-induced-discomfort-for-2024/"><u>[Updated] Guardianship Against Oculus-Induced Discomfort for 2024</u></a></li>
 <li><a href="https://win-reviews.techidaily.com/1-movaiff-movavi/"><u>1. 網路自由下 MOV到AIFF格式的移動過渡 - 使用Movavi轉換器</u></a></li>
 <li><a href="https://win-reviews.techidaily.com/aiffflac-movavi/"><u>免費AIFF到FLAC上線轉換器 - 利用Movavi自助改編音效</u></a></li>
 <li><a href="https://win-reviews.techidaily.com/movavi-dpxgif/"><u>使用Movavi DPX自動為GIF格式化 - 無限制免費線上轉換器</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/assassins-vikings-and-empire-domination-the-ultimate-review-of-assassins-creed-valhalla/"><u>Assassins, Vikings, and Empire Domination: The Ultimate Review of Assassin's Creed: Valhalla</u></a></li>
 <li><a href="https://win-reviews.techidaily.com/conversor-de-mpg-para-formato-wav-online-gratuito-movavi/"><u>Conversor De MPG Para Formato WAV Online Gratuito - Movavi</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/decouvrez-les-meilleures-applications-musiques-gratuites-pour-debutants-top-10-rapports/"><u>Découvrez Les Meilleures Applications Musiques Gratuites Pour Débutants : Top 10 Rapports</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/game-on-camera-strategies-for-videographers-in-sports-for-2024/"><u>Game On, Camera! Strategies for Videographers in Sports for 2024</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/online-vob-to-avi-converter-zonder-kosten-mobavivi/"><u>Online VOB-to-AVI Converter Zonder Kosten - Mobavivi</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-nokia-105-classic-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nokia 105 Classic Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/room-and-pc-prep-for-immersive-vr-experience/"><u>Room & PC Prep for Immersive VR Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723011416759-discord-overlay-not-responding-heres-how-to-get-it-working-again/"><u>Discord Overlay Not Responding? Here's How to Get It Working Again!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-capture-studio-screen-recorder-win10/"><u>In 2024, Capture Studio Screen Recorder Win10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-incorporating-captions-in-photography-a-user-friendly-guide-on-pc-and-mac/"><u>In 2024, Incorporating Captions in Photography A User-Friendly Guide on PC & Mac</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/personalize-with-free-youtube-profile-designs/"><u>Personalize With FREE YouTube Profile Designs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-the-normalizdll-file-is-missing-a-comprehensive-guide/"><u>Resolving the 'Normaliz.dll' File Is Missing: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/transformez-gratuitement-un-fichier-aac-en-mp3-en-ligne-movavi/"><u>Transformez Gratuitement Un Fichier AAC en MP3 en Ligne - Movavi</u></a></li>
 <li><a href="https://win-reviews.techidaily.com/tutorial-facile-transformer-un-fichier-flv-en-format-mpeg-gratuite-online-avec-convertit-videos/"><u>Tutorial Facile: Transformer Un Fichier FLV en Format MPEG Gratuite Online Avec Convertit-Vidéos</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-honor-x50-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-google-pixel-10-prospective-release-timeline-cost-estimates-and-specs-rumors/"><u>Upcoming Google Pixel 10: Prospective Release Timeline, Cost Estimates & Specs Rumors</u></a></li>
 <li><a href="https://win-reviews.techidaily.com/avi-webm-movavi/"><u>오피니 AVI 파일을 WEBM로 구속없이 바꾸기 - MOVAVI</u></a></li>
 </ul></div>
 

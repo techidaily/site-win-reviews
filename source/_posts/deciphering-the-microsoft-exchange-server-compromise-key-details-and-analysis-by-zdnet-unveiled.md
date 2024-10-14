@@ -1,7 +1,7 @@
 ---
 title: "Deciphering the Microsoft Exchange Server Compromise: Key Details and Analysis by ZDNet Unveiled"
-date: 2024-10-07T16:23:48.150Z
-updated: 2024-10-08T16:59:48.988Z
+date: 2024-10-11T16:41:29.706Z
+updated: 2024-10-14T16:43:56.668Z
 tags:
   - microsoft
 categories:
@@ -84,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -123,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,16 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -153,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,15 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-reviews.techidaily.com/1-step-by-step-guide-converting-howstuffworks-show-videos-into-popular-formats-like-mp4-avi-and-mov/"><u>1. Step-by-Step Guide: Converting HowStuffWorks Show Videos Into Popular Formats Like MP4, AVI, and MOV</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/best-way-to-save-and-download-content-from-youku-top-video-retrieval-apps/"><u>Best Way to Save and Download Content From Youku: Top Video Retrieval Apps</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cursory-fix-for-cursor-in-darkened-win11-screens/"><u>Cursory Fix for Cursor in Darkened Win11 Screens</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-next-step-boosting-user-engagement-with-new-panel-features/"><u>Facebook’s Next Step: Boosting User Engagement With New Panel Features</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/hp-and-airpod-enthusiasts-seamless-connection-techniques-revealed/"><u>HP and AirPod Enthusiasts: Seamless Connection Techniques Revealed</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-psp-emulator-ios-top-5-picks/"><u>In 2024, PSP Emulator iOS Top 5 Picks</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-motorola-moto-g24-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Motorola Moto G24 Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/by-step-approach-to-finding-youtube-collaborators/"><u>Step-by-Step Approach to Finding YouTube Collaborators</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/step-by-step-guide-converting-and-downloading-france-24-news-footage-in-various-formats-mp4-avi-mov/"><u>Step-by-Step Guide: Converting and Downloading France 24 News Footage in Various Formats (MP4, AVI, MOV)</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/step-by-step-tutorial-for-transforming-iptv-playlists-to-various-sound-codes-mp3-wav-and-more/"><u>Step-by-Step Tutorial for Transforming IPTV Playlists to Various Sound Codes: MP3, WAV & More</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-capture-winning-with-mov-files-on-your-windows-system/"><u>[New] Capture Winning with MOV Files on Your Windows System</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-best-action-cameras-with-a-front-facing-screen-for-2024/"><u>[Updated] Best Action Cameras with A Front Facing Screen for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-chart-topping-content-youtubes-top-5/"><u>[Updated] In 2024, Chart-Topping Content YouTube's Top 5</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-insider-guide-to-making-and-perfecting-haul-vlogs/"><u>[Updated] The Insider Guide to Making and Perfecting Haul Vlogs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-itel-p55-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Itel P55 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/6led/"><u>如何解決手提電腦起動時出現全黑屏的問題？6個專家提�led拯救方法揭秘！</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/crafting-compact-snaps-via-mac-techniques/"><u>Crafting Compact Snaps via Mac Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-optimal-offsite-organization-unveiling-best-practices-and-platforms/"><u>In 2024, Optimal Offsite Organization Unveiling Best Practices & Platforms</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/is-transforming-text-into-digital-magazine-formats-with-flipbuilder-the-future-of-publishing/"><u>Is Transforming Text Into Digital Magazine Formats with FlipBuilder the Future of Publishing?</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/master-the-art-of-multitasking-converting-bulk-ppt-files-to-interactive-flipbooks-in-minutes-using-flipbuilder/"><u>Master the Art of Multitasking: Converting Bulk PPT Files to Interactive Flipbooks in Minutes Using FlipBuilder</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/mastering-custom-link-styling-for-hover-effects-in-flipbook-using-flipbuilder-tools/"><u>Mastering Custom Link Styling for Hover Effects in FlipBook Using FlipBuilder Tools</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/navigating-through-pages-swiftly-a-comprehensive-tutorial-for-apple-users-on-reading-flip-books-with-ease/"><u>Navigating Through Pages Swiftly: A Comprehensive Tutorial for Apple Users on Reading Flip Books with Ease</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/switching-flipbook-reading-direction-how-to-convert-from-rtl-to-ltr-on-flipplercom/"><u>Switching Flipbook Reading Direction: How to Convert From RTL to LTR on flippler.com?</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/transform-pdfs-into-interactive-e-booklets-with-flipbuilder-for-engaging-sales-presentations/"><u>Transform PDFs Into Interactive E-Booklets with FlipBuilder for Engaging Sales Presentations</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/understanding-the-duration-of-flippdf-pros-activation-key-insights-and-details/"><u>Understanding the Duration of FlipPDF Pro's Activation Key: Insights and Details</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover the Best Deal on Microsoft Office 2019 for Both PC and Mac: Save Big with a Secure Price of $25 | Insights by ZDNET"
-date: 2024-10-02T18:09:54.898Z
-updated: 2024-10-08T17:41:11.217Z
+date: 2024-10-11T16:43:33.414Z
+updated: 2024-10-14T16:25:25.661Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,22 +129,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-smooth-sailing-navigating-the-world-of-igtv-videos/"><u>[Updated] 2024 Approved Smooth Sailing Navigating the World of IGTV Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-rhythms-companion-finding-premium-club-vids/"><u>[Updated] Rhythm's Companion Finding Premium Club Vids</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-analyzing-vlc-screen-captures/"><u>2024 Approved Analyzing VLC Screen Captures</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-master-fast-sharing-youtube-playlists-made-simple/"><u>2024 Approved Master Fast Sharing YouTube Playlists Made Simple</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-zte-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove ZTE Fingerprint Lock</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/crafting-memorable-brand-centric-flipbooks-using-flipbuilder-a-step-by-step-guide/"><u>Crafting Memorable Brand-Centric FlipBooks Using FlipBuilder – A Step-by-Step Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/dearmob-user-manual-effortlessly-move-music-from-ios-device-to-pc-with-windows-os/"><u>DearMob User Manual: Effortlessly Move Music From iOS Device to PC with Windows OS</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/discover-frame-styles-for-your-custom-inserts-flipbuildercom/"><u>Discover Frame Styles for Your Custom Inserts - FlipBuilder.com</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/effortless-navigation-switch-pages-in-understanding-with-flipbuilder/"><u>Effortless Navigation - Switch Pages in Understanding with FlipBuilder</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/exploring-book-creation-what-types-of-books-can-you-produce-using-the-flipoffice-software/"><u>Exploring Book Creation: What Types of Books Can You Produce Using the FlipOffice Software?</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/exploring-the-variety-of-delivery-styles-how-many-format-options-are-available-at-flipbuildercom/"><u>Exploring the Variety of Delivery Styles: How Many Format Options Are Available at FlipBuilder.com?</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/exporting-your-flipbuilder-theme-a-step-by-step-guide/"><u>Exporting Your FlipBuilder Theme: A Step-by-Step Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-nokia-105-classic-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Nokia 105 Classic Face Lock?</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/how-to-embed-mp3-audio-files-in-your-epub-or-interactive-pdfs-using-flipbuilder/"><u>How to Embed MP3 Audio Files in Your ePub or Interactive PDFs Using FlipBuilder</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-iphone-11-pro-max-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on iPhone 11 Pro Max online without jailbreak</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/identifying-flip-builders-version-seal-on-post-purchase-output-publications/"><u>Identifying Flip Builder's Version Seal on Post-Purchase Output Publications</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-5-mkv-players-for-mac/"><u>Top 5 MKV Players for Mac</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-jokegenius-easy-login-creative-video-making/"><u>[New] JokeGenius Easy Login, Creative Video Making</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/aiffflac-movavi/"><u>免費AIFF到FLAC上線轉換器 - 利用Movavi自助改編音效</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/decouvrez-les-meilleures-applications-musiques-gratuites-pour-debutants-top-10-rapports/"><u>Découvrez Les Meilleures Applications Musiques Gratuites Pour Débutants : Top 10 Rapports</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/follow-up/"><u>Follow Up</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/gratuit-migrate-avi-to-ogg-formats-via-web-movavis-comprehensive-guide/"><u>Gratuit Migrate AVI To Ogg Formats via Web - Movavi's Comprehensive Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-revolutionizing-screen-experience-lgs-2023-bp550/"><u>In 2024, Revolutionizing Screen Experience - LG's 2023 BP550</u></a></li>
+<li><a href="https://windows11.techidaily.com/learn-to-break-the-synergy-onedrive-and-microsoft-profile-split/"><u>Learn to Break the Synergy: OneDrive and Microsoft Profile Split</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/1726226582224-movavi/"><u>Movaviプログラムの簡単な使い方とテクニック</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/online-vob-to-avi-converter-zonder-kosten-mobavivi/"><u>Online VOB-to-AVI Converter Zonder Kosten - Mobavivi</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-lava-yuva-3-pro-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Lava Yuva 3 Pro Device</u></a></li>
+<li><a href="https://win-blog.techidaily.com/try-simple-recipes-that-require-minimal-preparation-especially-on-busy-days-from-work/"><u>Try Simple Recipes that Require Minimal Preparation, Especially on Busy Days From Work.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-projecting-your-windows-desktop-on-the-big-screen-with-googles-cast-technology/"><u>Ultimate Guide: Projecting Your Windows Desktop on the Big Screen with Google's Cast Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-potential-boosting-valorants-frame-rates-on-pc-platform/"><u>Unleashing Potential: Boosting Valorant's Frame Rates on PC Platform</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlock Full Potential of Your Chromebook with Windows App Compatibility via Recent Collaboration, Says ZDNet
-date: 2024-10-07T17:04:20.318Z
-updated: 2024-10-08T16:53:11.416Z
+date: 2024-10-09T17:01:55.283Z
+updated: 2024-10-14T16:15:18.653Z
 tags:
   - windows
 categories:
@@ -33,13 +33,6 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
@@ -47,16 +40,10 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
@@ -68,24 +55,37 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Search for a command
 
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
 
@@ -104,6 +104,13 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
@@ -115,13 +122,6 @@ Screenshot by Lance Whitney/ZDNET
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -162,19 +162,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-superfast-windows-images-scaner/"><u>[New] 2024 Approved Superfast Windows Images Scaner</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-grappling-glory-selecting-the-ultimate-fight-simulator/"><u>[New] Grappling Glory Selecting the Ultimate Fight Simulator</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pro-photographers-picks-top-6-high-resolution-4k-dslrs/"><u>[New] Pro Photographers' Picks Top 6 High-Resolution 4K DSLRs</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ace-your-gaming-defeating-constant-crashes-in-call-of-duty-warzones-pacific-region/"><u>Ace Your Gaming: Defeating Constant Crashes in Call of Duty Warzone's Pacific Region</u></a></li>
-<li><a href="https://techtrends.techidaily.com/anticipated-apple-household-assistant-bot-projected-cost-and-launch-timeline-unveiled/"><u>Anticipated Apple Household Assistant Bot - Projected Cost & Launch Timeline Unveiled</u></a></li>
-<li><a href="https://fox-access.techidaily.com/cut-to-style-using-inshot-for-elegant-video-transitions-for-2024/"><u>Cut to Style Using Inshot for Elegant Video Transitions for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-logitechs-latest-drivers-fast-optimized-for-windows-users/"><u>Download Logitech's Latest Drivers Fast: Optimized for Windows Users</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/expert-picks-premium-noise-canceling-window-treatments-pcmag/"><u>Expert Picks: Premium Noise-Canceling Window Treatments | PCMag</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/global-viewer-count-triumphs-play-button-honors-for-2024/"><u>Global Viewer Count Triumphs Play Button Honors for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-initiating-your-online-journey-a-step-by-step-guide-to-youtube/"><u>[New] 2024 Approved Initiating Your Online Journey A Step-by-Step Guide to YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-turbocharge-video-on-snapchat-new-users-edition/"><u>[Updated] 2024 Approved Turbocharge Video on Snapchat New Users Edition</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/affordable-microsoft-office-2019-bundle-deal-windows-and-mac-installation-at-only-25-how-to-by-gadgetgenius/"><u>Affordable Microsoft Office 2019 Bundle Deal - Windows & Mac Installation at Only $25 | How-To by GadgetGenius</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/become-a-pokemon-master-with-this-essential-how-to-on-pokemon-go/"><u>Become a Pokémon Master with This Essential How-To on Pokémon Go</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/comparing-leading-ai-conversationalists-chatgpt-microsofts-copilot-and-gemini/"><u>Comparing Leading AI Conversationalists: ChatGPT, Microsoft's Copilot, and Gemini</u></a></li>
+<li><a href="https://win-updates.techidaily.com/die-umfassende-anleitung-zu-robocpy-in-windows-11-einsatzstrategien-and-fuhrende-ersatzmethoden/"><u>Die Umfassende Anleitung Zu Robocpy in Windows 11: Einsatzstrategien & Führende Ersatzmethoden</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/excel-drop-down-menu-creation-a-fast-and-simple-guide-from-zdnet/"><u>Excel Drop-Down Menu Creation: A Fast & Simple Guide From ZDNet</u></a></li>
 <li><a href="https://win-reviews.techidaily.com/how-to-safely-downgrade-from-windows-11-to-windows-10-understanding-the-important-limitations/"><u>How to Safely Downgrade From Windows 11 to Windows 10: Understanding the Important Limitations</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-pro-max-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Pro Max To Other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-a56s-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Oppo A56s 5G Phone without Google Account?</u></a></li>
 <li><a href="https://win-reviews.techidaily.com/how-top-pc-brands-are-rolling-out-new-windows-11-se-edtech-gear-a-closer-look-at-the-future-of-learning/"><u>How Top PC Brands Are Rolling Out New Windows 11 SE EdTech Gear - A Closer Look at the Future of Learning</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-your-discord-experience-with-top-servers/"><u>Maximizing Your Discord Experience with Top Servers</u></a></li>
 <li><a href="https://win-reviews.techidaily.com/navigating-microsoft-365-a-step-by-step-guide-to-controlling-your-subscription-on-windows-11-insights-from-zdnet/"><u>Navigating Microsoft 365: A Step-by-Step Guide to Controlling Your Subscription on Windows 11 - Insights From ZDNet</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/step-by-step-guide-to-setting-up-and-controlling-microsoft-accounts-for-household-use-zdnet/"><u>Step-by-Step Guide to Setting Up & Controlling Microsoft Accounts for Household Use - ZDNet</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/onedrive-introduces-offline-functionality-for-seamless-file-editing-in-isolated-locations-digital-innovation-today/"><u>OneDrive Introduces Offline Functionality for Seamless File Editing in Isolated Locations | Digital Innovation Today</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/purchase-discounted-microsoft-project-and-visio-professional-licenses-at-just-20-on-zdnet/"><u>Purchase Discounted Microsoft Project & Visio Professional Licenses at Just $20 on ZDNet!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-modern-warfare-3-flaw-fixing-memory-issue-code-12707/"><u>Resolved: Modern Warfare 3 Flaw - Fixing Memory Issue Code 12707</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-top-criteria-for-selecting-fpv-drones-propellers-for-2024/"><u>Unveiling Top Criteria for Selecting FPV Drones' Propellers for 2024</u></a></li>
 </ul></div>
 

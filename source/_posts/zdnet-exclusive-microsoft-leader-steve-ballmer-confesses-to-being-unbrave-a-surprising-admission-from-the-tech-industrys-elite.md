@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: Microsoft Leader Steve Ballmer Confesses to Being Unbrave – A Surprising Admission From the Tech Industry's Elite"
-date: 2024-10-03T17:19:15.360Z
-updated: 2024-10-08T16:02:05.437Z
+date: 2024-10-08T17:23:39.136Z
+updated: 2024-10-14T16:52:09.677Z
 tags:
   - microsoft
 categories:
@@ -114,25 +114,28 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-fast-forwarding-in-netflix-playback-speed-tweaks/"><u>[Updated] Fast-Forwarding in Netflix - Playback Speed Tweaks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-multiplayer-movies-review-poker-edition/"><u>2024 Approved MULTIPLAYER MOVIES REVIEW Poker Edition</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/excel-drop-down-menu-creation-a-fast-and-simple-guide-from-zdnet/"><u>Excel Drop-Down Menu Creation: A Fast & Simple Guide From ZDNet</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/expert-picks-premium-noise-canceling-window-treatments-pcmag/"><u>Expert Picks: Premium Noise-Canceling Window Treatments | PCMag</u></a></li>
-<li><a href="https://win-forum.techidaily.com/explore-the-world-of-digital-interaction-with-facebook-twitter-instagram-and-youtube/"><u>Explore the World of Digital Interaction with Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-maintain-stable-fps-in-dota-2-while-playing-under-windows-11-environments/"><u>How to Maintain Stable FPS in Dota 2 While Playing Under Windows 11 Environments</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-poco-m6-pro-4g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Poco M6 Pro 4G</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/how-to-safely-downgrade-from-windows-11-to-windows-10-understanding-the-important-limitations/"><u>How to Safely Downgrade From Windows 11 to Windows 10: Understanding the Important Limitations</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/how-top-pc-brands-are-rolling-out-new-windows-11-se-edtech-gear-a-closer-look-at-the-future-of-learning/"><u>How Top PC Brands Are Rolling Out New Windows 11 SE EdTech Gear - A Closer Look at the Future of Learning</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-mastering-the-art-of-valheim-gardening/"><u>In 2024, Mastering the Art of Valheim Gardening</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-securing-your-videos-against-unwanted-motion/"><u>In 2024, Securing Your Videos Against Unwanted Motion</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/navigating-microsoft-365-a-step-by-step-guide-to-controlling-your-subscription-on-windows-11-insights-from-zdnet/"><u>Navigating Microsoft 365: A Step-by-Step Guide to Controlling Your Subscription on Windows 11 - Insights From ZDNet</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/step-by-step-guide-to-setting-up-and-controlling-microsoft-accounts-for-household-use-zdnet/"><u>Step-by-Step Guide to Setting Up & Controlling Microsoft Accounts for Household Use - ZDNet</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-the-rise-of-vidma-transforming-the-landscape-of-capture-technology/"><u>[Updated] 2024 Approved The Rise of Vidma Transforming the Landscape of Capture Technology</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-avoiding-common-pitfalls-crafting-memes-on-9gag-successfully/"><u>[Updated] Avoiding Common Pitfalls Crafting Memes on 9GAG Successfully</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-penning-podcasts-to-perfection-a-compreomed-writers-guide/"><u>2024 Approved Penning Podcasts to Perfection A Compreomed Writer’s Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pixel-power-the-top-10-cameras-for-clear-images/"><u>2024 Approved Pixel Power The Top 10 Cameras for Clear Images</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-probing-deep-into-inshots-editing-capabilities/"><u>2024 Approved Probing Deep Into InShot's Editing Capabilities</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/affordable-productivity-boost-microsoft-office-2019-license-available-for-windows-and-mac-only-25-now-zdnet-exclusive/"><u>Affordable Productivity Boost: Microsoft Office 2019 License Available for Windows & Mac, Only $25 Now – ZDNet Exclusive</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/discover-the-best-deal-on-microsoft-office-2019-for-both-pc-and-mac-save-big-with-a-secure-price-of-25-insights-by-zdnet/"><u>Discover the Best Deal on Microsoft Office 2019 for Both PC and Mac: Save Big with a Secure Price of $25 | Insights by ZDNET</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Oppo Reno 8T? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-samsung-galaxy-m54-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Samsung Galaxy M54 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/onedrive-introduces-offline-functionality-for-seamless-file-editing-in-isolated-locations-digital-innovation-today/"><u>OneDrive Introduces Offline Functionality for Seamless File Editing in Isolated Locations | Digital Innovation Today</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/seamless-continuity-how-office-2016-and-2019-will-remain-connected-to-m365-in-the-coming-year-insights-from-zdnet/"><u>Seamless Continuity: How Office 2016 & 2019 Will Remain Connected to M365 in the Coming Year - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/secure-and-update-child-details-on-messenger-kids-app/"><u>Secure & Update Child Details on Messenger Kids App</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/southwest-airlines-brings-positive-changes-bad-news-for-the-microsoft-mogul-a-closer-look-by-techzine/"><u>Southwest Airlines Brings Positive Changes, Bad News for the Microsoft Mogul – A Closer Look by TechZine</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-for-gpts-new-browsing-features/"><u>Step-by-Step Guide for GPT's New Browsing Features</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/unpacking-the-microsoft-surface-and-ai-gathering-top-5-overlooked-revelations-insights-from-zdnet/"><u>Unpacking the Microsoft Surface & AI Gathering: Top 5 Overlooked Revelations - Insights From ZDNet</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/watch-and-understand-how-microsoft-edge-utilizes-ai-for-live-translation-of-youtube-content-insights-from-zdnet/"><u>Watch and Understand: How Microsoft Edge Utilizes AI for Live Translation of YouTube Content | Insights From ZDNET</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

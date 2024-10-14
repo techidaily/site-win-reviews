@@ -1,7 +1,7 @@
 ---
 title: Affordable Microsoft Office 2019 Bundle Deal - Windows & Mac Installation at Only $25 | How-To by GadgetGenius
-date: 2024-10-06T17:55:55.392Z
-updated: 2024-10-08T17:37:06.654Z
+date: 2024-10-09T16:31:13.150Z
+updated: 2024-10-14T16:20:45.530Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -95,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,15 +135,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,22 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-maximizing-reach-sharing-igtv-to-fb-4-methods/"><u>[New] In 2024, Maximizing Reach Sharing IGTV to FB (4 Methods)</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-securing-continuous-frame-playback-in-live-broadcasts/"><u>[New] In 2024, Securing Continuous Frame Playback in Live Broadcasts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-methodology-for-video-filter-addition-on-tech-devices/"><u>[New] Step-by-Step Methodology for Video Filter Addition on Tech Devices</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-innovative-ways-to-record-mobile-content-on-android/"><u>[Updated] 2024 Approved Innovative Ways to Record Mobile Content on Android</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-notorious-top-20-vlogging-ideas/"><u>2024 Approved From Novice to Notorious Top 20 Vlogging Ideas</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/best-free-webcam-background-replacers-top-7-picks/"><u>Best Free Webcam Background Replacers: Top 7 Picks</u></a></li>
-<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-11-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By Apple iPhone 11 without the Previous Owner?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-ideal-editing-tools-best-phones-options-for-gopro-videos-for-2024/"><u>[New] Ideal Editing Tools Best Phones' Options for GoPro Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unboxed-talent-the-breakout-females-dominating-youtube/"><u>[New] Unboxed Talent The Breakout Females Dominating YouTube</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-streamline-your-content-embedding-youtube-media-into-instagrams-story-section/"><u>[Updated] Streamline Your Content Embedding YouTube Media Into Instagram's Story Section</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimize-tiktok-interaction-learning-to-update-numbers/"><u>2024 Approved Optimize TikTok Interaction Learning to Update Numbers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-source-guide-4-top-skype-ringtones/"><u>2024 Approved The Ultimate Source Guide 4 Top Skype Ringtones</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/convert-videos-on-mac-at-no-cost-top-free-mac-video-conversion-tools/"><u>Convert Videos on Mac at No Cost: Top Free Mac Video Conversion Tools</u></a></li>
 <li><a href="https://win-reviews.techidaily.com/download-our-free-tool-for-instant-amr-to-mp3-conversion-save-time-upgrade-sound-quality/"><u>Download Our FREE Tool for Instant AMR to MP3 Conversion – Save Time, Upgrade Sound Quality!</u></a></li>
 <li><a href="https://win-reviews.techidaily.com/easy-guide-to-live-streaming-your-gaming-sessions-in-omlets-arcade/"><u>Easy Guide to Live-Streaming Your Gaming Sessions in Omlet's Arcade</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/easy-methods-for-data-restoration-on-external-drives/"><u>Easy Methods for Data Restoration on External Drives</u></a></li>
 <li><a href="https://win-reviews.techidaily.com/easy-steps-transforming-your-flv-videos-into-high-quality-wmv-format/"><u>Easy Steps: Transforming Your FLV Videos Into High-Quality WMV Format</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/easy-tutorial-on-recovering-voice-recordings-from-your-ios-device/"><u>Easy Tutorial on Recovering Voice Recordings From Your iOS Device</u></a></li>
 <li><a href="https://win-reviews.techidaily.com/effortless-methods-to-take-quicktime-screenshots-in-under-a-minute/"><u>Effortless Methods to Take QuickTime Screenshots in Under a Minute</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Infinix Hot 40? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-instantly-recover-lost-reddit-posts/"><u>In 2024, How to Instantly Recover Lost Reddit Posts</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-unintended-tiktok-reset-how-to-get-back-old-videos/"><u>In 2024, Unintended TikTok Reset – How to Get Back Old Videos?</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/effortlessly-transform-your-vob-files-into-high-quality-mov-videos/"><u>Effortlessly Transform Your VOB Files Into High-Quality MOV Videos</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-xr-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone XR Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-unveiling-the-top-10-drawing-apps-for-chromebooks/"><u>In 2024, Unveiling the Top 10 Drawing Apps for Chromebooks</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/instant-hd-fb-content-downloader-for-2024/"><u>Instant HD FB Content Downloader for 2024</u></a></li>
 <li><a href="https://win-reviews.techidaily.com/step-by-step-guide-connecting-your-android-device-to-a-samsung-smart-tv/"><u>Step-by-Step Guide: Connecting Your Android Device to a Samsung Smart TV</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/step-by-step-guide-making-your-image-backgrounds-completely-invisible/"><u>Step-by-Step Guide: Making Your Image Backgrounds Completely Invisible</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/top-5-must-have-web-apps-for-effortless-online-image-editing/"><u>Top 5 Must-Have Web Apps for Effortless Online Image Editing</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-endless-enigma-of-earths-ultimate-term/"><u>The Endless Enigma of Earth's Ultimate Term</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/understanding-legal-document-dimensions-a-guide-to-appropriate-paper-sizes/"><u>Understanding Legal Document Dimensions: A Guide to Appropriate Paper Sizes</u></a></li>
 </ul></div>
 

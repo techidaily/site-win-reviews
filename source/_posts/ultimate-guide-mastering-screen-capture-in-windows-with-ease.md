@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Mastering Screen Capture in Windows with Ease"
-date: 2024-10-04T16:54:58.879Z
-updated: 2024-10-08T17:54:38.301Z
+date: 2024-10-07T16:55:55.604Z
+updated: 2024-10-14T16:36:56.939Z
 tags:
   - product
 categories:
@@ -46,13 +46,6 @@ Action Tutorials
   
  Share this tutorial:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Introduction
 
  Action! Allows you to take screenshots of your Windows desktop/screen easily and save them as BMP, PNG or JPEG images in specified output directory. 
@@ -63,10 +56,10 @@ Action Tutorials
 * making screenshots of selected Windows screen area
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Making Screenshot on Windows using fullscreen method
@@ -75,6 +68,13 @@ Action Tutorials
 
 ![Mirillis Action! - capture screenshots tab](https://mirillis.com/res/old/gfx/tutorials/howto/cs1tab.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Making Screenshots on Windows using Active Desktop Region / Area method
 
  The active desktop region/area method is more suitable for taking screenshot on windows if you want to capture a specific area of your Windows desktop / screen. To make a screenshot of selectred Windows screen area open Action! Application, open Video capture/recording tab and select the Active Desktop Region/Area recording mode.
@@ -82,32 +82,26 @@ Action Tutorials
 ![Mirillis Action! - selecting desktop region](https://mirillis.com/res/old/gfx/tutorials/howto/cs2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This will show a new Action! Window with possibility to select a specified Windows screen area. You can adjust the active screenshot area using the mouse cursor and arrows on the keyboard. 
 
 ![Mirillis Action! - select desktop region](https://mirillis.com/res/old/gfx/tutorials/howto/cs3.png) 
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you have adjusted the active region to meet your requirements, press the “Capture Screenshots” button to make a screenshot of the selected Windows screen area.
 
 ![Mirillis Action! - capture screenshot](https://mirillis.com/res/old/gfx/tutorials/howto/cs4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,19 +118,24 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-a-review-10-most-effective-methods-for-live-cricket-streaming/"><u>[New] A Review 10 Most Effective Methods for Live Cricket Streaming</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/aster-technique-long-term-disabling-of-youtube-shorts-for-2024/"><u>[New] Master Technique Long-Term Disabling of YouTube Shorts for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-ultimate-roadmap-for-spotify-ad-mastery/"><u>[Updated] In 2024, The Ultimate Roadmap for Spotify Ad Mastery</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-guide-for-effortless-youtube-shorts-design-for-2024/"><u>[Updated] The Ultimate Guide for Effortless YouTube Shorts Design for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-pioneering-scripts-reflecting-diverse-genre-themes/"><u>2024 Approved Pioneering Scripts Reflecting Diverse Genre Themes</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/adding-audio-enhancements-to-your-ebook-with-flipbuilder-a-comprehensive-guide/"><u>Adding Audio Enhancements to Your eBook with FlipBuilder - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/adding-youtube-content-to-flipbook-projects-made-simple-with-flipbuilder-tutorial/"><u>Adding YouTube Content to FlipBook Projects Made Simple With FlipBuilder Tutorial</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pictolaugh-design-humor-graphics/"><u>In 2024, PictoLaugh Design Humor Graphics</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/movavinin-hd-video-cevrilmede-mp3-donusturucusu-video-mp3-donustirecek-konverteri/"><u>Movavi'nin HD Video Çevrilmede MP3 Dönüştürücüsü | Video-MP3 Dönüştirecek Konverteri</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-software-limitations-on-freesync/"><u>Overcoming Software Limitations on FreeSync</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/priprava-movavi-na-nahravani-interniho-zvuku-na-macu-otazky-a-odpovedi-8-uskalistu-radovanych/"><u>Příprava Movavi Na Nahrávání Interního Zvuku Na Macu: Otázky a Odpovědi, 8 Úskališťů Radovaných</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/transferer-video-de-fichier-avi-au-format-mp4-sans-cout-service-facile-a-utiliser-de-movavi/"><u>Transférer Vidéo De Fichier AVI Au Format MP4 Sans Coût - Service Facile À Utiliser De Movavi</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-game-crashes-in-house-flipper-2-for-windows-users/"><u>Troubleshooting Game Crashes in House Flipper 2 for Windows Users</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-elevate-your-gaming-experience-innovative-ways-to-record-vr-games/"><u>[New] 2024 Approved Elevate Your Gaming Experience Innovative Ways to Record VR Games</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/arning-in-a-world-dominated-by-youtubers-for-2024/"><u>[New] Earning in a World Dominated by YouTubers for 2024</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/1-movaiff-movavi/"><u>1. 網路自由下 MOV到AIFF格式的移動過渡 - 使用Movavi轉換器</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/aiffflac-movavi/"><u>免費AIFF到FLAC上線轉換器 - 利用Movavi自助改編音效</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/movavi-dpxgif/"><u>使用Movavi DPX自動為GIF格式化 - 無限制免費線上轉換器</u></a></li>
+<li><a href="https://win-blog.techidaily.com/addressing-compatibility-and-errors-for-smooth-gameplay-of-modern-warfare-on-pc-2024-version/"><u>Addressing Compatibility and Errors for Smooth Gameplay of Modern Warfare on PC (2024 Version)</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/conversor-de-mpg-para-formato-wav-online-gratuito-movavi/"><u>Conversor De MPG Para Formato WAV Online Gratuito - Movavi</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/decouvrez-les-meilleures-applications-musiques-gratuites-pour-debutants-top-10-rapports/"><u>Découvrez Les Meilleures Applications Musiques Gratuites Pour Débutants : Top 10 Rapports</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-techniques-to-erase-kernel-panic-logs-from-windows-10/"><u>Expert Techniques to Erase Kernel Panic Logs From Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-claude-pros-features-against-gptplusplus/"><u>Exploring Claude Pro's Features Against GPT+Plus</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/1725290547933-flv-flvaviwmvmp4mp3/"><u>FLV轉格器 - 快速轉換FLV到AVI/WMV/MP4/MP3多種影片和音效格式</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/gratuit-migrate-avi-to-ogg-formats-via-web-movavis-comprehensive-guide/"><u>Gratuit Migrate AVI To Ogg Formats via Web - Movavi's Comprehensive Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-apple-iphone-13-pro-maxwindowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your Apple iPhone 13 Pro Max/Windows/Mac</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/mastering-large-scale-tiktok-video-downloads/"><u>Mastering Large-Scale TikTok Video Downloads</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/online-vob-to-avi-converter-zonder-kosten-mobavivi/"><u>Online VOB-to-AVI Converter Zonder Kosten - Mobavivi</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-loom-reel-detailed-guide-to-screen-capture/"><u>The Loom Reel Detailed Guide to Screen Capture</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-twin-dips-in-game-fluidity-an-advanced-guide-for-gamers/"><u>Troubleshooting Twin Dips in Game Fluidity: An Advanced Guide for Gamers</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/tutorial-facile-transformer-un-fichier-flv-en-format-mpeg-gratuite-online-avec-convertit-videos/"><u>Tutorial Facile: Transformer Un Fichier FLV en Format MPEG Gratuite Online Avec Convertit-Vidéos</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/avi-webm-movavi/"><u>오피니 AVI 파일을 WEBM로 구속없이 바꾸기 - MOVAVI</u></a></li>
 </ul></div>
 

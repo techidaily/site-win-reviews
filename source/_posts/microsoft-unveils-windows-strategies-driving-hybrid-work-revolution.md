@@ -1,7 +1,7 @@
 ---
 title: Microsoft Unveils Windows Strategies Driving Hybrid Work Revolution
-date: 2024-10-06T17:37:31.275Z
-updated: 2024-10-08T17:53:12.426Z
+date: 2024-10-11T17:04:10.290Z
+updated: 2024-10-14T17:11:40.158Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +75,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -123,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,22 +149,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,19 +202,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-stopcapture-screen-freeze-assist/"><u>[New] In 2024, StopCapture Screen Freeze Assist</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-reimagined-computing-with-windows-10s-upgrades-for-2024/"><u>[New] Reimagined Computing with Windows 10’S Upgrades for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-elevate-your-content-11-steps-to-amplify-fb-video-performance-for-2024/"><u>[Updated] Elevate Your Content 11 Steps to Amplify FB Video Performance for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-youtube-earnings-estimator-tools/"><u>2024 Approved YouTube Earnings Estimator Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dodging-fraudsters-a-guide-to-genuine-vs-bogus-bingcoin-offers/"><u>Dodging Fraudsters: A Guide to Genuine vs Bogus BingCoin Offers</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/easy-video-conversion-on-novamov-get-your-favorite-videos-as-mp4-avi-and-more/"><u>Easy Video Conversion on NovaMov: Get Your Favorite Videos as MP4, AVI and More!</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/einthusan-downloader-quick-and-easy-movie-and-music-video-grabs/"><u>Einthusan Downloader - Quick & Easy Movie and Music Video Grabs</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/extract-and-convert-tracks-from-22tracks-to-multiple-audio-types-wav-mp3-flac/"><u>Extract and Convert Tracks From 22Tracks to Multiple Audio Types (WAV, MP3, FLAC)</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/fakehub-video-extraction-tool-easily-save-and-convert-videos-to-popular-formats-like-mp4-mov-avi-using-fakehub-downloader/"><u>FAKEhub Video Extraction Tool - Easily Save and Convert Videos to Popular Formats Like MP4, MOV, AVI Using FAKEhub Downloader</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/free-spotify-offline-access-a-step-by-step-tutorial-for-non-premium-users/"><u>Free Spotify Offline Access – A Step-by-Step Tutorial for Non-Premium Users</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-lava-yuva-2-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Lava Yuva 2 Pro</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/single-page-layout-showcasing-your-flipping-book-entirely-at-once-with-flipbuilder/"><u>Single-Page Layout: Showcasing Your Flipping Book Entirely at Once with FlipBuilder</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ssential-manual-for-youtube-to-gif-conversion-online/"><u>The Essential Manual for YouTube-to-GIF Conversion Online</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-orientation-overhaul-instagrams-video-rotation-secret/"><u>[New] 2024 Approved Orientation Overhaul Instagram's Video Rotation Secret</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-strategies-for-swiftly-locating-forgotten-reddit-threads/"><u>[New] 2024 Approved Strategies for Swiftly Locating Forgotten Reddit Threads</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-insiders-guide-to-overwatch-game-recording-for-2024/"><u>[New] The Insider's Guide to Overwatch Game Recording for 2024</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/1-step-by-step-guide-converting-howstuffworks-show-videos-into-popular-formats-like-mp4-avi-and-mov/"><u>1. Step-by-Step Guide: Converting HowStuffWorks Show Videos Into Popular Formats Like MP4, AVI, and MOV</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-users-guide-to-toggling-off-sticky-keys-functionality-on-windows-systems/"><u>A User's Guide to Toggling Off Sticky Keys Functionality on Windows Systems</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/best-way-to-save-and-download-content-from-youku-top-video-retrieval-apps/"><u>Best Way to Save and Download Content From Youku: Top Video Retrieval Apps</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/bypassing-youtube-restrictions-secure-your-downloads-using-a-vpn-or-proxy/"><u>Bypassing YouTube Restrictions: Secure Your Downloads Using a VPN or Proxy</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/convert-and-save-your-favorite-tlc-tv-episodes-as-mp4movavi-on-macos-or-windows-systems/"><u>Convert and Save Your Favorite TLC TV Episodes as MP4/MOV/AVI on macOS or Windows Systems</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/converting-youtube-videos-into-quicktime-format-movmp4-a-step-by-step-guide/"><u>Converting YouTube Videos Into QuickTime Format (MOV/MP4): A Step-by-Step Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/decoding-the-art-of-snaps-a-complete-guide-to-filters/"><u>Decoding the Art of Snaps A Complete Guide to Filters</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/download-and-convert-your-favorite-masterclass-lessons-into-various-audiovideo-file-types/"><u>Download and Convert Your Favorite MasterClass Lessons Into Various Audio/Video File Types</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/download-award-winning-abc7-news-footage-as-video-files-mp4wmvavi/"><u>Download Award-Winning ABC7 News Footage as Video Files (MP4/WMV/AVI)</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-vivo-s17-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Vivo S17 Pro Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-subtracting-text-srt-to-sub-transformation-tips/"><u>In 2024, Subtracting Text SRT to SUB Transformation Tips</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/step-by-step-tutorial-retrieving-deleted-information-post-diskpart-purge-on-pcs/"><u>Step-by-Step Tutorial: Retrieving Deleted Information Post-Diskpart Purge on PCs</u></a></li>
 </ul></div>
 

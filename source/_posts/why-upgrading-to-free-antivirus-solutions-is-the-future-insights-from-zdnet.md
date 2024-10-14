@@ -1,7 +1,7 @@
 ---
 title: "Why Upgrading to Free Antivirus Solutions Is the Future: Insights From ZDNet"
-date: 2024-10-05T16:28:15.717Z
-updated: 2024-10-08T17:11:39.011Z
+date: 2024-10-10T17:41:38.053Z
+updated: 2024-10-14T16:31:29.883Z
 tags:
   - windows
 categories:
@@ -33,6 +33,13 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
@@ -49,10 +56,10 @@ When done, press Enter.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Launch the icon
@@ -61,13 +68,6 @@ Double-click the icon, and a window opens with all the available settings. The c
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Search for a command
 
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
@@ -75,10 +75,10 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
@@ -98,13 +98,6 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
@@ -116,6 +109,13 @@ Screenshot by Lance Whitney/ZDNET
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -156,20 +156,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-best-picks-the-leading-10-online-resources-for-vimeo-video-download/"><u>[New] 2024 Approved Best Picks The Leading 10 Online Resources for Vimeo Video Download</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-proven-steps-to-distance-friendly-podcasting-excellence/"><u>[Updated] In 2024, Proven Steps to Distance-Friendly Podcasting Excellence</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-ultimate-screen-cutting-companion-for-2024/"><u>[Updated] The Ultimate Screen Cutting Companion for 2024</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/1-enhance-your-microsoft-edge-experience-top-recommended-extensions/"><u>1. Enhance Your Microsoft Edge Experience: Top Recommended Extensions!</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypass-error-0x887a0006-easily-with-these-quick-fixes-resolved-tutorial/"><u>Bypass Error 0X887A0006 Easily with These Quick Fixes! | Resolved Tutorial</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/can-microsofts-latest-summit-stop-a-repeat-of-the-global-it-catastrophe-proven-strategies-discussed/"><u>Can Microsoft's Latest Summit Stop a Repeat of the Global IT Catastrophe? Proven Strategies Discussed</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/choosing-the-right-user-profile-essential-tips-for-optimal-windows-11-setup/"><u>Choosing the Right User Profile: Essential Tips for Optimal Windows 11 Setup</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/combat-times-toll-on-your-old-computer-uncover-free-fixes-and-enhancements-for-enduring-windows-asterity-insights-by-zdnet/"><u>Combat Time's Toll on Your Old Computer: Uncover Free Fixes and Enhancements for Enduring Windows Asterity | Insights by ZDNET</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-3-effective-steps-to-brighten-your-photos/"><u>[Updated] 3 Effective Steps to Brighten Your Photos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-navigating-through-modern-cameras-complex-shooting-modes/"><u>2024 Approved Navigating Through Modern Camera's Complex Shooting Modes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-record-and-save-with-zero-cost-on-android-devices/"><u>2024 Approved Record & Save with Zero Cost on Android Devices</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/expert-picks-premium-noise-canceling-window-treatments-pcmag/"><u>Expert Picks: Premium Noise-Canceling Window Treatments | PCMag</u></a></li>
 <li><a href="https://win-reviews.techidaily.com/explore-the-ultimate-selection-the-top-7-standing-desks-featured-on-zdnet/"><u>Explore the Ultimate Selection: The Top 7 Standing Desks Featured on ZDNET</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2016-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2016 electronically</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-11-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 11 without Losing Data? | Dr.fone</u></a></li>
 <li><a href="https://win-reviews.techidaily.com/in-depth-analysis-of-the-keychron-q5-mechanical-keyboard-balancing-advanced-features-with-cost-insights-from-zdnet/"><u>In-Depth Analysis of the Keychron Q5 Mechanical Keyboard: Balancing Advanced Features with Cost - Insights From ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/insert-signature-in-wbk-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Insert signature in .wbk file</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/redefining-wanderlust-with-virtual-reality-tours/"><u>Redefining Wanderlust with Virtual Reality Tours</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/revolutionize-your-chats-with-tangos-voice-and-video-free-calling-feature/"><u>Revolutionize Your Chats with Tango's Voice & Video Free Calling Feature!</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-8-essentials-for-navigating-ny-times-connections/"><u>The 8 Essentials for Navigating NY Times Connections</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/al-youtube-playback-adjusting-speed-settings-for-2024/"><u>Optimal YouTube Playback Adjusting Speed Settings for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/secrets-unlocked-advanced-techniques-to-sculpt-your-igtv-content-size-for-2024/"><u>Secrets Unlocked Advanced Techniques to Sculpt Your IGTV Content Size for 2024</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/step-by-step-guide-to-setting-up-and-controlling-microsoft-accounts-for-household-use-zdnet/"><u>Step-by-Step Guide to Setting Up & Controlling Microsoft Accounts for Household Use - ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-samsung-galaxy-z-fold-5-by-drfone-android/"><u>Top 10 Password Cracking Tools For Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-sales-how-does-microsoft-earn/"><u>Windows 11 Sales - How Does Microsoft Earn?</u></a></li>
 </ul></div>
 

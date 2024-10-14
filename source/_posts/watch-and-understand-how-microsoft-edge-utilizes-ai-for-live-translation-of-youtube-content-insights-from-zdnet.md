@@ -1,7 +1,7 @@
 ---
 title: "Watch and Understand: How Microsoft Edge Utilizes AI for Live Translation of YouTube Content | Insights From ZDNET"
-date: 2024-10-01T17:03:11.542Z
-updated: 2024-10-08T18:04:20.874Z
+date: 2024-10-10T16:31:41.680Z
+updated: 2024-10-14T16:49:35.228Z
 tags:
   - microsoft
 categories:
@@ -53,19 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -75,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -97,10 +91,16 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,16 +148,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,21 +202,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-design-and-produce-your-fb-profile-vids-for-2024/"><u>[New] Design and Produce Your FB Profile Vids for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-complete-guide-to-digital-artistry-with-polarr-photo-tools/"><u>[Updated] In 2024, The Complete Guide to Digital Artistry with Polarr Photo Tools</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-incorporating-real-time-photos-into-team-conversations-for-2024/"><u>[Updated] Incorporating Real-Time Photos Into Team Conversations for 2024</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/affordable-microsoft-office-2019-bundle-deal-windows-and-mac-installation-at-only-25-how-to-by-gadgetgenius/"><u>Affordable Microsoft Office 2019 Bundle Deal - Windows & Mac Installation at Only $25 | How-To by GadgetGenius</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/affordable-productivity-boost-microsoft-office-2019-license-available-for-windows-and-mac-only-25-now-zdnet-exclusive/"><u>Affordable Productivity Boost: Microsoft Office 2019 License Available for Windows & Mac, Only $25 Now – ZDNet Exclusive</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/comparing-leading-ai-conversationalists-chatgpt-microsofts-copilot-and-gemini/"><u>Comparing Leading AI Conversationalists: ChatGPT, Microsoft's Copilot, and Gemini</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/discover-the-best-deal-on-microsoft-office-2019-for-both-pc-and-mac-save-big-with-a-secure-price-of-25-insights-by-zdnet/"><u>Discover the Best Deal on Microsoft Office 2019 for Both PC and Mac: Save Big with a Secure Price of $25 | Insights by ZDNET</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-se-2022-without-a-computer-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone SE (2022) without a computer</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-masterful-modulation-how-to-switch-up-your-characters-speech-in-free-fire/"><u>In 2024, Masterful Modulation How to Switch Up Your Character's Speech in Free Fire</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-vivo-s18-pro-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Vivo S18 Pro Phone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-fixes-top-tips-for-resolving-oculus-equipment-malfunctions/"><u>Master the Fixes: Top Tips for Resolving Oculus Equipment Malfunctions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/nasas-insight-mission-on-mars-wraps-up-extraordinary-journey/"><u>NASA's Insight Mission on Mars Wraps Up Extraordinary Journey</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/onedrive-introduces-offline-functionality-for-seamless-file-editing-in-isolated-locations-digital-innovation-today/"><u>OneDrive Introduces Offline Functionality for Seamless File Editing in Isolated Locations | Digital Innovation Today</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/purchase-discounted-microsoft-project-and-visio-professional-licenses-at-just-20-on-zdnet/"><u>Purchase Discounted Microsoft Project & Visio Professional Licenses at Just $20 on ZDNet!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/streamline-your-multi-tasking-pip-settings-in-safari-for-2024/"><u>Streamline Your Multi-Tasking PIP Settings in Safari for 2024</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/unpacking-the-microsoft-surface-and-ai-gathering-top-5-overlooked-revelations-insights-from-zdnet/"><u>Unpacking the Microsoft Surface & AI Gathering: Top 5 Overlooked Revelations - Insights From ZDNet</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-guide-to-share-youtube-link-on-instagram-story/"><u>[Updated] In 2024, Guide to Share YouTube Link on Instagram Story</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-evaluation-reimagined-moving-past-the-turing-scale/"><u>AI Evaluation Reimagined: Moving Past the Turing Scale</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/beware-microsofts-recent-upgrade-might-turn-your-evenings-into-a-cyber-sisyphean-nightmare-uncovered-by-zdnet/"><u>Beware: Microsoft's Recent Upgrade Might Turn Your Evenings Into a Cyber-Sisyphean Nightmare – Uncovered by ZDNet</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/deciphering-the-microsoft-exchange-server-compromise-key-details-and-analysis-by-zdnet-unveiled/"><u>Deciphering the Microsoft Exchange Server Compromise: Key Details and Analysis by ZDNet Unveiled</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/explore-the-latest-microsoft-release-free-mobile-apps-for-designer-your-go-to-ai-photo-creator-on-smartphones-zdnet-news/"><u>Explore the Latest Microsoft Release: Free Mobile Apps for Designer, Your Go-To AI Photo Creator on Smartphones | ZDNET News</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/exploring-2024s-leading-laptops-and-desktops-a-comprehensive-analysis-of-brands-like-apple-dell-by-tech-experts-at-zdnet/"><u>Exploring 2024'S Leading Laptops and Desktops: A Comprehensive Analysis of Brands Like Apple, Dell by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-google-pixel-8-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Google Pixel 8 Devices | Dr.fone</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/microsoft-unveils-windows-strategies-driving-hybrid-work-revolution/"><u>Microsoft Unveils Windows Strategies Driving Hybrid Work Revolution</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/microsofts-new-innovation-a-potential-annoyance-or-game-changer-insights-from-zdnet/"><u>Microsoft's New Innovation: A Potential Annoyance or Game-Changer? - Insights From ZDNet</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/pen-cover-reviews-for-surface-duo-2-enhanced-security-and-wireless-charge-compatibility/"><u>Pen Cover Reviews for Surface Duo 2: Enhanced Security & Wireless Charge Compatibility</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/real-web-application-added-to-apples-mapping-service/"><u>Real Web Application Added to Apple's Mapping Service</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/streamlined-techniques-for-configuring-windows-7-auto-backup-features-instantly/"><u>Streamlined Techniques for Configuring Windows 7 Auto-Backup Features Instantly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/synchronized-intro-editing-across-all-your-devices-this-year-for-2024/"><u>Synchronized Intro Editing Across All Your Devices This Year for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-vivo-x90s-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Vivo X90S Phone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-ideas-into-reality-with-openai-tools/"><u>Transforming Ideas Into Reality with OpenAI Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-honor-magic5-ultimate-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Honor Magic5 Ultimate Phone Network-Ready</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Affordable Productivity Boost: Microsoft Office 2019 License Available for Windows & Mac, Only $25 Now – ZDNet Exclusive"
-date: 2024-10-05T17:12:46.787Z
-updated: 2024-10-08T17:25:23.528Z
+date: 2024-10-11T16:28:16.259Z
+updated: 2024-10-14T17:12:24.235Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -77,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -136,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -149,10 +143,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -202,24 +202,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/1-best-free-youtube-name-generators-you-should-know-for-2024/"><u>[New] 11 Best Free YouTube Name Generators You Should Know for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-android-music-integration-a-guide-to-social-media-playlists/"><u>[New] In 2024, Android Music Integration A Guide to Social Media Playlists</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/adding-audio-enhancements-to-your-ebook-with-flipbuilder-a-comprehensive-guide/"><u>Adding Audio Enhancements to Your eBook with FlipBuilder - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/adding-youtube-content-to-flipbook-projects-made-simple-with-flipbuilder-tutorial/"><u>Adding YouTube Content to FlipBook Projects Made Simple With FlipBuilder Tutorial</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/begin-with-an-overview-tailor-first-page-display-options-using-flipbuildercom-tools/"><u>Begin with an Overview: Tailor First-Page Display Options Using FlipBuilder.com Tools</u></a></li>
-<li><a href="https://win-blog.techidaily.com/como-cambiar-tu-musica-de-mp3-a-avi-sin-costo-tutorial-completo-para-usuarios-de-movavi/"><u>Cómo Cambiar Tu Música De MP3 a AVI Sin Costo - Tutorial Completo Para Usuarios De Movavi</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/conversion-voc-avi-sin-costos-guia-expertos-para-usar-movavi-en-linea/"><u>Conversión VOC-AVI Sin Costos: Guía Expertos Para Usar Movavi en Línea</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/desbloquea-tus-fotos-con-facilidad-instalacion-y-configuracion-de-movavi-photoeditor-pro-en-windows-steps-by-step/"><u>Desbloquea Tus Fotos Con Facilidad: Instalación Y Configuración De Movavi PhotoEditor Pro en Windows Steps by Step</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/educations-new-dimension-with-vr-for-2024/"><u>Education's New Dimension with VR for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/effortless-steps-for-verifying-and-correcting-your-tiktok-age/"><u>Effortless Steps for Verifying & Correcting Your TikTok Age</u></a></li>
-<li><a href="https://extra-information.techidaily.com/exclusive-insights-top-30-hidden-windows-11-tips-uncovered/"><u>Exclusive Insights Top 30 Hidden Windows 11 Tips Uncovered</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Lava Blaze Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/masterful-ad-blocking-select-from-these-top-7-android-apps-for-2024/"><u>Masterful Ad Blocking Select From These Top 7 Android Apps for 2024</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/movavinin-hd-video-cevrilmede-mp3-donusturucusu-video-mp3-donustirecek-konverteri/"><u>Movavi'nin HD Video Çevrilmede MP3 Dönüştürücüsü | Video-MP3 Dönüştirecek Konverteri</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/priprava-movavi-na-nahravani-interniho-zvuku-na-macu-otazky-a-odpovedi-8-uskalistu-radovanych/"><u>Příprava Movavi Na Nahrávání Interního Zvuku Na Macu: Otázky a Odpovědi, 8 Úskališťů Radovaných</u></a></li>
-<li><a href="https://win-data.techidaily.com/step-by-step-guide-to-recording-video-gameplay-on-your-android-device/"><u>Step-by-Step Guide to Recording Video Gameplay on Your Android Device</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/transferer-video-de-fichier-avi-au-format-mp4-sans-cout-service-facile-a-utiliser-de-movavi/"><u>Transférer Vidéo De Fichier AVI Au Format MP4 Sans Coût - Service Facile À Utiliser De Movavi</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/asf-mp4-movavi/"><u>무세애비 가격에 ASF를 MP4로 바꾸기 - Movavi의 안내서</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-dynamic-images-made-simple-in-illustrator/"><u>[New] Dynamic Images Made Simple in Illustrator</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-masterclass-using-magix-video-pro-x/"><u>[New] Masterclass Using Magix Video Pro X</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/1-movaiff-movavi/"><u>1. 網路自由下 MOV到AIFF格式的移動過渡 - 使用Movavi轉換器</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/movavi-dpxgif/"><u>使用Movavi DPX自動為GIF格式化 - 無限制免費線上轉換器</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/conversor-de-mpg-para-formato-wav-online-gratuito-movavi/"><u>Conversor De MPG Para Formato WAV Online Gratuito - Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-the-iphone-15s-transition-to-usb-type-c-is-revolutionizing-connectivity/"><u>How the iPhone 15’S Transition to USB Type-C Is Revolutionizing Connectivity</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oppo-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-video-chapters-on-youtube-a-professionals-blueprint/"><u>In 2024, Perfecting Video Chapters on YouTube A Professional's Blueprint</u></a></li>
+<li><a href="https://extra-information.techidaily.com/proven-marketing-spells-20-must-use-terms/"><u>Proven Marketing Spells 20 Must-Use Terms</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/tutorial-facile-transformer-un-fichier-flv-en-format-mpeg-gratuite-online-avec-convertit-videos/"><u>Tutorial Facile: Transformer Un Fichier FLV en Format MPEG Gratuite Online Avec Convertit-Vidéos</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/avi-webm-movavi/"><u>오피니 AVI 파일을 WEBM로 구속없이 바꾸기 - MOVAVI</u></a></li>
 </ul></div>
 

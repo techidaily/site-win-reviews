@@ -1,7 +1,7 @@
 ---
 title: "Choosing the Ideal Task Organizer: Microsoft To Do or Google Tasks – Which One Fits Your Needs? | Insights by ZDNet"
-date: 2024-10-03T16:37:38.243Z
-updated: 2024-10-08T17:39:15.753Z
+date: 2024-10-12T16:50:35.737Z
+updated: 2024-10-14T17:02:48.617Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,21 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,20 +196,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-discovering-the-ultimate-gopro-camera-max-or-hero-11/"><u>[New] 2024 Approved Discovering The Ultimate GoPro Camera Max or Hero 11?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-capturing-your-workflow-optimal-screenshot-tools/"><u>[New] In 2024, Capturing Your Workflow Optimal Screenshot Tools</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/1-enhance-your-microsoft-edge-experience-top-recommended-extensions/"><u>1. Enhance Your Microsoft Edge Experience: Top Recommended Extensions!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/auditory-bliss-achieved-with-win11/"><u>Auditory Bliss Achieved with Win11</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/can-microsofts-latest-summit-stop-a-repeat-of-the-global-it-catastrophe-proven-strategies-discussed/"><u>Can Microsoft's Latest Summit Stop a Repeat of the Global IT Catastrophe? Proven Strategies Discussed</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/choosing-the-right-user-profile-essential-tips-for-optimal-windows-11-setup/"><u>Choosing the Right User Profile: Essential Tips for Optimal Windows 11 Setup</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/chronocapture-expert-time-lapse-techniques-for-samsung-users-for-2024/"><u>ChronoCapture Expert Time-Lapse Techniques for Samsung Users for 2024</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/combat-times-toll-on-your-old-computer-uncover-free-fixes-and-enhancements-for-enduring-windows-asterity-insights-by-zdnet/"><u>Combat Time's Toll on Your Old Computer: Uncover Free Fixes and Enhancements for Enduring Windows Asterity | Insights by ZDNET</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/explore-the-ultimate-selection-the-top-7-standing-desks-featured-on-zdnet/"><u>Explore the Ultimate Selection: The Top 7 Standing Desks Featured on ZDNET</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-motorola-moto-g84-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Motorola Moto G84 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-mini-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock Apple iPhone 12 mini Without Passcode? 4 Easy Methods</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Honor 100 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-imagetangle-the-premier-montage-engineer/"><u>In 2024, ImageTangle The Premier Montage Engineer</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/in-depth-analysis-of-the-keychron-q5-mechanical-keyboard-balancing-advanced-features-with-cost-insights-from-zdnet/"><u>In-Depth Analysis of the Keychron Q5 Mechanical Keyboard: Balancing Advanced Features with Cost - Insights From ZDNet</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-honor-x50-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Honor X50.</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-digital-vaults-best-cloud-platforms-for-future-success/"><u>[New] Mastering Digital Vaults Best Cloud Platforms for Future Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-selection-of-top-5-best-android-photo-apps/"><u>[New] The Ultimate Selection of Top 5 Best Android Photo Apps</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-how-to-charm-your-way-into-a-friends-tiktok-show-for-2024/"><u>[Updated] How to Charm Your Way Into a Friend’s TikTok Show for 2024</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/affordable-microsoft-office-2019-bundle-deal-windows-and-mac-installation-at-only-25-how-to-by-gadgetgenius/"><u>Affordable Microsoft Office 2019 Bundle Deal - Windows & Mac Installation at Only $25 | How-To by GadgetGenius</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/budget-friendly-tech-unveiling-the-impressive-features-of-the-new-google-pixel-7a/"><u>Budget-Friendly Tech: Unveiling the Impressive Features of the New Google Pixel 7A</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/comparing-leading-ai-conversationalists-chatgpt-microsofts-copilot-and-gemini/"><u>Comparing Leading AI Conversationalists: ChatGPT, Microsoft's Copilot, and Gemini</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-ken-burns-effect-in-minutes-quick-and-easy-tutorial/"><u>New In 2024, Ken Burns Effect in Minutes Quick and Easy Tutorial</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/purchase-discounted-microsoft-project-and-visio-professional-licenses-at-just-20-on-zdnet/"><u>Purchase Discounted Microsoft Project & Visio Professional Licenses at Just $20 on ZDNet!</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-xiaomi-14-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Xiaomi 14 Pro on Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-emerging-ai-chipsets-revolutionizing-computing/"><u>Top 5 Emerging AI Chipsets Revolutionizing Computing</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/zdnet-exclusive-microsoft-leader-steve-ballmer-confesses-to-being-unbrave-a-surprising-admission-from-the-tech-industrys-elite/"><u>ZDNet Exclusive: Microsoft Leader Steve Ballmer Confesses to Being Unbrave – A Surprising Admission From the Tech Industry's Elite</u></a></li>
 </ul></div>
 

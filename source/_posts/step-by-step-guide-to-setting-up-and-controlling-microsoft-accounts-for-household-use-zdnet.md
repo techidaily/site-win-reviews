@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Setting Up & Controlling Microsoft Accounts for Household Use - ZDNet
-date: 2024-10-07T17:09:55.136Z
-updated: 2024-10-08T17:55:42.727Z
+date: 2024-10-08T16:41:58.839Z
+updated: 2024-10-14T17:43:05.131Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -77,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -104,16 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -154,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -208,19 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-making-the-most-of-your-youtube-thumbnail-space/"><u>[New] 2024 Approved Making the Most of Your YouTube Thumbnail Space</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-iphone-7-screen-save-made-simple/"><u>[New] IPhone 7 Screen Save Made Simple</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/bekijk-ons-beste-oplossingen-voor-windows-movie-maker-ontdek-movavi-video-editor/"><u>Bekijk Ons Beste Oplossingen Voor Windows Movie Maker: Ontdek Movavi Video Editor</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/gratuit-migrate-avi-to-ogg-formats-via-web-movavis-comprehensive-guide/"><u>Gratuit Migrate AVI To Ogg Formats via Web - Movavi's Comprehensive Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-apple-iphone-15-plus-by-drfone-ios/"><u>How To Unlink Apple ID From Apple iPhone 15 Plus</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Vivo V27 Pro? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-infinix-hot-40i-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Infinix Hot 40i to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/1726226582224-movavi/"><u>Movaviプログラムの簡単な使い方とテクニック</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/online-vob-to-avi-converter-zonder-kosten-mobavivi/"><u>Online VOB-to-AVI Converter Zonder Kosten - Mobavivi</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/optimize-your-social-media-videos-on-fb-with-the-right-ratio/"><u>Optimize Your Social Media Videos on FB with the Right Ratio</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-nova-y91-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Nova Y91, is it possible?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/playful-pathways-in-modern-latin-studies/"><u>Playful Pathways in Modern Latin Studies</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/transformacion-libre-de-mp4-a-mov-online-por-movavi-guia-paso-a-paso/"><u>Transformación Libre De MP4 a MOV Online Por Movavi: Guía Paso a Paso</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/trasforma-i-tuoi-file-m4b-direttamente-in-formato-wma-gratuitamente-con-convertimp3/"><u>Trasforma I Tuoi File M4B Direttamente in Formato WMA Gratuitamente Con ConvertiMp3</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-reimagine-photos-with-picshots-simple-techniques/"><u>[New] Reimagine Photos with Picshot’s Simple Techniques</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-direct-tiktok-video-downloader-flawless-mp4-outputs/"><u>[Updated] In 2024, Direct TikTok Video Downloader Flawless MP4 Outputs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-lava-blaze-2-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Lava Blaze 2 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/explore-the-full-spectrum-of-movavis-multimedia-tools-for-ultimate-creativity/"><u>Explore the Full Spectrum of Movavi's Multimedia Tools for Ultimate Creativity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-novice-to-pro-transforming-your-note-taking-with-chatgpt-strategies/"><u>From Novice to Pro: Transforming Your Note-Taking with ChatGPT Strategies</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/gratuito-conversor-online-de-imagens-em-formato-mpeg-e-3g2-pelo-movavi/"><u>Gratuito Conversor Online De Imagens Em Formato MPEG E 3G2 Pelo Movavi</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/guide-ultime-pour-le-telechargement-et-lutilisation-de-capcut-pour-les-utilisateurs-de-pc-sous-windows/"><u>Guide Ultime Pour Le Téléchargement Et L'utilisation De CapCut Pour Les Utilisateurs De PC Sous Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723001415615-how-to-overcome-sea-of-thieves-start-up-errors-and-play-today/"><u>How to Overcome Sea of Thieves Start-Up Errors and Play Today</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-ioss-top-5-ps2-simulators/"><u>In 2024, IOS's Top 5 PS2 Simulators</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-14-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone 14 You Should Try Out</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/mka-mkv-converter-vrije-online-tool-voor-formatconversie-movavi/"><u>MKA-MKV Converter: Vrije Online Tool Voor Formatconversie - Movavi</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/movavi-vob/"><u>Movaviで簡単！ VOB転送を無料で行うオンラインツール</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/1726224186579-movmp4-movavi/"><u>MOVファイルをMP4に自由に変換できるオンラインサービス: Movavi</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/transformez-gratuitement-un-fichier-aac-en-mp3-en-ligne-movavi/"><u>Transformez Gratuitement Un Fichier AAC en MP3 en Ligne - Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-samsung-galaxy-a14-4g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Samsung Galaxy A14 4G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-canticle-cleanse-software-generate-artisanal-harmony-tracks/"><u>Updated In 2024, Canticle Cleanse Software Generate Artisanal Harmony Tracks</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/mkvaviwma-movavi/"><u>フリーウェブMKV/AVI動画WMAファイル変換ツール - Movavi</u></a></li>
 </ul></div>
 

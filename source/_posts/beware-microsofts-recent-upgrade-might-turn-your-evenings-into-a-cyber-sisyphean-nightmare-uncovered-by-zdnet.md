@@ -1,7 +1,7 @@
 ---
 title: "Beware: Microsoft's Recent Upgrade Might Turn Your Evenings Into a Cyber-Sisyphean Nightmare – Uncovered by ZDNet"
-date: 2024-10-01T17:06:11.748Z
-updated: 2024-10-08T17:59:58.893Z
+date: 2024-10-09T16:14:24.644Z
+updated: 2024-10-14T17:30:45.867Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -147,10 +147,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,18 +202,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-premium-picks-for-impeccable-4k-screen-recorders-for-2024/"><u>[New] Premium Picks for Impeccable 4K Screen Recorders for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-professional-iphone-cinematography-learn-and-apply-top-8-insights/"><u>[New] Professional iPhone Cinematography Learn and Apply Top 8 Insights</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/converting-teachable-session-recordings-into-various-video-codecs-mp4-mov-and-more/"><u>Converting Teachable Session Recordings Into Various Video Codecs: MP4, MOV & More</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/download-mybluprint-videos-directly-from-official-site/"><u>Download MyBluprint Videos Directly From Official Site</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/download-your-favorite-italian-media-from-raitv-effortlessly-with-our-exclusive-downloader-tool/"><u>Download Your Favorite Italian Media From rai.tv Effortlessly with Our Exclusive Downloader Tool</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/explore-superior-mac-video-extraction-tools-find-your-perfect-match-beyond-the-original-youvideo-app/"><u>Explore Superior Mac Video Extraction Tools: Find Your Perfect Match Beyond the Original YouVideo App</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/how-to-save-vidme-content-as-mp4-or-avi-files-on-pc-and-mac/"><u>How to Save VidMe Content as MP4 or AVI Files on PC and Mac</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mac-specs-veranderen-de-top-5-manieren-om-het-scherm-op-je-mac-te-laten-toenemen-movavi/"><u>Mac-Specs Veranderen! De Top 5 Manieren Om Het Scherm Op Je Mac Te Laten Toenemen - Movavi</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/new-extended-warranty-period-announced-by-intel-for-gen-13-and-gen-14-processors-amidst-rising-instability-reports/"><u>New Extended Warranty Period Announced by Intel for Gen 13 and Gen 14 Processors Amidst Rising Instability Reports</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/quick-and-secure-methods-for-downloading-video-clips-from-pornhdcom/"><u>Quick & Secure Methods for Downloading Video Clips From PornHD.com</u></a></li>
-<li><a href="https://discover-help.techidaily.com/step-by-step-guide-editing-your-iphones-videos-using-a-windows-computer/"><u>Step-by-Step Guide: Editing Your iPhones Videos Using a Windows Computer</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/time-efficient-methods-for-recording-vimeo-videos-for-2024/"><u>Time-Efficient Methods for Recording Vimeo Videos for 2024</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/tutorial-transformer-des-documents-pdf-en-epub-guide-complet-pour-utilisation-sur-ipad/"><u>Tutorial: Transformer Des Documents PDF en ePub - Guide Complet Pour Utilisation Sur iPad</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-2023s-standout-youtube-music-playback-gems/"><u>[New] 2024 Approved 2023'S Standout YouTube Music Playback Gems</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-comprehensive-review-transform-your-images-with-facetune/"><u>[New] Comprehensive Review Transform Your Images with Facetune</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-screen-grab-mastery-for-windows-users-3-techniques/"><u>2024 Approved Screen Grab Mastery for Windows Users (3 Techniques)</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/effortless-navigation-switch-pages-in-understanding-with-flipbuilder/"><u>Effortless Navigation - Switch Pages in Understanding with FlipBuilder</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/error-no-more-fixing-the-elusive-missing-msstdfmtdll-problems/"><u>Error No More: Fixing the Elusive 'Missing msstdfmt.dll' Problems</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/exploring-book-creation-what-types-of-books-can-you-produce-using-the-flipoffice-software/"><u>Exploring Book Creation: What Types of Books Can You Produce Using the FlipOffice Software?</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/exploring-the-variety-of-delivery-styles-how-many-format-options-are-available-at-flipbuildercom/"><u>Exploring the Variety of Delivery Styles: How Many Format Options Are Available at FlipBuilder.com?</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/exporting-your-flipbuilder-theme-a-step-by-step-guide/"><u>Exporting Your FlipBuilder Theme: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/how-to-embed-mp3-audio-files-in-your-epub-or-interactive-pdfs-using-flipbuilder/"><u>How to Embed MP3 Audio Files in Your ePub or Interactive PDFs Using FlipBuilder</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/identifying-flip-builders-version-seal-on-post-purchase-output-publications/"><u>Identifying Flip Builder's Version Seal on Post-Purchase Output Publications</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-unveiling-the-illusion-how-genuine-growth-is-stifled-by-shams/"><u>In 2024, Unveiling the Illusion How Genuine Growth Is Stifled by Shams</u></a></li>
+<li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-network-link-disruptions-in-winmc-minecraft/"><u>Tackling Network Link Disruptions in WinMC Minecraft</u></a></li>
 </ul></div>
 
