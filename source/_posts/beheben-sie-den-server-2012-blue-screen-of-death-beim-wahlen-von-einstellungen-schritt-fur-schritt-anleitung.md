@@ -1,7 +1,7 @@
 ---
 title: Beheben Sie Den Server 2012 Blue Screen of Death Beim Wählen Von Einstellungen – Schritt-Für-Schritt-Anleitung
-date: 2024-10-17T08:34:03.922Z
-updated: 2024-10-19T18:43:55.125Z
+date: 2024-10-24T02:47:01.929Z
+updated: 2024-10-25T20:59:01.879Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f8eaaf0f310614210c430f98.jpg
@@ -42,6 +42,19 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 4. [Suggestion: backup your crucial loading files in advance](https://tools.techidaily.com/ubackup/products/)
 5. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## User case: Windows 11 winload.efi missing, F8 button not working
 
 My HP is not starting up. I’ve received the ‘winload efi is missing or corrupt’. All the troubleshooting steps require me to go into startup settings but in order for me to do that, I have to press F8 however when I do press it my screen flashes and it doesn’t take me there (this is on the blue ‘recovery’ screen with the error message). Can anyone help me please. I need to get back into my laptop. I can’t afford to reinstall the OS. Too much important files and data that I didn’t back up unfortunately.
@@ -49,19 +62,25 @@ My HP is not starting up. I’ve received the ‘winload efi is missing or corru
 [![Winload.efi Error 0xc0000225](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/winload-efi-error-0xc0000225.png "Winload.efi Error 0xc0000225")
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If you meet similar problems that you can’t find winload.efi, you have been in the right place. Here is a collection of methods to solve ‘winload.efi missing Windows 11 issue. Let’s start to go!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## About winload.efi file
@@ -84,13 +103,6 @@ Causes of "winload.efi missing or contains error after clone" issues:
 
 The "winload.efi missing" error happens when the OS can't find or access the winload.efi file. To fix this issue, 5 solutions are provided. You can directly navigate to the specific method you need or go through each solution sequentially.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Option 1\. Use the Boot Repair Tool
 
 **[AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/)** stands out as a powerful and user-friendly tool. With the ability to create bootable devices, you can boot to your system when misfortunate happens and operate as normal, including executing backup and restore operations and repair your corrupted or missing winload efi files.
@@ -98,13 +110,6 @@ The "winload.efi missing" error happens when the OS can't find or access the win
 Furthermore, AOMEI Backupper proves invaluable in tackling various problems such as system failure, system blue screen, system black screen, hard disk corruption, hard disk conversion, and more. Here I will show you how to create a bootable media using this software:
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Best free bootable media creation tool
 
@@ -114,16 +119,16 @@ Step 1\. Download this software and open it. Click **Tools** and then choose **C
 
 [![Create Bootable Meida](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/create-bootable-meida.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2\. Select a type of bootable media you want to create and click **Next** to continue. For better performance, the **Windows PE bootable disc** is recommended.
 
 [![Winpe](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/winpe.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click **Next** to create system repair disc in Windows 11.
 
@@ -146,6 +151,13 @@ Step 2\. Navigate to the Secure Boot option in BIOS, located under tabs like **B
 Step 3\. In the **Secure Boot** interface, change it from **Enabled** to **Disable**.
 
 [![Disable Secure Boot](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/articles/images/winload-efi-missing-after-clone-5740/secure-boot.jpg "Disable Secure Boot")
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4\. Save the changes and exit the UEFI settings.
 
@@ -171,13 +183,6 @@ Step 5\. Once the process is complete, unplug the USB and restart the computer.
 
 Check if the system boots normally after performing these steps.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 4\. Run SFC to Check System File Integrity
 
 To utilize the System File Checker (SFC) and check system file integrity, follow these steps:
@@ -201,6 +206,13 @@ If the "sfc /scannow" command fails to repair the Winload.efi missing file, proc
 [![SFC Scannow](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/sfc-scannow.png "SFC Scannow")
 
 Exercise caution to avoid potential system errors when using this command.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 5\. Repair EFI Boot Loader
 
@@ -236,6 +248,13 @@ Step 4\. Assign the partition a drive letter. Enter each of the following comman
 
 Step 5\. Restart your computer after successfully repairing the EFI loader.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Suggestion: backup your crucial loading files in advance
 
 A reliable backup software like [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) allows you to create a bootable disc and system backup, preventing startup loop errors and addressing various computer failures. In the event of a system crash, you can restore the system image to a new hard drive and regain normal functionality. AOMEI Backupper Standard offers numerous advantages for seamless backup and recovery processes.
@@ -252,14 +271,14 @@ You just need to download this software and install it. Open it and navigate to 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-20.svg) 100% Secure
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -297,13 +316,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -329,21 +341,24 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-effortlessly-integrate-your-apple-podcasts-collection/"><u>[Updated] 2024 Approved Effortlessly Integrate Your Apple Podcasts Collection</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-metavision-quest-selecting-the-most-advanced-vr-headset/"><u>[Updated] Metavision Quest Selecting the Most Advanced VR Headset</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/1-top-strategies-for-safely-transferring-your-vmware-virtual-machines-to-an-outside-hdd/"><u>1. Top Strategies for Safely Transferring Your VMware Virtual Machines to an Outside HDD</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-steps-to-disable-auto-recommended-podcasts-in-spotify/"><u>2024 Approved Steps to Disable Auto-Recommended Podcasts in Spotify</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-the-best-wedding-stories-online-youtube-plus-vimeos-selection-8/"><u>2024 Approved The Best Wedding Stories Online YouTube + Vimeo's Selection (8)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/blizzard-server-status-is-the-entire-world-offline-or-just-your-connection/"><u>Blizzard Server Status: Is the Entire World Offline, or Just Your Connection?</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/effiziente-methode-fur-das-vervielfaltigen-und-kopieren-von-dynamisches-volume-auf-die-basis-hardware-in-windows-systemen/"><u>Effiziente Methode Für Das Vervielfältigen Und Kopieren Von Dynamisches Volume Auf Die Basis-Hardware in Windows Systemen</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/guia-claro-y-concisa-3-formas-efectivas-de-quitar-windows-11-sin-problemas/"><u>Guía Claro Y Concisa: 3 Formas Efectivas De Quitar Windows 11 Sin Problemas</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/how-to-format-an-external-hard-drive-on-xbox-one-with-windows/"><u>How to Format an External Hard Drive on Xbox One with Windows</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ipad-pro-vs-macbook-pro-whats-the-difference/"><u>IPad Pro Vs. MacBook Pro: What's the Difference?</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/iso-image-auf-computerdatentrager-brennen-anleitung-mit-aomei-backupper/"><u>ISO-Image Auf Computerdatenträger Brennen: Anleitung Mit AOMEI Backupper</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-sound-communication-on-whatsapp/"><u>Mastering Sound Communication on WhatsApp</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/problem-aktuelle-nachrichten-konnen-nicht-auf-neues-iphone-ubertragen-werden-top-losungsmethoden-erklart/"><u>Problem: Aktuelle Nachrichten Können Nicht Auf Neues iPhone Übertragen Werden – Top-Lösungsmethoden Erklärt</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-steps-for-when-hogwarts-legacy-wont-launch-updated-advice/"><u>Troubleshoot Steps for When 'Hogwarts Legacy' Won't Launch - Updated Advice</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-15-dual-player-mobile-delights-fresh-and-engaging/"><u>Ultimate 15 Dual Player Mobile Delights (Fresh & Engaging)</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/ultimate-step-by-step-tutorial-on-properly-formatting-a-sandisk-memory-card/"><u>Ultimate Step-by-Step Tutorial on Properly Formatting a Sandisk Memory Card</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-unveiling-the-full-spectrum-of-adobe-cloud-storing-and-superior-options/"><u>[New] Unveiling the Full Spectrum of Adobe Cloud Storing and Superior Options</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-breaking-barriers-in-text-animation-with-no-cost-tools/"><u>[Updated] Breaking Barriers in Text Animation with No-Cost Tools</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-farewell-to-friends-how-to-leave-a-discord-server/"><u>[Updated] In 2024, Farewell to Friends How to Leave a Discord Server</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-mastering-storyremix-for-windows-11-enhancing-videos-with-photos-for-2024/"><u>[Updated] Mastering StoryRemix for Windows 11 Enhancing Videos with Photos for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-top-40-twitter-visuals-the-essential-gif-hoarders-toolkit/"><u>[Updated] Top 40 Twitter Visuals The Essential GIF Hoarder's Toolkit</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/1-easy-solutions-and-workarounds-overcoming-boot-issues-with-acronis-clone/"><u>1. Easy Solutions & Workarounds: Overcoming Boot Issues with Acronis Clone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-windows-high-dynamic-range-potential/"><u>2024 Approved Unlocking Windows' High Dynamic Range Potential</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-latest-logitech-wireless-mouse-software-compatible-with-windows/"><u>Download the Latest Logitech Wireless Mouse Software Compatible with Windows</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/efficient-techniques-for-sharing-pictures-with-your-latest-iphone-using-airdrop/"><u>Efficient Techniques for Sharing Pictures with Your Latest iPhone Using AirDrop</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-your-gameplay-optimize-asus-rx-970-graphics-card/"><u>Enhance Your Gameplay: Optimize Asus RX 970 Graphics Card</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-14-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 14</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/maquina-de-trucos-expertos-como-hacer-que-tus-carpetas-se-unan-automaticamente-en-mac/"><u>Maquina De Trucos Expertos: Cómo Hacer Que Tus Carpetas Se Unan Automáticamente en Mac</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/resolving-iphone-verification-failure-problem-a-step-by-step-guide/"><u>Resolving 'iPhone Verification Failure' Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/seamless-screen-effects-3-simple-shifting-methods/"><u>Seamless Screen Effects 3 Simple Shifting Methods</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/speichern-von-outlook-express-e-mails-auf-einer-externen-datentrager/"><u>Speichern Von Outlook Express E-Mails Auf Einer Externen Datenträger</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/trasferisci-facilmente-i-tuoi-file-tra-due-iphone-senza-necessita-di-connettivita-wi-fi/"><u>Trasferisci Facilmente I Tuoi File Tra Due iPhone Senza Necessità Di Connettività Wi-Fi</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/1728477981201-windows-11/"><u>Windows 11でゴミ箱からファイルを回復する完全ガイド</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/windows-881os/"><u>Windows 8/8.1のOSとデータに効果的なバックアップ手順</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/islah-almshklat-fy-macrium-reflect-7-asalyf-faaala-lislah-khta-alnskh-980/"><u>إصلاح المشكلات في Macrium Reflect: 7 أساليف فعالة لإصلاح خطأ النسخ 9,8،0</u></a></li>
 </ul></div>
 
