@@ -1,7 +1,7 @@
 ---
 title: The Mechanics Behind Malicious Software Distribution via Spam Emails Explained
-date: 2024-10-20T06:22:38.864Z
-updated: 2024-10-25T17:28:06.312Z
+date: 2024-10-30T20:25:03.829Z
+updated: 2024-10-31T23:40:40.689Z
 tags:
   - product
   - antivirus
@@ -49,10 +49,10 @@ Once you open the email, you are exposing yourself to different attacks. Spammer
 [How to Remove Malware and Cleanup Windows PC](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do Criminals Collect Emails?
@@ -61,16 +61,16 @@ A spam campaign starts with the right contact information. Hackers often have di
 
 ![](https://malwarefox.com/wp-content/uploads/2018/02/arroba.png "arroba")
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Moreover, cybercriminals can create crawlers that collect emails on the Internet. These programs can examine websites, social media portals, and forums for email addresses. Along with crawlers, they may use social engineering methods to collect more emails. They may copy websites from reputable organizations that will ask for your personal information. Phishing is also a favorite way to gather information.
 
 Malicious software is also an efficient way to take advantage of your contact list. Ransomware and other similar software can be instructed to infiltrate your email and collect all your contacts. Unsecured networks can also be used to sniff data on your connection. Additionally, they can just buy email databases on the dark web. Information such as [credit card credentials can go as low as $5-$8](https://www.darkreading.com/cloud/cybercrime-a-black-market-price-list-from-the-dark-web/d/d-id/1324895?image%5Fnumber=8). Emails are even cheaper.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Does Spam Email Attack?
 
@@ -80,23 +80,9 @@ The spam email may contain links, attachments, or both. The victim will be direc
 
 ![](https://malwarefox.com/wp-content/uploads/2018/02/spam-1.png "spam (1)")
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The payload will scan for system vulnerabilities in the victim’s computer. Then, it will communicate with the cybercriminals’ server. The payload can do several things such as download more malware, collected information, or encrypt files.
 
 Attachments can even act faster. The malicious payload hides in the attachment. It is activated when the user downloads and opens the attachment on his/her PC. The payload will begin its attack from there.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### WannaCry
 
@@ -124,6 +110,13 @@ The Nigerian prince scam did not become a part of the online pop culture overnig
 
 [How to Remove Adware and Pop-Up Ads](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why Spam?
 
 There are newer ways to spread malicious software. But, why do cybercriminals still prefer spam campaigns? Well, spam campaigns are cheap and fast. Hackers can send out emails in bulk. It takes minimal effort on their part. Additionally, they also rely on botnets to spread spam emails faster. Botnets are infected computers that deliver malicious emails to other users through its network and contact list. 
@@ -131,15 +124,22 @@ There are newer ways to spread malicious software. But, why do cybercriminals st
 ![](https://malwarefox.com/wp-content/uploads/2018/02/spam-2.png "spam (2)")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Most users do not even know that their computer is part of a botnet. That means hackers do not need much energy and resources to launch campaigns. A recent [report](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/millions-of-networks-compromised-by-new-reaper-botnet) by TrendMicro reveals that more than a million organizations are part of a growing botnet called Reaper.
 
 Moreover, spam reaches the victims directly. Every time you open your email, there is a possibility of opening a spam email. It also uses links and attachments to drop payloads directly. Spam emails can infect you with anything from spyware to ransomware. The popularity of handheld devices also makes it easier to access emails and receive spam. The more people open their email accounts, the more chances spam emails can get through.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Who are Vulnerable?
 
@@ -171,13 +171,6 @@ Almost everything online requires an email. Always keep your privacy in mind. Yo
 
 ![](https://malwarefox.com/wp-content/uploads/2018/02/email.png "email")
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 We suggest that you set-up a disposable email or a separate one from your email. That way, you can sign-up for online services without sacrificing your security. Some even maintain multiple email addresses which are used to retrieve accounts.
 
 ### Install Anti-Malware
@@ -187,10 +180,10 @@ Install an excellent anti-malware to fully protect your system. Protection, such
 ![](https://malwarefox.com/wp-content/uploads/2016/12/cropped-shield-fox-512.png "cropped-shield-fox-512.png")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can also run a scan of your system if you suspect of any infection. MalwareFox examines downloaded files for any malicious activities. It effectively removes any questionable files or programs. The regular update ensures identification of new threats as well.
@@ -198,6 +191,13 @@ You can also run a scan of your system if you suspect of any infection. MalwareF
 [Get MalwareFox Anti-malware Now!](https://tools.techidaily.com/malwarefox/products/)
 
 [5 Steps to Secure Gmail Account from Hackers](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -228,20 +228,16 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-examining-ffmpeg-written-by-user/"><u>[Updated] Examining FFmpeg' Written by User</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-saving-reels-made-simple-direct-and-indirect-techniques-explained/"><u>[Updated] In 2024, Saving Reels Made Simple Direct and Indirect Techniques Explained</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-streaming-made-simple-free-downloader-to-mp3s-now/"><u>[Updated] Streaming Made Simple Free Downloader to MP3s Now</u></a></li>
-<li><a href="https://win-community.techidaily.com/vastgesteld-hoe-dit-je-tweestelling-beheerst-om-een-iphone-te-produceren-na-backup/"><u>[Vastgesteld]: Hoe Dit Je Tweestelling Beheerst Om Een iPhone Te Produceren Na Backup</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-watch-series-8-revealed-exact-launch-date-comprehensive-specs-list-price-point-and-fresh-information/"><u>Apple Watch Series 8 Revealed: Exact Launch Date, Comprehensive Specs List, Price Point, and Fresh Information</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/boost-samsung-t7-data-movement-troubleshooting-sluggish-transfer-rates/"><u>Boost Samsung T7 Data Movement: Troubleshooting Sluggish Transfer Rates</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/descubriendo-cada-fotografia-en-su-ordenador-mediante-windows-similar-sentence-structure-in-spanish/"><u>Descubriendo Cada Fotografía en Su Ordenador Mediante Windows # Similar Sentence Structure in Spanish</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/fehlermeldung-computer-starten-nicht-ordnungsgemass-losungen-und-tipps-zur-fehlerbehebung/"><u>Fehlermeldung 'Computer Starten Nicht Ordnungsgemäß' - Lösungen Und Tipps Zur Fehlerbehebung</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/guide-complet-pour-configurer-et-utiliser-aomei-backupper-pour-une-sauvegarde-optimale/"><u>Guide Complet Pour Configurer Et Utiliser AOMEI Backupper Pour Une Sauvegarde Optimale</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-nokia-xr21-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia XR21</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-the-ultimate-list-of-powerful-instagram-hashtags/"><u>In 2024, The Ultimate List of Powerful Instagram Hashtags</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/recovering-lost-memories-a-step-by-step-guide-to-retrieving-deleted-images-from-your-google-photos-library/"><u>Recovering Lost Memories: A Step-by-Step Guide to Retrieving Deleted Images From Your Google Photos Library</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/secured-storage-prioritizing-crucial-volumes-for-effective-backups/"><u>Secured Storage: Prioritizing Crucial Volumes for Effective Backups</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/skyrim-se-upgrade-maximize-your-gameplay-with-revolutionary-fps-improvement-and-beyond/"><u>Skyrim SE Upgrade: Maximize Your Gameplay with Revolutionary FPS Improvement and Beyond</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/step-by-step-guide-uploading-vmware-tools-to-your-virtual-machines-via-manual-and-automatic-methods-on-vcenter-server/"><u>Step-by-Step Guide: Uploading VMware Tools to Your Virtual Machines via Manual and Automatic Methods on vCenter Server</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-infographic-spectacle-of-youtubes-2017-data/"><u>[Updated] The Infographic Spectacle of YouTube's 2017 Data</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/como-realizar-una-copia-de-seguridad-del-sistema-windows-server-2012-r2-a-un-dispositivo-usb-con-dos-estrategias/"><u>Cómo Realizar Una Copia De Seguridad Del Sistema Windows Server 2012 R2 a Un Dispositivo USB Con Dos Estrategias</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/comprendre-comment-supprimer-entierement-les-donnees-dune-cle-usb-3-techniques-de-nettoyage-sures/"><u>Comprendre Comment Supprimer Entièrement Les Données D'une Clé USB : 3 Techniques De Nettoyage Sûres</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/content-strategy-amplified-selective-rank-watcher-solutions-for-2024/"><u>Content Strategy Amplified Selective Rank Watcher Solutions for 2024</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/essential-esxcli-instructions-mastering-vmwares-list-vms-via-the-command-line/"><u>Essential ESXCLI Instructions: Mastering VMware's List VMs via the Command Line</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-lenovo-thinkpad-x12-detachable-a-remarkable-2-in-1-device-with-a-high-quality-keyboard-experience/"><u>Exploring the Lenovo ThinkPad X12 Detachable: A Remarkable 2-in-1 Device with a High-Quality Keyboard Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-a-broken-tablet-display-8-tips-for-reviving-the-touchscreen/"><u>Fix a Broken Tablet Display: 8 Tips for Reviving the Touchscreen</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/securing-chrome-against-persistent-pop-ups-a-guide-using-malwarefox-for-optimal-defense/"><u>Securing Chrome Against Persistent Pop-Ups: A Guide Using MalwareFox for Optimal Defense</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tackling-deskjet-driver-failures-os-fixes/"><u>Tackling Deskjet Driver Failures, OS Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-ultimate-fix-ensuring-your-minecraft-drivers-are-current-and-working-properly/"><u>The Ultimate Fix: Ensuring Your Minecraft Drivers Are Current and Working Properly</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/the-ultimate-guide-retrieving-lost-pictures-on-iphone-x-with-easy-to-follow-solutions/"><u>The Ultimate Guide: Retrieving Lost Pictures on iPhone X with Easy-to-Follow Solutions</u></a></li>
 </ul></div>
 
