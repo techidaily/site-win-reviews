@@ -1,7 +1,7 @@
 ---
 title: Easy Tips for Removing Stored Login Credentials in Firefox Browser
-date: 2024-11-12T03:16:46.732Z
-updated: 2024-11-16T20:01:17.937Z
+date: 2024-11-24T17:46:47.722Z
+updated: 2024-11-26T16:05:37.851Z
 tags:
   - product
   - antivirus
@@ -38,6 +38,10 @@ You might need to clear all these. Also, if you are giving your PC to someone el
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1 – Delete Saved Passwords in Firefox using Menu
 
 It is the simplest method to delete saved passwords. Click on the **Menu** button and then choose **Logins and Passwords**.
@@ -56,6 +60,10 @@ That’s it you have now cleared all passwords from the Firefox.
 
 [Are Password Managers Safe?](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2 – Delete Saved Passwords in Firefox using Windows Explorer
 
 In this method, you can remove the passwords directly from the Windows explorer. Though, it won’t let you delete single passwords. It will remove all the passwords at once. When you save your password in Firefox, it stores them on your hard drive somewhere. It is usually stored in the Profile folder with the name of logins.jason or signons.sqlite. If you delete this file, all your saved passwords will be gone.
@@ -64,31 +72,29 @@ To locate this file, you need to find the profile folder. To do that, click on t
 
 ![Delete Saved Password Firefox 2-1](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-2-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now click on **Troubleshooting Information**.
 
 ![Delete Saved Password Firefox 2-2](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-2-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you will see the details that are essential in case of troubleshooting. On this page, you will find the location of **Profile Folder**. Click on **Open Folder** to open it directly.
 
 ![Delete Saved Password Firefox 2-3](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-2-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now locate the **logins.jason** file and **Delete** it.
 
 ![Delete Saved Password Firefox 2-4](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-2-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 That’s it, all the saved password from Firefox is gone.
 
@@ -99,23 +105,9 @@ That’s it, all the saved password from Firefox is gone.
 1. ![](https://secure.gravatar.com/avatar/1da8faddc392b0ffd65948fa3cc7324e?s=50&d=mm&r=g)  
 multumescmult  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [January 5, 2021 at 7:50 pm](https://tools.techidaily.com/malwarefox/products/)  
 thank you very much.. method 2 was what ı was looking for..  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -142,16 +134,21 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagrams-video-response-rate-how-to-increase-it/"><u>[New] 2024 Approved Instagram's Video Response Rate How to Increase It</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-iphone-video-editors-cameo-vs-filmorago-showdown/"><u>[New] IPhone Video Editors Cameo Vs. FilmoraGo Showdown</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-troubleshooting-obs-blackouts-on-game-recordings-for-2024/"><u>[New] Troubleshooting OBS Blackouts on Game Recordings for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-pinnacle-performance-the-best-8k-camera-technology/"><u>[Updated] Pinnacle Performance The Best 8K Camera Technology</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/cloud-storage-showdown-analyzing-top-platforms-and-their-offerings/"><u>Cloud Storage Showdown: Analyzing Top Platforms and Their Offerings</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-system-of-iphone-14-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/newly-released-microsoft-edge-beta-version-features-an-integrated-memory-management-tool/"><u>Newly Released Microsoft Edge Beta Version Features an Integrated Memory Management Tool</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/pln-dateien-nicht-verloren-gehen-lassen-entdecken-sie-die-wiederherstellungsmethoden-von-myrecover/"><u>PLN Dateien Nicht Verloren Gehen Lassen! Entdecken Sie Die Wiederherstellungsmethoden Von MyRecover</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/resurrect-your-files-essential-techniques-for-data-retrieval-after-removing-a-disk-segment/"><u>Resurrect Your Files: Essential Techniques for Data Retrieval After Removing a Disk Segment</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/top-rated-no-cost-alternatives-for-saving-your-emails-from-gmail-outlook-and-yahoo/"><u>Top Rated No-Cost Alternatives for Saving Your Emails From Gmail, Outlook & Yahoo</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/ultimate-troubleshooting-tactics-for-severe-operating-system-structural-issues-on-computers/"><u>Ultimate Troubleshooting Tactics for Severe Operating System Structural Issues on Computers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-premium-mac-capture-software-substitutes-for-bandicam/"><u>[Updated] 2024 Approved Premium Mac Capture Software Substitutes for Bandicam</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-cutting-edge-editing-a-magix-video-pro-x-evaluation/"><u>[Updated] In 2024, Cutting-Edge Editing A Magix Video Pro X Evaluation</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-perfect-6-apps-for-private-android-video-capturing-for-2024/"><u>[Updated] Perfect 6 Apps for Private Android Video Capturing for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1-enhanced-conversion-tracking-with-the-help-of-cookiebot-solutions/"><u>1. Enhanced Conversion Tracking with the Help of Cookiebot Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/explore-toms-tech-insights-and-gadget-reviews/"><u>Explore Tom's Tech Insights & Gadget Reviews</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/gas-flow-rate-impacts-both-the-transport-of-charged-particles-and-their-eventual-collection-on-plates/"><u>Gas Flow Rate Impacts Both the Transport of Charged Particles and Their Eventual Collection on Plates.</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-htc-u23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-zte-blade-a73-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from ZTE Blade A73 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/machdd-3/"><u>Macで外付けHDDへファイル転送: 3つのオープンソース手段</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/quick-fix-tips-effortlessly-restore-excel-documents-following-a-system-hiccup/"><u>Quick Fix Tips: Effortlessly Restore Excel Documents Following a System Hiccup</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/step-by-step-tutorial-retrieving-and-restoring-corrupted-microsoft-project-documents/"><u>Step-by-Step Tutorial: Retrieving and Restoring Corrupted Microsoft Project Documents</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/steps-to-retrieve-lost-onedrive-documents-post-synchronization/"><u>Steps to Retrieve Lost OneDrive Documents Post-Synchronization</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/three-methods-for-selective-synchronization-of-specific-folders-on-google-drive/"><u>Three Methods for Selective Synchronization of Specific Folders on Google Drive</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/troubleshooting-tip-resolving-outlooks-cannot-access-standard-mailboxes-issue/"><u>Troubleshooting Tip: Resolving Outlook's 'Cannot Access Standard Mailboxes' Issue</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-removing-unwanted-applications-from-your-samsung-smart-tv/"><u>Ultimate Guide: Removing Unwanted Applications From Your Samsung Smart TV</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-boot-struggles-here-are-5-secure-boot-remedies/"><u>Windows Boot Struggles? Here Are 5 Secure Boot Remedies</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Mechanics Behind Malicious Software Distribution via Spam Emails Explained
-date: 2024-11-12T19:16:59.677Z
-updated: 2024-11-16T21:21:21.114Z
+date: 2024-11-21T16:41:26.538Z
+updated: 2024-11-26T17:33:53.533Z
 tags:
   - product
   - antivirus
@@ -54,16 +54,13 @@ A spam campaign starts with the right contact information. Hackers often have di
 
 ![](https://malwarefox.com/wp-content/uploads/2018/02/arroba.png "arroba")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Moreover, cybercriminals can create crawlers that collect emails on the Internet. These programs can examine websites, social media portals, and forums for email addresses. Along with crawlers, they may use social engineering methods to collect more emails. They may copy websites from reputable organizations that will ask for your personal information. Phishing is also a favorite way to gather information.
 
 Malicious software is also an efficient way to take advantage of your contact list. Ransomware and other similar software can be instructed to infiltrate your email and collect all your contacts. Unsecured networks can also be used to sniff data on your connection. Additionally, they can just buy email databases on the dark web. Information such as [credit card credentials can go as low as $5-$8](https://www.darkreading.com/cloud/cybercrime-a-black-market-price-list-from-the-dark-web/d/d-id/1324895?image%5Fnumber=8). Emails are even cheaper.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Does Spam Email Attack?
 
@@ -74,10 +71,7 @@ The spam email may contain links, attachments, or both. The victim will be direc
 ![](https://malwarefox.com/wp-content/uploads/2018/02/spam-1.png "spam (1)")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The payload will scan for system vulnerabilities in the victim’s computer. Then, it will communicate with the cybercriminals’ server. The payload can do several things such as download more malware, collected information, or encrypt files.
@@ -85,10 +79,7 @@ The payload will scan for system vulnerabilities in the victim’s computer. The
 Attachments can even act faster. The malicious payload hides in the attachment. It is activated when the user downloads and opens the attachment on his/her PC. The payload will begin its attack from there.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WannaCry
@@ -103,16 +94,13 @@ Spam emails, along with malicious ads and infected documents, spread the ransomw
 
 There are numerous types of spam emails. The cyber-criminals can use anything that may attract your attention by a spam email. However, we can group these emails into a few categories.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Advertisements
 
 Advertisements for products and services are one of the most effective spam campaigns. Classic examples are ads for weight loss pills or sexual enhancers. This type of spam email will often ask you to visit a website. From there, hackers will begin the attack on your system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Phishing Emails
 
@@ -124,35 +112,19 @@ The Nigerian prince scam did not become a part of the online pop culture overnig
 
 [How to Remove Adware and Pop-Up Ads](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Spam?
 
 There are newer ways to spread malicious software. But, why do cybercriminals still prefer spam campaigns? Well, spam campaigns are cheap and fast. Hackers can send out emails in bulk. It takes minimal effort on their part. Additionally, they also rely on botnets to spread spam emails faster. Botnets are infected computers that deliver malicious emails to other users through its network and contact list. 
 
 ![](https://malwarefox.com/wp-content/uploads/2018/02/spam-2.png "spam (2)")
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Most users do not even know that their computer is part of a botnet. That means hackers do not need much energy and resources to launch campaigns. A recent [report](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/millions-of-networks-compromised-by-new-reaper-botnet) by TrendMicro reveals that more than a million organizations are part of a growing botnet called Reaper.
 
 Moreover, spam reaches the victims directly. Every time you open your email, there is a possibility of opening a spam email. It also uses links and attachments to drop payloads directly. Spam emails can infect you with anything from spyware to ransomware. The popularity of handheld devices also makes it easier to access emails and receive spam. The more people open their email accounts, the more chances spam emails can get through.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Who are Vulnerable?
 
@@ -168,6 +140,10 @@ Once it compromises the victim’s computer, spam emails and malicious software 
 
 Protecting yourself from spam emails and malicious attacks starts with taking extra steps. Tools are only secondary to habits that you should develop. Here are a few things to remember:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Maintain Clean Inbox
 
 A clean inbox does not only ensure productivity but protection. As much as possible, do not subscribe to unnecessary newsletters. Just subscribe to trusted sites. Empty your spam folder regularly as well.
@@ -179,16 +155,7 @@ It is also recommended to use reliable email service providers. Providers like G
 Do not click links or download attachments without confirming the source. It is especially important if you receive emails from your bank or similar sources. Give them a call or visit their official website to verify. Delete the email if it seems questionable.
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Prioritize Privacy
@@ -210,6 +177,10 @@ You can also run a scan of your system if you suspect of any infection. MalwareF
 [Get MalwareFox Anti-malware Now!](https://tools.techidaily.com/malwarefox/products/)
 
 [5 Steps to Secure Gmail Account from Hackers](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -240,19 +211,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-perfecting-playback-apply-filters-to-video-content-for-2024/"><u>[New] Perfecting Playback Apply Filters to Video Content for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-dive-into-magix-video-pro-x-features/"><u>[Updated] 2024 Approved Dive Into Magix Video Pro X Features</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-file-funneling-transfer-techniques-for-your-computer/"><u>[Updated] In 2024, File Funneling Transfer Techniques for Your Computer</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unlock-the-power-of-cutting-for-beginner-editors/"><u>[Updated] Unlock the Power of Cutting for Beginner Editors</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/comment-migrer-votre-phototheque-de-liphone-14-a-16-vers-un-ordinateur-les-methodes-detaillees/"><u>Comment Migrer Votre Photothèque De L'iPhone 14 À 16 Vers Un Ordinateur : Les Méthodes Détaillées</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/effizientes-arbeiten-mit-volumenschattenkopien-unter-windows-11-eine-umfassende-anleitung/"><u>Effizientes Arbeiten Mit Volumenschattenkopien Unter Windows 11: Eine Umfassende Anleitung</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-problem-prevent-risk-of-rain-2-from-unexpectedly-shutting-down/"><u>Fixing the Problem: Prevent Risk of Rain 2 From Unexpectedly Shutting Down</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722975757480-get-the-latest-nvidia-windows-drivers-compatible-with-11-7-and-8-systems/"><u>Get the Latest NVIDIA Windows Drivers: Compatible with 11, 7 and 8 Systems</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>How to get the dragon scale and evolution-enabled pokemon On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/la-creation-dun-live-usb-personnalise-pour-windows-11-etapes-detaillees-de-configuration-et-execution/"><u>La Création D'un Live USB Personnalisé Pour Windows 11 : Étapes Détaillées De Configuration Et Exécution</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/the-ultimate-guide-four-essential-methods-for-securely-saving-your-gmail-messages-and-files/"><u>The Ultimate Guide: Four Essential Methods for Securely Saving Your Gmail Messages & Files</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-oppo-a78-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Oppo A78</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/wie-man-ein-geheimes-passwort-entfernt-verschlusselte-informationen-von-einer-sd-karte-wiederherstellen/"><u>Wie Man Ein Geheimes Passwort Entfernt: Verschlüsselte Informationen Von Einer SD-Karte Wiederherstellen</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/1728509750058-windows-11/"><u>Windows 11で安全に起動ドライブの完全なバックアップを作成する方法</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-augmenting-our-perception-an-introduction/"><u>[New] Augmenting Our Perception An Introduction</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-free-to-view-performances-film-cast-permissions-for-2024/"><u>[Updated] Free-to-View Performances Film Cast Permissions for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-art-of-logging-streaming-services-with-fidelity/"><u>[Updated] In 2024, The Art of Logging Streaming Services with Fidelity</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/1-quatro-estrategias-simples-para-restaurar-informacoes-apagadas-de-seu-hd-sem-custo/"><u>1. Quatro Estratégias Simples Para Restaurar Informações Apagadas De Seu HD Sem Custo</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/comprehensive-minitool-power-data-recovery-software-analysis-expert-insights-2024/"><u>Comprehensive MiniTool Power Data Recovery Software Analysis - Expert Insights 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-meizu-21-pro-by-drfone-android/"><u>How to Bypass FRP from Meizu 21 Pro?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-enable-adaptive-hdr-tutorial-for-windows-11/"><u>In 2024, Enable Adaptive HDR Tutorial for Windows 11</u></a></li>
+<li><a href="https://facebook.techidaily.com/invisible-framework-social-norms-in-friend-requesting/"><u>Invisible Framework: Social Norms in Friend Requesting</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/samsung-ssdwindows111087/"><u>Samsung SSD無料バックアップツール（Windows11/10/8/7対応）</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/schnelle-losung-zur-wiedergewinnung-von-ordnern-in-windows-nicht-mit-datenverlust/"><u>Schnelle Lösung Zur Wiedergewinnung Von Ordnern in Windows Nicht Mit Datenverlust</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seamless-integration-drivers-for-pci-devices/"><u>Seamless Integration: Drivers for PCI Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/stream-success-starts-here-choosing-the-right-camera-for-twitch-for-2024/"><u>Stream Success Starts Here Choosing the Right Camera for Twitch for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-best-eight-travel-planning-tools-you-cant-miss/"><u>The Best Eight Travel Planning Tools You Can't Miss</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/topfreie-alternativen-zum-kopieren-auf-pcs-unter-windows-11-10-und-alter-kostenlos-verfugbar/"><u>Topfreie Alternativen Zum Kopieren Auf PCs Unter Windows 11, 10 Und Älter - Kostenlos Verfügbar!</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/warum-ihr-iphone-und-ihr-ipad-keine-fotos-synchronisieren-losungen-fur-sie/"><u>Warum Ihr iPhone Und Ihr iPad Keine Fotos Synchronisieren: Lösungen Für Sie</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/kak-pereopredelit-oshibku-nevozmozhno-sozdat-vosstanovitelnyj-disk-v-windows-11-ischerpyvayushee-rukovodstvo-s-resheniyami/"><u>Как Переопределить Ошибку Невозможно Создать Восстановительный Диск В Windows 11 – Исчерпывающее Руководство С Решениями</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/44oh44kj44k544kv44or44o844oiioocrplusodquodvoodsplusocouodgplusodlpluswplusjoobruodhplusodvoocvpluswplusqeaxpplusajiplusmghuobqplusobpoobhoobpg/"><u>ディスクパート クリーンアップ後のデータ復旧手順について</u></a></li>
 </ul></div>
 
