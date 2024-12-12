@@ -1,7 +1,7 @@
 ---
 title: The Mechanics Behind Malicious Software Distribution via Spam Emails Explained
-date: 2024-11-21T16:41:26.538Z
-updated: 2024-11-26T17:33:53.533Z
+date: 2024-12-07T04:15:46.155Z
+updated: 2024-12-11T17:00:36.941Z
 tags:
   - product
   - antivirus
@@ -48,19 +48,23 @@ Once you open the email, you are exposing yourself to different attacks. Spammer
 
 [How to Remove Malware and Cleanup Windows PC](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Do Criminals Collect Emails?
 
 A spam campaign starts with the right contact information. Hackers often have different ways to obtain emails even before launching spam campaigns. The most straightforward is to hack large databases. A perfect example is the [Equifax Data Breach](https://heimdalsecurity.com/blog/equifax-data-breaches-protection-guide/). Countless information from emails to social security information was compromised. Up to this day, consumers still feel the effects of the data breach.
 
 ![](https://malwarefox.com/wp-content/uploads/2018/02/arroba.png "arroba")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Moreover, cybercriminals can create crawlers that collect emails on the Internet. These programs can examine websites, social media portals, and forums for email addresses. Along with crawlers, they may use social engineering methods to collect more emails. They may copy websites from reputable organizations that will ask for your personal information. Phishing is also a favorite way to gather information.
 
 Malicious software is also an efficient way to take advantage of your contact list. Ransomware and other similar software can be instructed to infiltrate your email and collect all your contacts. Unsecured networks can also be used to sniff data on your connection. Additionally, they can just buy email databases on the dark web. Information such as [credit card credentials can go as low as $5-$8](https://www.darkreading.com/cloud/cybercrime-a-black-market-price-list-from-the-dark-web/d/d-id/1324895?image%5Fnumber=8). Emails are even cheaper.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Does Spam Email Attack?
 
@@ -70,17 +74,9 @@ The spam email may contain links, attachments, or both. The victim will be direc
 
 ![](https://malwarefox.com/wp-content/uploads/2018/02/spam-1.png "spam (1)")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The payload will scan for system vulnerabilities in the victim’s computer. Then, it will communicate with the cybercriminals’ server. The payload can do several things such as download more malware, collected information, or encrypt files.
 
 Attachments can even act faster. The malicious payload hides in the attachment. It is activated when the user downloads and opens the attachment on his/her PC. The payload will begin its attack from there.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### WannaCry
 
@@ -90,17 +86,21 @@ Spam emails, along with malicious ads and infected documents, spread the ransomw
 
 [How to Protect from WannaCry Ransomware](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Types of Spam
 
 There are numerous types of spam emails. The cyber-criminals can use anything that may attract your attention by a spam email. However, we can group these emails into a few categories.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Advertisements
 
 Advertisements for products and services are one of the most effective spam campaigns. Classic examples are ads for weight loss pills or sexual enhancers. This type of spam email will often ask you to visit a website. From there, hackers will begin the attack on your system.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Phishing Emails
 
@@ -111,10 +111,6 @@ Phishing emails aim to collect as much information from you. Emails pretending t
 The Nigerian prince scam did not become a part of the online pop culture overnight. It is one of the oldest scams around. Easy money scams such as lottery, business proposals, and other scams easily trick victims. Additionally, there are travel scams, delivery scams, and even online dating scams. The goal is to appeal to your specific interest. It aims to capture your attention and compel you to click a link or download an attachment.
 
 [How to Remove Adware and Pop-Up Ads](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why Spam?
 
@@ -136,12 +132,16 @@ Once it compromises the victim’s computer, spam emails and malicious software 
 
 [What is Adware?](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Protect yourself
 
 Protecting yourself from spam emails and malicious attacks starts with taking extra steps. Tools are only secondary to habits that you should develop. Here are a few things to remember:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Maintain Clean Inbox
@@ -152,10 +152,14 @@ It is also recommended to use reliable email service providers. Providers like G
 
 ![](https://malwarefox.com/wp-content/uploads/2018/02/spam-3.png "spam (3)")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Do not click links or download attachments without confirming the source. It is especially important if you receive emails from your bank or similar sources. Give them a call or visit their official website to verify. Delete the email if it seems questionable.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Prioritize Privacy
@@ -177,10 +181,6 @@ You can also run a scan of your system if you suspect of any infection. MalwareF
 [Get MalwareFox Anti-malware Now!](https://tools.techidaily.com/malwarefox/products/)
 
 [5 Steps to Secure Gmail Account from Hackers](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -211,22 +211,21 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-augmenting-our-perception-an-introduction/"><u>[New] Augmenting Our Perception An Introduction</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-free-to-view-performances-film-cast-permissions-for-2024/"><u>[Updated] Free-to-View Performances Film Cast Permissions for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-art-of-logging-streaming-services-with-fidelity/"><u>[Updated] In 2024, The Art of Logging Streaming Services with Fidelity</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/1-quatro-estrategias-simples-para-restaurar-informacoes-apagadas-de-seu-hd-sem-custo/"><u>1. Quatro Estratégias Simples Para Restaurar Informações Apagadas De Seu HD Sem Custo</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/comprehensive-minitool-power-data-recovery-software-analysis-expert-insights-2024/"><u>Comprehensive MiniTool Power Data Recovery Software Analysis - Expert Insights 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-meizu-21-pro-by-drfone-android/"><u>How to Bypass FRP from Meizu 21 Pro?</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-enable-adaptive-hdr-tutorial-for-windows-11/"><u>In 2024, Enable Adaptive HDR Tutorial for Windows 11</u></a></li>
-<li><a href="https://facebook.techidaily.com/invisible-framework-social-norms-in-friend-requesting/"><u>Invisible Framework: Social Norms in Friend Requesting</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/samsung-ssdwindows111087/"><u>Samsung SSD無料バックアップツール（Windows11/10/8/7対応）</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/schnelle-losung-zur-wiedergewinnung-von-ordnern-in-windows-nicht-mit-datenverlust/"><u>Schnelle Lösung Zur Wiedergewinnung Von Ordnern in Windows Nicht Mit Datenverlust</u></a></li>
-<li><a href="https://driver-error.techidaily.com/seamless-integration-drivers-for-pci-devices/"><u>Seamless Integration: Drivers for PCI Devices</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/stream-success-starts-here-choosing-the-right-camera-for-twitch-for-2024/"><u>Stream Success Starts Here Choosing the Right Camera for Twitch for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-best-eight-travel-planning-tools-you-cant-miss/"><u>The Best Eight Travel Planning Tools You Can't Miss</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/topfreie-alternativen-zum-kopieren-auf-pcs-unter-windows-11-10-und-alter-kostenlos-verfugbar/"><u>Topfreie Alternativen Zum Kopieren Auf PCs Unter Windows 11, 10 Und Älter - Kostenlos Verfügbar!</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/warum-ihr-iphone-und-ihr-ipad-keine-fotos-synchronisieren-losungen-fur-sie/"><u>Warum Ihr iPhone Und Ihr iPad Keine Fotos Synchronisieren: Lösungen Für Sie</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/kak-pereopredelit-oshibku-nevozmozhno-sozdat-vosstanovitelnyj-disk-v-windows-11-ischerpyvayushee-rukovodstvo-s-resheniyami/"><u>Как Переопределить Ошибку Невозможно Создать Восстановительный Диск В Windows 11 – Исчерпывающее Руководство С Решениями</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/44oh44kj44k544kv44or44o844oiioocrplusodquodvoodsplusocouodgplusodlpluswplusjoobruodhplusodvoocvpluswplusqeaxpplusajiplusmghuobqplusobpoobhoobpg/"><u>ディスクパート クリーンアップ後のデータ復旧手順について</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-grab-free-video-profile-backgrounds/"><u>[New] 2024 Approved Grab Free Video Profile Backgrounds</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-capture-gifs-flawlessly-with-macs-top-apps/"><u>[New] Capture GIFs Flawlessly with Mac's Top Apps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-windows-10s-leading-screen-capture-tools-a-comprehensive-list/"><u>[Updated] Windows 10'S Leading Screen Capture Tools A Comprehensive List</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/1-solving-typical-network-connection-issues-a-guide-by-yl-computing/"><u>1. Solving Typical Network Connection Issues: A Guide by YL Computing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-solidify-iphone-footage-top-stabilization-practices-unveiled/"><u>2024 Approved Solidify iPhone Footage Top Stabilization Practices Unveiled</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-t2-pro-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/control-your-systems-updates-how-to-manually-adjust-windows-update-settings-in-the-control-panel-expert-solutions-by-computemastery/"><u>Control Your System's Updates: How to Manually Adjust Windows Update Settings in the Control Panel – Expert Solutions by ComputeMastery</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/elevate-your-digital-workspace-with-exquisite-rbuk-felicity-imagery-from-yl-softwares-innovative-collection/"><u>Elevate Your Digital Workspace with Exquisite RBUK Felicity Imagery From YL Software's Innovative Collection</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/ensuring-adequate-energy-for-your-desktop-or-laptop-tips-from-yl-software-solutions/"><u>Ensuring Adequate Energy for Your Desktop or Laptop - Tips From YL Software Solutions</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/hd-audi-r8-2019-ultra-defined-wallpapers-and-desktop-backgrounds-high-quality-imagery-by-yl-computing/"><u>HD Audi R8 2019 Ultra-Defined Wallpapers & Desktop Backgrounds - High-Quality Imagery by YL Computing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/ideal-web-microphone-solutions-for-2024/"><u>Ideal Web Microphone Solutions for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-year-updated-lg-360-full-review-insights/"><u>New Year, Updated LG 360 Full Review Insights</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/prime-selector-20-twitters-animated-treasure-chest-for-2024/"><u>Prime Selector 2.0 Twitter's Animated Treasure Chest for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-adding-desktop-menus-for-win11-and-w11/"><u>Quick Guide: Adding Desktop Menus for Win11 & W11</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/step-by-step-guide-purchasing-crypto-using-traditional-currencies-insights-by-yl-computing/"><u>Step-by-Step Guide: Purchasing Crypto Using Traditional Currencies - Insights by YL Computing</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/unveiling-the-hazards-of-using-defective-hardware-drivers-insights-from-yl-computing/"><u>Unveiling the Hazards of Using Defective Hardware Drivers - Insights From YL Computing</u></a></li>
 </ul></div>
 
