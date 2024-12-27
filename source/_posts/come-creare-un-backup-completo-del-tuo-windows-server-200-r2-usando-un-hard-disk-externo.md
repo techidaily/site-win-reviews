@@ -1,7 +1,7 @@
 ---
 title: "Come Creare Un Backup Completo Del Tuo Windows Server 200# R2: Usando Un Hard Disk Externo"
-date: 2024-12-17T17:44:36.940Z
-updated: 2024-12-18T17:18:30.159Z
+date: 2024-12-22T23:08:22.890Z
+updated: 2024-12-26T22:00:25.489Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c3aca95005c1c84fe62729c2.jpg
@@ -29,7 +29,7 @@ Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 3
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Sommario** 
@@ -48,7 +48,7 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Introduzione
@@ -72,6 +72,10 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 **Interferenze di Terze Parti**
 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
@@ -113,10 +117,6 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
 Passo 1\. Accedi alle Opzioni di Indicizzazione:
@@ -134,10 +134,6 @@ Sotto la scheda Opzioni Avanzate, clicca su "Ricostruisci."
 Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
@@ -199,6 +195,10 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -214,7 +214,7 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Consigli per un'Operazione Fluida di Windows 10
@@ -226,7 +226,7 @@ Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affronta
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusione
@@ -251,10 +251,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -262,6 +258,10 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 [**Scarica Gratuito**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -280,21 +280,21 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-premier-top-youtube-views-monitor-for-content-success/"><u>[New] 2024 Approved Premier Top YouTube Views Monitor for Content Success</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/mplify-your-online-presence-top-5-effective-youtube-strategies-for-2024/"><u>[New] Amplify Your Online Presence Top 5 Effective YouTube Strategies for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-pro-shooters-guide-the-best-4k-camcorders-ranked/"><u>[Updated] In 2024, Pro Shooters' Guide The Best 4K Camcorders Ranked</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-social-media-showdown-is-likee-set-to-dominate-over-tiktok/"><u>[Updated] Social Media Showdown Is Likee Set to Dominate Over TikTok?</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/effortless-daily-sync-and-safekeeping-on-google-drive-discover-your-top-two-methods/"><u>Effortless Daily Sync and Safekeeping on Google Drive: Discover Your Top Two Methods!</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/erstellen-eines-windows-server-2012-image-drei-effiziente-methoden-erlautern/"><u>Erstellen Eines Windows Server 2012 Image: Drei Effiziente Methoden Erläutern</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/estrategias-faciles-para-salvaguardar-sus-programas-antes-de-actualizar-o-reinstalar-tu-version-de-windows-11-10-8-7/"><u>Estrategias Fáciles Para Salvaguardar Sus Programas Antes De Actualizar O Reinstalar Tu Versión De Windows (11, 10, 8, 7)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-apples-affordable-marvel-ranking-of-cost-free-image-arrangement-apps/"><u>In 2024, Apple's Affordable Marvel Ranking of Cost-Free Image Arrangement Apps</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-mastering-vimeos-end-screens-for-creative-directives/"><u>In 2024, Mastering Vimeo's End Screens for Creative Directives</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-fix-for-ntldr-is-absent-bsod-problem-on-pc-effective-strategies-and-solutions/"><u>Mastering the Fix for 'NTLDR Is Absent' BSOD Problem on PC: Effective Strategies and Solutions</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/paso-a-paso-como-realizar-una-copia-de-seguridad-y-clonacion-completa-de-windows-nten-a-un-disco-ssd-nvme/"><u>Paso a Paso: Cómo Realizar Una Copia De Seguridad Y Clonación Completa De Windows nTen a Un Disco SSD NVMe</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/restaurar-tu-cliente-de-correo-electronico-outlook-mediante-aomei-backupper/"><u>Restaurar Tu Cliente De Correo Electronico Outlook Mediante AOMEI Backupper</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-pathway-to-creating-high-quality-youtube-ads-on-a-dime/"><u>The Pathway to Creating High-Quality YouTube Ads on a Dime</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/ultimate-guide-kingston-memory-stick-repair-and-troubleshooting-tips/"><u>Ultimate Guide: Kingston Memory Stick Repair & Troubleshooting Tips</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/understanding-attack-vectors-strategies-for-prevention-and-protection-insights-from-malwarefox/"><u>Understanding Attack Vectors: Strategies for Prevention & Protection – Insights From MalwareFox</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/1728486534368-windows-10/"><u>Windows 10辦法同時將多張硬碟保存數據:一項全面指南</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-ultimate-review-of-magix-video-pro-x/"><u>[New] The Ultimate Review of Magix Video Pro X</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-beautifying-videos-for-youtube-viewers/"><u>[Updated] In 2024, Beautifying Videos for YouTube Viewers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-insight-advancements-in-home-video-recordings-for-2024/"><u>[Updated] The Ultimate Insight Advancements in Home Video Recordings for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fcps-best-10-plug-ins-a-professionals-list/"><u>2024 Approved FCP's Best 10 Plug-Ins A Professional's List</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-instantaneous-ease-in-podcast-broadcasts/"><u>2024 Approved Instantaneous Ease in Podcast Broadcasts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-about-the-upcoming-nordce-by-oneplus-what-we-know-so-far-on-price-point-release-plans-and-tech-specs/"><u>All About the Upcoming NordCE by OnePlus: What We Know So Far on Price Point, Release Plans and Tech Specs</u></a></li>
+<li><a href="https://games-able.techidaily.com/creating-secure-play-for-young-game-enthusiasts/"><u>Creating Secure Play for Young Game Enthusiasts</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/disabling-windows-firewall-efficiently-through-control-panel-settings-expert-advice-from-yl-software/"><u>Disabling Windows Firewall Efficiently Through Control Panel Settings - Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/easy-guide-finding-specific-files-on-your-pc-tech-tips-from-yl-computing/"><u>Easy Guide: Finding Specific Files on Your PC - Tech Tips From YL Computing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/halted-game-launch-due-to-dx12-error-in-halo-infinite/"><u>Halted Game Launch Due to DX12 Error in Halo Infinite</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-c12-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Nokia C12 Pro to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/ico-investment-strategies-for-beginners-insights-from-leading-tech-firm-yl-software/"><u>ICO Investment Strategies for Beginners: Insights From Leading Tech Firm, YL Software</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/identifying-reasons-behind-non-functional-cddvd-drives-insights-by-yl-computing/"><u>Identifying Reasons Behind Non-Functional CD/DVD Drives - Insights by YL Computing</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/secure-your-data-prevent-unauthorized-file-modifications-and-deletions-on-windows-insights-from-yl-computing/"><u>Secure Your Data: Prevent Unauthorized File Modifications and Deletions on Windows - Insights From YL Computing</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/transferring-files-between-directories-a-step-by-step-guide-by-yl-computing/"><u>Transferring Files Between Directories: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/yl-softwares-sunbeam-collection-stunning-hd-themes-for-laptops-and-pc-backgrounds/"><u>YL Software's Sunbeam Collection: Stunning HD Themes for Laptops and PC Backgrounds</u></a></li>
 </ul></div>
 
