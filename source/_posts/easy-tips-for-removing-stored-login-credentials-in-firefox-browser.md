@@ -1,7 +1,7 @@
 ---
 title: Easy Tips for Removing Stored Login Credentials in Firefox Browser
-date: 2024-12-10T03:50:14.131Z
-updated: 2024-12-12T09:47:12.624Z
+date: 2025-01-02T16:17:19.865Z
+updated: 2025-01-05T18:13:48.297Z
 tags:
   - product
   - antivirus
@@ -38,15 +38,15 @@ You might need to clear all these. Also, if you are giving your PC to someone el
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1 – Delete Saved Passwords in Firefox using Menu
 
 It is the simplest method to delete saved passwords. Click on the **Menu** button and then choose **Logins and Passwords**.
 
 ![Delete Saved Password Firefox 1-1](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-1-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now you will see the Saved Logins Window with the list of all usernames and passwords. You can select single users and click on the **Remove** button to remove them. Also, if you want to delete all passwords in one go, then click on **Remove All** button.
 
@@ -57,16 +57,12 @@ When you delete the single password, it won’t ask anything, but when you elimi
 ![Delete Saved Password Firefox 1-3](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-1-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That’s it you have now cleared all passwords from the Firefox.
 
 [Are Password Managers Safe?](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2 – Delete Saved Passwords in Firefox using Windows Explorer
 
@@ -76,24 +72,28 @@ To locate this file, you need to find the profile folder. To do that, click on t
 
 ![Delete Saved Password Firefox 2-1](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-2-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now click on **Troubleshooting Information**.
 
 ![Delete Saved Password Firefox 2-2](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-2-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now you will see the details that are essential in case of troubleshooting. On this page, you will find the location of **Profile Folder**. Click on **Open Folder** to open it directly.
 
 ![Delete Saved Password Firefox 2-3](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-2-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now locate the **logins.jason** file and **Delete** it.
 
 ![Delete Saved Password Firefox 2-4](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-2-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That’s it, all the saved password from Firefox is gone.
@@ -134,22 +134,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-mac-screen-recorders-ranked-a-comprehensive-analysis/"><u>[Updated] 2024 Approved Top Mac Screen Recorders Ranked A Comprehensive Analysis</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-detailed-insights-into-youtubes-monthly-income-model/"><u>2024 Approved Detailed Insights Into YouTube's Monthly Income Model</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-prime-alert-tones-selective-websites-guide/"><u>2024 Approved Prime Alert Tones Selective Websites Guide</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/diagnose-resolve-compatibility-issues-and-expert-guide/"><u>Diagnose, Resolve Compatibility Issues, and Expert Guide.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-training-regimens-how-combining-whoop-and-apple-watch-benefits-elite-athletes/"><u>Enhancing Training Regimens: How Combining Whoop & Apple Watch Benefits Elite Athletes</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/epic-battlewallas-and-hd-visual-graphics-for-pc-premium-photo-collection-from-yl-software-solutions/"><u>Epic Battlewallas and HD Visual Graphics for PC | Premium Photo Collection From YL Software Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-do-they-harness-gpt-4-insights-on-7-innovative-app-integrations/"><u>How Do They Harness GPT-4? Insights on 7 Innovative App Integrations</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/how-to-diagnose-and-test-your-pc-components-for-peak-efficiency-yl-software/"><u>How To Diagnose and Test Your PC Components for Peak Efficiency - YL Software</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/how-to-safeguard-your-graphics-card-against-harm-expert-tips-by-yl-software/"><u>How to Safeguard Your Graphics Card Against Harm: Expert Tips by YL Software</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-realme-11-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Realme 11 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/innovative-techniques-for-captivating-tiktok-videos-for-2024/"><u>Innovative Techniques for Captivating TikTok Videos for 2024</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/mastering-file-zipping-and-compression-with-windows-insights-from-yl-software-experts/"><u>Mastering File Zipping & Compression with Windows: Insights From YL Software Experts</u></a></li>
-<li><a href="https://review-topics.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-vivo-v30-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/successful-steps-for-fixing-unsuccessful-network-card-driver-setup-insights-by-yl-computing/"><u>Successful Steps for Fixing Unsuccessful Network Card Driver Setup - Insights by YL Computing</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/troubleshooting-scanner-detection-issues-how-to-overcome-the-no-scanner-found-error-with-expert-advice-from-yl-software/"><u>Troubleshooting Scanner Detection Issues: How to Overcome the ‘No Scanner Found’ Error with Expert Advice From YL Software</u></a></li>
-<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Vivo Y27 4G? | Dr.fone</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/yl-computings-guide-to-repairing-failed-storage-drives-strategies-for-success/"><u>YL Computing's Guide to Repairing Failed Storage Drives: Strategies for Success</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-in-the-spotlight-top-viewers-choice/"><u>[New] 2024 Approved In the Spotlight Top Viewers' Choice</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-becoming-an-audacity-recording-virtuoso-for-2024/"><u>[Updated] Becoming an Audacity Recording Virtuoso for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-color-calibration-transitioning-from-traditional-rgb-to-srgb-for-2024/"><u>[Updated] Color Calibration Transitioning From Traditional Rgb to Srgb for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-tickle-tycoon-picture-builder-for-2024/"><u>[Updated] Tickle Tycoon Picture Builder for 2024</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/4-wege-om-geheim-documents-teweegzitterdrijving-in-windows-11/"><u>4 Wege Om Geheim Documents Teweegzitterdrijving In Windows 11</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/1728483016209-usb/"><u>恢复 USB 存储盘被错删的部分区域 - 一个全面指南</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/best-solutions-why-does-the-photos-app-keep-crashing-on-your-iphone-and-how-to-stop-it/"><u>Best Solutions: Why Does the Photos App Keep Crashing on Your iPhone and How to Stop It</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newest-tp-link-wifi-drivers-for-win1187-80211ac-support/"><u>Download the Newest TP-Link WiFi Drivers for Win11/8/7 - 802.11Ac Support</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-troubleshooting-fixing-no-sound-issues-in-toshiba-devices/"><u>Expert Troubleshooting: Fixing No-Sound Issues in Toshiba Devices</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/maximizar-la-cooperacion-remota-reuniendonos-eficazmente-por-medio-de-zoom/"><u>Maximizar La Cooperación Remota: Reuniéndonos Eficazmente Por Medio De Zoom</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-xiaomi-redmi-12-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Xiaomi Redmi 12 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/protecting-your-data-expert-solutions-to-windows-10s-privacy-concerns-with-malwarefox/"><u>Protecting Your Data: Expert Solutions to Windows 10'S Privacy Concerns with MalwareFox</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/top-5-losungen-fur-den-windows-10-fehlermeldung-0x80070422/"><u>Top 5 Lösungen Für Den Windows 10 Fehlermeldung 0X80070422</u></a></li>
+<li><a href="https://article-helps.techidaily.com/top-ringtones-for-game-of-thrones-enthusiasts-online-listings/"><u>Top Ringtones for Game of Thrones Enthusiasts - Online Listings</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/unwanted-file-auto-deletion-prevention-tactics-and-data-restoration-methods/"><u>Unwanted File Auto-Deletion: Prevention Tactics and Data Restoration Methods</u></a></li>
 </ul></div>
 

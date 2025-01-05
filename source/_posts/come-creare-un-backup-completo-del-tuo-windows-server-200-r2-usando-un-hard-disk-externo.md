@@ -1,7 +1,7 @@
 ---
 title: "Come Creare Un Backup Completo Del Tuo Windows Server 200# R2: Usando Un Hard Disk Externo"
-date: 2024-12-22T23:08:22.890Z
-updated: 2024-12-26T22:00:25.489Z
+date: 2024-12-30T17:37:00.343Z
+updated: 2025-01-05T17:12:59.684Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c3aca95005c1c84fe62729c2.jpg
@@ -29,7 +29,7 @@ Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 3
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Sommario** 
@@ -48,7 +48,7 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Introduzione
@@ -56,6 +56,14 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 Incontrare il problema di non poter digitare nella barra di ricerca di Windows 10 può essere frustrante, interrompendo il flusso di lavoro e ostacolando la navigazione efficiente. In questa guida completa, esamineremo i dettagli di questo problema, esploreremo le possibili cause e forniremo una varietà di soluzioni per garantire che tu possa digitare senza problemi nella barra di ricerca di Windows 10.
 
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
 
@@ -72,10 +80,6 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 **Interferenze di Terze Parti**
 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
@@ -196,7 +200,7 @@ Passo 4\. Avvia il Backup:
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
@@ -213,10 +217,6 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -224,10 +224,6 @@ Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e corre
 Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affrontare prontamente i problemi.
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusione
 
@@ -240,6 +236,10 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
@@ -260,7 +260,7 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
@@ -280,21 +280,22 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-the-ultimate-review-of-magix-video-pro-x/"><u>[New] The Ultimate Review of Magix Video Pro X</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-beautifying-videos-for-youtube-viewers/"><u>[Updated] In 2024, Beautifying Videos for YouTube Viewers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-insight-advancements-in-home-video-recordings-for-2024/"><u>[Updated] The Ultimate Insight Advancements in Home Video Recordings for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fcps-best-10-plug-ins-a-professionals-list/"><u>2024 Approved FCP's Best 10 Plug-Ins A Professional's List</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-instantaneous-ease-in-podcast-broadcasts/"><u>2024 Approved Instantaneous Ease in Podcast Broadcasts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/all-about-the-upcoming-nordce-by-oneplus-what-we-know-so-far-on-price-point-release-plans-and-tech-specs/"><u>All About the Upcoming NordCE by OnePlus: What We Know So Far on Price Point, Release Plans and Tech Specs</u></a></li>
-<li><a href="https://games-able.techidaily.com/creating-secure-play-for-young-game-enthusiasts/"><u>Creating Secure Play for Young Game Enthusiasts</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/disabling-windows-firewall-efficiently-through-control-panel-settings-expert-advice-from-yl-software/"><u>Disabling Windows Firewall Efficiently Through Control Panel Settings - Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/easy-guide-finding-specific-files-on-your-pc-tech-tips-from-yl-computing/"><u>Easy Guide: Finding Specific Files on Your PC - Tech Tips From YL Computing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/halted-game-launch-due-to-dx12-error-in-halo-infinite/"><u>Halted Game Launch Due to DX12 Error in Halo Infinite</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-c12-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Nokia C12 Pro to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/ico-investment-strategies-for-beginners-insights-from-leading-tech-firm-yl-software/"><u>ICO Investment Strategies for Beginners: Insights From Leading Tech Firm, YL Software</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/identifying-reasons-behind-non-functional-cddvd-drives-insights-by-yl-computing/"><u>Identifying Reasons Behind Non-Functional CD/DVD Drives - Insights by YL Computing</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/secure-your-data-prevent-unauthorized-file-modifications-and-deletions-on-windows-insights-from-yl-computing/"><u>Secure Your Data: Prevent Unauthorized File Modifications and Deletions on Windows - Insights From YL Computing</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/transferring-files-between-directories-a-step-by-step-guide-by-yl-computing/"><u>Transferring Files Between Directories: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/yl-softwares-sunbeam-collection-stunning-hd-themes-for-laptops-and-pc-backgrounds/"><u>YL Software's Sunbeam Collection: Stunning HD Themes for Laptops and PC Backgrounds</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-blueprint-designing-your-first-youtube-trailer/"><u>[New] In 2024, The Blueprint Designing Your First YouTube Trailer</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/does-your-gpu-contribute-to-pc-overheating-issues-insights-from-yl-computing/"><u>Does Your GPU Contribute to PC Overheating Issues? - Insights From YL Computing</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/ensuring-optimal-computer-temperatures-diagnosing-cooling-system-health-with-yl-software-solutions/"><u>Ensuring Optimal Computer Temperatures: Diagnosing Cooling System Health with YL Software Solutions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploration-summary-discovering-the-benefits-of-owning-an-ipad/"><u>Exploration Summary: Discovering the Benefits of Owning an iPad</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/free-video-converter-for-bangbros-content-convert-and-save-in-mp4-mov-or-avi-format/"><u>Free Video Converter for Bangbros Content - Convert and Save in MP4, MOV, or AVI Format</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-successfully-update-and-solve-amd-fx-8350-drivers-in-windows-environments/"><u>How to Successfully Update and Solve AMD FX 8350 Drivers in Windows Environments</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/legal-framework-of-cryptocurrency-understanding-the-regulations-yl-computing/"><u>Legal Framework of Cryptocurrency: Understanding the Regulations - YL Computing</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/managing-applications-with-windows-control-panel-a-step-by-step-guide-yl-software-solutions/"><u>Managing Applications with Windows Control Panel: A Step-by-Step Guide - YL Software Solutions</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/mastering-your-marketplace-move-expert-insights-on-picking-an-ideal-exchange-yl-software-edition/"><u>Mastering Your Marketplace Move: Expert Insights on Picking an Ideal Exchange - YL Software Edition</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/reactivating-your-laptops-keyboard-illumination-a-comprehensive-guide/"><u>Reactivating Your Laptop's Keyboard Illumination: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/resolving-frequent-wi-fi-disconnections-tips-and-troubleshooting-by-yl-software-team/"><u>Resolving Frequent Wi-Fi Disconnections: Tips and Troubleshooting by YL Software Team</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-unbeatable-prime-day-bargains-get-your-samsung-frame-tv-at-40-off-shop-now-for-top-deals/"><u>Score Unbeatable Prime Day Bargains: Get Your Samsung Frame TV at 40% Off - Shop Now for Top Deals!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/shocking-sale-grab-the-apple-m2-macbook-air-for-under-850-from-amazon-now-wait-its-not-even-prime-time-yet-zdnet/"><u>Shocking Sale: Grab the Apple M2 MacBook Air for Under $850 From Amazon Now – WAIT! It's Not Even Prime Time Yet | ZDNET</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-realme-gt-5-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Realme GT 5</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713963128418-updated-green-screen-is-a-widely-used-effect-in-after-effects-many-professional-photographers-use-it-to-make-creative-video-effects-this-guide-will-show-you/"><u>Updated Green Screen Is a Widely Used Effect in After Effects. Many Professional Photographers Use It to Make Creative Video Effects. This Guide Will Show You How to Use Green Screen to Videos in After Effects for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/urgent-alert-displayport-21-faces-critical-problems-with-uhbr-compatible-cables-why-nvidia-prefers-dp-14-for-rtx-40-series/"><u>Urgent Alert: DisplayPort 2.1 Faces Critical Problems With UHBR-Compatible Cables – Why NVIDIA Prefers DP 1.4 for RTX 40 Series</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/windows-malware-eradication-techniques-professional-solutions-by-yl-software-experts/"><u>Windows Malware Eradication Techniques - Professional Solutions by YL Software Experts</u></a></li>
 </ul></div>
 
