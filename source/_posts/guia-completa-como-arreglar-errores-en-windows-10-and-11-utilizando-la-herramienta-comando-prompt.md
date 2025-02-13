@@ -1,7 +1,7 @@
 ---
 title: "Guía Completa: Cómo Arreglar Errores en Windows 10 & 11 Utilizando La Herramienta Comando Prompt"
-date: 2025-01-27T20:33:02.351Z
-updated: 2025-01-31T17:26:06.430Z
+date: 2025-02-11T02:12:55.107Z
+updated: 2025-02-12T22:34:32.962Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/f3c81d671c8975a0a306f74ea58cef7dc2a77184049b2346fa009262537fb57a.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/f3c81d671c8975a0a306f74ea58cef7dc2a771840
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Wie kann man den Papierkorb vom Desktop entfernen unter Windows 10?
 
@@ -70,10 +66,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 3**. Wählen Sie „**Desktopsymbol-Einstellungen**“ und suchen Sie das Symbol „**Papierkorb**“.
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
@@ -83,7 +75,7 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
@@ -99,7 +91,7 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 [![cmd Papierkorb zurücksetzen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/command-prompt/cmd-reset-recycle-bin.png "cmd Papierkorb zurücksetzen")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Teil 3\. Wie kann man gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen?
@@ -122,20 +114,20 @@ Sicherer Download
 
 [![Scan starten](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-c-to-scan.png "Scan starten")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Schritt 2**. Suchen Sie nach Ihren gewünschten Dateien oder warten Sie, um Ihre gelöschten und anderen fehlenden Dateien nach der Schnell- und Tiefenscan anzuzeigen.
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
@@ -161,17 +153,21 @@ Sicherer Download
 
 [![dateisicherung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/file-backup.png "dateisicherung")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt** **2**. Sie können ihn im Feld „**Aufgabename**“ benennen, um ihn von anderen Backups zu unterscheiden.
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
 
@@ -184,6 +180,10 @@ Wenn Ihr Papierkorb leer angezeigt wird, dies aber nicht der Fall ist, können S
 Wenn Sie den Papierkorb vom Desktop aus leeren möchten, können Sie die im zweiten Teil empfohlene erweiterte Eingabeaufforderung verwenden.
 
 Für [dauerhaft gelöschte Dateien können Sie Ihre Dateien](https://tools.techidaily.com/ubackup/products/) aus den von AOMEI Backupper erstellten Sicherungen wiederherstellen oder Datenrettungstools verwenden, um sie wiederherzustellen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Häufig gestellte Fragen
 
@@ -211,6 +211,10 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 Holiday ist seit dem 1\. Juni 2020 bei AOMEI und beschäftigt sich mit Sichern & Wiederherstellen, Festplatten- und Partitionsverwaltung usw. für AOMEI. Ob Arbeit, Studien oder Leben, sie versucht gerne, neue Dinge zu lernen und denkt, dass Überraschungen auf sie warten, egal wann und wo.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Folgende Artikel könnten Sie auch interessieren
 
 ##### [Gelöschte Bilder vom Computer wiederherstellen | 5 einfache Wege](https://tools.techidaily.com/ubackup/products/)
@@ -235,10 +239,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 [Ja](https://tools.techidaily.com/ubackup/products/)[Nein](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## MyRecover Jetzt Kostenlos Erhalten
 
 Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in Windows.
@@ -248,7 +248,7 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Sauber & Sicher
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
@@ -268,18 +268,22 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-blog.techidaily.com/fixed-destiny-2-crashing-issues-on-pc/"><u>[Fixed] Destiny 2 Crashing Issues on PC</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-instagram-3-key-caption-techniques-for-videos/"><u>[New] Mastering Instagram 3 Key Caption Techniques for Videos</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/breathtaking-natural-landscapes-in-high-definition-4k-portrait-background-images-and-wallpapers-from-yl-software/"><u>Breathtaking Natural Landscapes in High Definition (4K): Portrait, Background Images and Wallpapers From YL Software</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/effective-strategies-for-identifying-and-eliminating-threats-a-deep-dive-into-windows-defenders-mechanisms-guided-by-yl-computing/"><u>Effective Strategies for Identifying and Eliminating Threats: A Deep Dive Into Windows Defender's Mechanisms - Guided by YL Computing</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/hd-hipster-universe-wallpaper-collections-by-yl-computing-yls-high-resolution-graphics/"><u>HD Hipster Universe Wallpaper Collections by YL Computing - YL's High-Resolution Graphics</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-exploiting-youtubes-creative-commons-in-media-making/"><u>In 2024, Exploiting YouTube's Creative Commons in Media Making</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-hot-hands-on-10-must-have-vr-peripherals/"><u>In 2024, Hot Hands-On 10 Must-Have VR Peripherals</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-influencer-collaborations-impacting-video-view-counts/"><u>In 2024, Influencer Collaborations Impacting Video View Counts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/quick-steps-to-efficient-zoom-meetings/"><u>Quick Steps to Efficient Zoom Meetings</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/troubleshooting-scanner-errors-overcoming-incompatible-hardware-challenges-with-tips-from-yl-software/"><u>Troubleshooting Scanner Errors: Overcoming Incompatible Hardware Challenges with Tips From YL Software</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/troubleshooting-sound-issues-uncover-why-your-system-might-be-experiencing-crackling-or-stuttering-advice-by-yl-software-professionals/"><u>Troubleshooting Sound Issues: Uncover Why Your System Might Be Experiencing Crackling or Stuttering – Advice by YL Software Professionals</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlocking-efficient-google-podcast-postings/"><u>Unlocking Efficient Google Podcast Postings</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/yl-software-solutions-understanding-fees-and-subscription-options-for-our-products/"><u>YL Software Solutions: Understanding Fees and Subscription Options for Our Products</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unveiling-the-25-most-followed-insta-prodigies/"><u>[Updated] Unveiling the 25 Most-Followed Insta Prodigies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-your-journey-to-youtubes-command-center-of-creativity/"><u>[Updated] Your Journey to YouTube's Command Center of Creativity</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/affordable-ai-tools-in-action-how-singapores-smes-benefit-from-subsidized-microsoft-copilot-services/"><u>Affordable AI Tools in Action: How Singapore's SMEs Benefit From Subsidized Microsoft Copilot Services</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/capturing-mov-videos-in-windows-11/"><u>Capturing MOV Videos in Windows 11</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/choosing-the-ideal-task-organizer-microsoft-to-do-or-google-tasks-which-one-fits-your-needs-insights-by-zdnet/"><u>Choosing the Ideal Task Organizer: Microsoft To Do or Google Tasks – Which One Fits Your Needs? | Insights by ZDNet</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/effortless-integration-of-wmv-files-with-final-cut-pro-expert-tips-and-tricks/"><u>Effortless Integration of WMV Files with Final Cut Pro - Expert Tips & Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-overcoming-secure-socket-layer-issues-on-the-firefox-platform/"><u>Expert Tips for Overcoming Secure Socket Layer Issues on the Firefox Platform</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/expert-verdict-on-the-most-durable-windows-tablets-with-built-in-stylus-zdnets-top-picks/"><u>Expert Verdict on the Most Durable Windows Tablets with Built-In Stylus - ZDNet's Top Picks!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-out-of-your-graphics-card-amd-radeon-hd-ab-soluteby-downloading-and-updating-drivers-on-windows-10/"><u>Get the Most Out of Your Graphics Card: AMD Radeon HD Ab-Soluteby Downloading and Updating Drivers on Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-dead-iphone-15-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover data from dead iPhone 15 Pro Max | Stellar</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-walking-dead-an-insiders-guide-to-best-zombie-experiences/"><u>In 2024, Walking Dead An Insider's Guide to Best Zombie Experiences</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/microsoft-demonstrates-windows-role-in-shaping-hybrid-working-futures-zdnet/"><u>Microsoft Demonstrates Windows' Role in Shaping Hybrid Working Futures - ZDNet</u></a></li>
+<li><a href="https://article-helps.techidaily.com/p2715q-4k-display-unveiled-a-comprehensive-analysis/"><u>P2715Q 4K Display Unveiled A Comprehensive Analysis</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-stability-issues-a-guide-to-preventing-house-flipper-2-crashes-on-your-computer/"><u>Resolving Stability Issues: A Guide to Preventing House Flipper 2 Crashes on Your Computer</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/revive-your-aging-pc-with-these-5-cost-free-tricks-for-windows-11-users-insights-from-zdnet/"><u>Revive Your Aging PC with These 5 Cost-Free Tricks for Windows 11 Users - Insights From ZDNet</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/the-downsides-of-debloating-your-pc-and-effective-alternatives-explained-by-tech-experts-at-zdnet/"><u>The Downsides of Debloating Your PC & Effective Alternatives Explained by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/unauthorized-activation-of-onedrive-sync-with-windows-11-revealed-what-you-need-to-know/"><u>Unauthorized Activation of OneDrive Sync with Windows 11 Revealed: What You Need to Know</u></a></li>
 </ul></div>
 
